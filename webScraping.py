@@ -61,7 +61,6 @@ def importar_datos(num_paginas):
     
             raw_data_frame=raw_data_frame.append({'Precio': precio_v ,'NCuartos': ncuartos_v[0:1],'Area':area_v[0:1],'NBaños':nbanos_v[0:1],
                                                   'Distrito':distrito_v[4:5],'Amoblado':amob_v,'Mantenimiento':mantenimiento_v,'Cochera':cochera_v,'Azotea':azotea_v}, ignore_index=True)
+      print(count)
       count += 1
-      return raw_data_frame
-    #ruta='C:\Users\Andres\Documents\Proyectos\CEBI PAPER\'
-    #raw_data_frame.to_csv("datos.csv")
+    return raw_data_frame
