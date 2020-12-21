@@ -1,0 +1,4268 @@
+Precio,NCuartos,Area,NBaños,Distrito,Amoblado,Mantenimiento,Cochera,Azotea
+,3,1,3,S,,850,2,no
+860.0,3,90,2.5,San Isidro,Amoblado: Semi-amoblado,350,1,no
+850.0,3,125,3,Santiago de Surco,Amoblado: Amoblado,280,1,si
+1100.0,1,70,1,San Isidro,Amoblado: Amoblado,450,1,no
+1000.0,3,115,3,Santiago de Surco,Amoblado: Amoblado,400,1,no
+486.45,3,95,2,Santiago de Surco,Amoblado: Sin amoblar,150,3,no
+639.33,2,95,2,San Isidro,Amoblado: Sin amoblar,180,,no
+500.35,3,89,2,San Miguel,Amoblado: Sin amoblar,250,,no
+719.94,2,70,2,Miraflores,Amoblado: Amoblado,420,1,no
+778.32,3,126,4,Santiago de Surco,Amoblado: Sin amoblar,350,1,no
+500.35,3,75,2,Surquillo,,200,,no
+850.0,3,100,2,San Borja,,200,,no
+800.0,3,120,2,San Isidro,Amoblado: Sin amoblar,380,2,no
+750.0,3,107,2,San Isidro,Amoblado: Semi-amoblado,408,1,no
+800.0,2,92,2,Miraflores,Amoblado: Amoblado,500,1,si
+639.33,3,88,2,Miraflores,Amoblado: Sin amoblar,220,,no
+2150.0,2,102,2,San Isidro,Amoblado: Sin amoblar,1,1,no
+416.96,3,70,1,Los Olivos,Amoblado: Sin amoblar,,,si
+1100.0,2,96,3,Miraflores,Amoblado: Amoblado,360,1,no
+444.75,1,50,1,Magdalena del Mar,Amoblado: Sin amoblar,200,1,no
+550.0,1,47,1,Miraflores,Amoblado: Amoblado,250,1,si
+1000.0,2,103,2,Barranco,,400,1,no
+550.0,1,50,1,Miraflores,Amoblado: Amoblado,230,1,no
+750.0,3,110,2,San Borja,,200,,no
+458.65,1,50,1,San Isidro,Amoblado: Sin amoblar,200,1,no
+1200.0,2,100,3,Barranco,Amoblado: Sin amoblar,,,no
+950.0,3,145,2,San Isidro,Amoblado: Sin amoblar,150,1,no
+620.0,2,65,2,Surquillo,Amoblado: Amoblado,250,,no
+750.52,1,70,2,Miraflores,Amoblado: Amoblado,270,1,no
+1150.0,3,130,2,Miraflores,Amoblado: Sin amoblar,400,2,no
+472.55,1,45,1,San Isidro,Amoblado: Amoblado,,1,no
+900.0,4,140,,Miraflores,Amoblado: Sin amoblar,,,no
+790.0,1,65,1,Miraflores,Amoblado: Amoblado,350,1,no
+2000.0,3,165,2,San Isidro,,,,no
+555.94,3,97,2,La Molina,,,,no
+15000.0,3,1,4.5,Barranco,Amoblado: Sin amoblar,,,no
+1800.0,3,196,3.5,San Isidro,,,,no
+1450.0,3,126,3,Miraflores,,,,no
+650.0,1,47,1,Lince,Amoblado: Amoblado,210,1,no
+611.53,2,80,2,Miraflores,Amoblado: Amoblado,247,1,no
+555.94,1,56,1,San Isidro,,220,,no
+750.0,3,110,2,Miraflores,Amoblado: Sin amoblar,300,1,no
+1600.0,3,150,3,Miraflores,,,,no
+3000.0,3,260,4,Santa Maria del Mar,Amoblado: Amoblado,350,2,si
+1200.0,2,92,2,Miraflores,Amoblado: Amoblado,350,1,no
+333.56,2,70,1,Chorrillos,,,,no
+444.75,2,80,2,San Miguel,Amoblado: Sin amoblar,40,1,si
+639.33,3,100,2,San Isidro,Amoblado: Amoblado,245,1,no
+1150.0,2,82,1,Miraflores,Amoblado: Amoblado,48,2,no
+950.0,2,100,2,Miraflores,Amoblado: Semi-amoblado,350,1,no
+900.0,2,90,3,Miraflores,Amoblado: Amoblado,280,1,no
+950.0,3,90,2,Miraflores,Amoblado: Sin amoblar,300,1,no
+900.0,2,74,2,Miraflores,Amoblado: Amoblado,300,1,no
+950.0,2,85,2,Miraflores,Amoblado: Amoblado,250,1,no
+8000.0,4,750,6,Barranco,Amoblado: Amoblado,,4,no
+680.0,3,95,3,Miraflores,Amoblado: Semi-amoblado,350,1,si
+900.0,2,103,2,Santiago de Surco,Amoblado: Amoblado,350,1,no
+611.53,4,92,2,Pueblo Libre,Amoblado: Semi-amoblado,100,1,si
+1800.0,3,195,3,San Isidro,Amoblado: Amoblado,550,2,no
+1056.29,5,150,2,San Borja,Amoblado: Sin amoblar,500,2,si
+500.35,2,75,1,Pueblo Libre,Amoblado: Amoblado,200,,no
+2500.0,3,307,4,,,1,3,no
+1700.0,3,270,2.5,Santiago de Surco,Amoblado: Sin amoblar,1,2,no
+1000.0,3,100,3,Santiago de Surco,Amoblado: Sin amoblar,550,2,si
+1350.0,3,226,3,San Borja,Amoblado: Sin amoblar,490,2,no
+1200.0,3,140,3,Santiago de Surco,Amoblado: Sin amoblar,550,2,no
+625.43,3,80,2,Magdalena del Mar,Amoblado: Amoblado,180,,no
+1200.0,3,100,3,Santiago de Surco,Amoblado: Amoblado,550,2,no
+500.35,3,90,2,San Miguel,Amoblado: Sin amoblar,200,1,no
+980.0,3,145,3.5,San Isidro,Amoblado: Semi-amoblado,220,1,no
+1000.0,1,80,2,San Isidro,Amoblado: Amoblado,250,1,no
+1200.0,3,132,3,Barranco,Amoblado: Sin amoblar,,2,no
+3500.0,3,270,4,San Isidro,,2,3,no
+800.0,1,65,1,Miraflores,Amoblado: Amoblado,340,1,si
+3500.0,3,180,3,Miraflores,Amoblado: Amoblado,830,1,no
+900.0,2,87,2,Miraflores,Amoblado: Amoblado,421,1,no
+1499.0,3,160,4,Miraflores,Amoblado: Amoblado,420,,no
+600.0,1,50,1,Barranco,Amoblado: Amoblado,250,1,si
+1100.0,3,110,3,Miraflores,Amoblado: Sin amoblar,350,,no
+750.0,3,130,3,Santiago de Surco,Amoblado: Sin amoblar,250,1,no
+2200.0,3,339,3,San Isidro,Amoblado: Amoblado,1,3,no
+1950.0,3,210,3.5,Miraflores,Amoblado: Sin amoblar,790,2,no
+750.0,3,93,4,Santiago de Surco,Amoblado: Sin amoblar,350,1,no
+1150.0,4,200,3,Magdalena del Mar,Amoblado: Amoblado,300,1,no
+900.0,2,80,2,Miraflores,Amoblado: Sin amoblar,350,1,no
+2500.0,3,380,4,San Isidro,Amoblado: Sin amoblar,1,2,si
+2500.0,3,411,3.5,San Isidro,Amoblado: Sin amoblar,1,3,no
+500.35,2,70,2,Surquillo,Amoblado: Sin amoblar,200,,no
+500.0,1,50,1,Barranco,Amoblado: Amoblado,250,1,no
+500.0,1,50,2,Barranco,Amoblado: Amoblado,280,1,no
+3000.0,4,450,5.5,Barranco,Amoblado: Amoblado,,4,no
+569.84,3,80,2,Lince,Amoblado: Sin amoblar,250,1,no
+650.0,3,100,3,Santiago de Surco,Amoblado: Sin amoblar,350,2,no
+890.0,2,75,2,Miraflores,Amoblado: Amoblado,1,1,no
+600.0,1,48,1,Barranco,Amoblado: Amoblado,220,,no
+1600.0,3,211,3,Santiago de Surco,,740,2,no
+277.97,3,68,2,Ate,,65,,no
+611.53,3,110,2,Santiago de Surco,Amoblado: Sin amoblar,300,1,no
+1800.0,3,215,4,San Isidro,Amoblado: Amoblado,996,1,no
+1900.0,4,263,5,Santiago de Surco,Amoblado: Sin amoblar,900,3,no
+1000.0,2,140,2,San Isidro,,450,,no
+650.0,1,45,1,Barranco,Amoblado: Amoblado,200,1,no
+1100.0,2,128,3,Miraflores,Amoblado: Sin amoblar,500,2,no
+525.0,1,45,1,Barranco,Amoblado: Amoblado,190,,no
+1100.0,3,190,4,San Borja,Amoblado: Sin amoblar,316,,no
+514.24,3,95,2,Santiago de Surco,Amoblado: Sin amoblar,150,1,no
+1200.0,2,170,2,San Isidro,Amoblado: Sin amoblar,550,2,no
+472.55,2,100,2,Miraflores,Amoblado: Amoblado,30,,no
+650.0,1,53,1,San Isidro,Amoblado: Amoblado,320,1,no
+2500.0,3,200,3,Barranco,Amoblado: Amoblado,810,2,no
+750.0,3,125,2,San Borja,Amoblado: Sin amoblar,150,1,no
+2340.0,3,263,3.5,San Isidro,,950,2,no
+1700.0,2,130,2,Santiago de Surco,,,2,no
+1800.0,3,170,2.5,Miraflores,Amoblado: Amoblado,,2,no
+717.16,2,120,2,Santiago de Surco,,270,,no
+535.0,1,40,1,Barranco,Amoblado: Amoblado,,,no
+1200.0,3,120,4,Miraflores,Amoblado: Amoblado,400,1,no
+1100.0,3,134,3,San Isidro,,500,2,no
+850.0,3,110,2.5,Lince,Amoblado: Sin amoblar,240,1,no
+800.0,3,110,2,Miraflores,Amoblado: Sin amoblar,350,1,no
+500.35,2,70,2,Surquillo,,70,,no
+900.0,3,130,3,Santiago de Surco,Amoblado: Semi-amoblado,,1,no
+528.14,2,120,2,Lince,Amoblado: Sin amoblar,230,1,no
+800.0,3,90,2,Miraflores,Amoblado: Amoblado,500,,no
+277.97,1,35,1,Pueblo Libre,Amoblado: Sin amoblar,200,,no
+3500.0,3,330,5,San Isidro,Amoblado: Sin amoblar,1,3,no
+750.52,2,110,3,Magdalena del Mar,Amoblado: Sin amoblar,200,1,no
+800.0,2,60,2,Miraflores,Amoblado: Amoblado,,1,no
+500.35,2,60,1,Miraflores,Amoblado: Sin amoblar,250,1,no
+700.0,1,60,1,Barranco,,290,,no
+694.93,2,75,3,Miraflores,Amoblado: Sin amoblar,445,1,si
+600.0,1,65,1,Barranco,Amoblado: Amoblado,300,1,si
+2300.0,4,340,5,Miraflores,Amoblado: Sin amoblar,1,3,no
+1400.0,3,180,3,San Isidro,Amoblado: Sin amoblar,600,1,no
+2700.0,3,365,4,San Isidro,Amoblado: Sin amoblar,1,4,no
+750.0,2,102,2.5,Miraflores,Amoblado: Sin amoblar,330,1,no
+900.0,2,108,2,Miraflores,Amoblado: Sin amoblar,600,1,no
+694.93,3,85,2,Barranco,Amoblado: Amoblado,,1,no
+1000.0,3,118,3,Santiago de Surco,Amoblado: Amoblado,230,1,no
+750.0,2,100,2,Miraflores,Amoblado: Amoblado,480,1,no
+1000.0,3,130,2,San Borja,Amoblado: Amoblado,350,1,no
+583.74,2,55,2.5,Barranco,Amoblado: Semi-amoblado,,,no
+778.32,2,88,3,Miraflores,Amoblado: Amoblado,350,1,no
+600.0,1,48,1,Barranco,Amoblado: Amoblado,230,,no
+833.91,3,400,3,Miraflores,Amoblado: Amoblado,400,1,no
+1050.0,3,220,2,Santiago de Surco,Amoblado: Sin amoblar,350,1,no
+750.0,3,105,3,Miraflores,Amoblado: Sin amoblar,250,1,no
+980.0,3,105,3,Miraflores,Amoblado: Amoblado,375,1,no
+950.0,2,112,3,San Isidro,Amoblado: Sin amoblar,400,2,no
+458.65,2,60,1,Santiago de Surco,,,,no
+850.0,2,90,2,Jesus Maria,Amoblado: Amoblado,300,,no
+610.0,1,46,1,Miraflores,Amoblado: Amoblado,250,,no
+1600.0,3,184,4,Santiago de Surco,Amoblado: Sin amoblar,750,2,no
+750.0,2,65,1,San Isidro,Amoblado: Amoblado,320,1,no
+2200.0,2,281,3,San Isidro,,1,2,no
+472.55,2,110,1,Santiago de Surco,Amoblado: Sin amoblar,100,,no
+450.0,1,34,1,Miraflores,Amoblado: Sin amoblar,180,1,no
+1000.0,2,92,3,Miraflores,Amoblado: Amoblado,393,1,no
+514.24,3,140,2,La Victoria,,,,no
+800.0,1,51,2,San Isidro,Amoblado: Amoblado,300,1,no
+750.0,3,110,2,San Borja,,200,,no
+2300.0,3,226,,Santiago de Surco,,,,no
+700.0,3,90,2,Surquillo,Amoblado: Sin amoblar,110,,no
+1900.0,3,232,5,San Isidro,,700,3,no
+500.35,3,70,1,Barranco,,,,no
+800.0,3,132,3,Santiago de Surco,Amoblado: Sin amoblar,700,1,no
+1250.0,3,120,3,Miraflores,Amoblado: Amoblado,520,1,no
+470.0,1,50,1,San Miguel,Amoblado: Sin amoblar,,,no
+514.24,1,56,,San Isidro,Amoblado: Amoblado,,,no
+900.0,2,85,2,Surquillo,Amoblado: Amoblado,255,,no
+1100.0,3,140,2.5,Miraflores,Amoblado: Sin amoblar,300,1,no
+833.91,2,83,2,Miraflores,Amoblado: Amoblado,300,1,no
+670.0,2,63,2,Miraflores,Amoblado: Amoblado,390,,no
+277.97,2,55,1,San Borja,Amoblado: Sin amoblar,50,,no
+650.0,3,82,3,Miraflores,Amoblado: Sin amoblar,350,1,no
+1150.0,3,143,3,Santiago de Surco,Amoblado: Sin amoblar,600,2,no
+472.55,2,76,,Lince,Amoblado: Semi-amoblado,80,,no
+472.55,1,48,1,Miraflores,Amoblado: Sin amoblar,,1,no
+2650.0,4,350,5,San Isidro,Amoblado: Sin amoblar,1,3,no
+333.56,1,55,1,Santiago de Surco,Amoblado: Semi-amoblado,60,,si
+389.16,3,62,2,Cercado de Lima,,,,no
+800.0,3,109,2,Miraflores,Amoblado: Sin amoblar,475,2,no
+555.94,3,110,2,San Miguel,Amoblado: Sin amoblar,40,,no
+850.0,3,130,2.5,Santiago de Surco,Amoblado: Sin amoblar,,2,no
+1100.0,3,160,3,Santiago de Surco,Amoblado: Sin amoblar,650,2,no
+900.0,3,112,3,Santiago de Surco,Amoblado: Amoblado,200,2,no
+667.13,3,92,2,San Borja,,,,no
+1100.0,4,120,3,Miraflores,Amoblado: Amoblado,350,,no
+590.0,1,58,1,Miraflores,Amoblado: Amoblado,140,,no
+600.0,1,60,1,San Isidro,Amoblado: Amoblado,200,,no
+1600.0,3,210,3.5,Miraflores,Amoblado: Amoblado,700,1,no
+2500.0,2,127,2,Miraflores,,,,no
+945.1,3,110,2,San Borja,Amoblado: Sin amoblar,270,2,no
+650.0,3,110,2,Santiago de Surco,Amoblado: Sin amoblar,350,1,no
+1000.0,2,100,2,Miraflores,Amoblado: Amoblado,300,1,no
+1800.0,3,210,3.5,Miraflores,Amoblado: Amoblado,700,1,no
+305.77,1,25,1,Pueblo Libre,,,,no
+525.0,1,37,1,Barranco,,,,no
+680.0,2,65,1,Miraflores,Amoblado: Amoblado,200,,no
+600.0,2,76,1,La Molina,,205,1,no
+1250.0,3,148,3,Miraflores,Amoblado: Amoblado,660,1,no
+638.0,2,80,2,Miraflores,Amoblado: Amoblado,247,1,no
+1100.0,3,160,3,Santiago de Surco,Amoblado: Sin amoblar,735,2,no
+600.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+1000.0,2,150,2,San Isidro,Amoblado: Sin amoblar,,1,no
+2500.0,3,275,3,Miraflores,,,,no
+850.0,2,123,3,Santiago de Surco,,,,no
+690.0,2,76,2,Miraflores,,,,no
+780.0,2,100,2,Miraflores,,,,no
+2000.0,3,232,4,San Isidro,,,,no
+1300.0,2,161,3,San Isidro,,,,no
+700.0,1,60,1,San Isidro,,,,no
+528.14,3,80,2,Surquillo,Amoblado: Sin amoblar,200,1,si
+500.0,1,74,1,Miraflores,Amoblado: Sin amoblar,250,,no
+550.0,1,40,1,Barranco,,,,no
+528.14,2,71,2,Pueblo Libre,,,,no
+1500.0,2,145,3,Miraflores,,,,no
+500.35,3,78,2,Santiago de Surco,,,,no
+1800.0,3,225,5,Santiago de Surco,,,,no
+694.93,2,85,1,Miraflores,Amoblado: Amoblado,,1,no
+1200.0,3,250,2,San Isidro,,,,no
+500.35,3,85,2,San Miguel,,150,,no
+528.14,1,64,1,Miraflores,,350,1,no
+550.0,3,90,2,La Molina,,300,,no
+750.0,2,90,2,Miraflores,Amoblado: Amoblado,,1,no
+1050.0,3,120,2,Miraflores,,,,no
+900.0,3,120,,San Isidro,,,,no
+500.35,1,50,1,San Isidro,,,,no
+1323.14,3,180,3,Miraflores,Amoblado: Amoblado,,,no
+1800.0,3,220,3,Santiago de Surco,,,2,no
+850.0,2,112,3,Miraflores,Amoblado: Amoblado,285,,no
+650.0,1,65,1,Miraflores,Amoblado: Amoblado,,,no
+900.0,3,92,3,Barranco,,,,no
+700.0,2,150,3,Miraflores,,300,,no
+444.75,2,75,1,San Miguel,,100,,no
+700.0,1,75,2,Miraflores,Amoblado: Semi-amoblado,250,1,no
+639.33,3,100,2,Jesus Maria,Amoblado: Sin amoblar,120,1,no
+900.0,2,150,3,Miraflores,Amoblado: Amoblado,350,1,no
+778.32,3,105,3,Miraflores,Amoblado: Amoblado,280,1,no
+750.0,2,81,2,Miraflores,Amoblado: Sin amoblar,350,1,no
+660.0,3,100,2,Miraflores,Amoblado: Amoblado,260,,no
+458.65,2,60,1,San Miguel,Amoblado: Semi-amoblado,,,no
+1100.0,3,105,3,Miraflores,Amoblado: Sin amoblar,330,1,no
+1700.0,3,218,2.5,Santiago de Surco,Amoblado: Sin amoblar,790,2,no
+2850.0,3,254,3.5,San Isidro,Amoblado: Amoblado,,2,no
+850.0,3,75,2,Lince,,180,1,no
+3000.0,5,405,5.5,San Borja,Amoblado: Sin amoblar,1,5,no
+2000.0,3,276,4,Santiago de Surco,,,,no
+1200.0,3,163,3.5,Santiago de Surco,Amoblado: Sin amoblar,450,2,no
+850.0,2,120,3,Santiago de Surco,Amoblado: Sin amoblar,400,2,no
+416.96,3,70,2,La Molina,Amoblado: Sin amoblar,120,1,no
+444.75,1,80,1,Magdalena del Mar,Amoblado: Sin amoblar,,,si
+1600.0,3,190,3.5,Santiago de Surco,Amoblado: Sin amoblar,660,2,no
+1150.0,2,100,2,Miraflores,Amoblado: Sin amoblar,350,1,no
+2200.0,3,365,3.5,Santiago de Surco,Amoblado: Sin amoblar,1,3,no
+1000.0,2,55,2.5,Barranco,Amoblado: Amoblado,300,1,no
+850.0,2,100,2,Miraflores,Amoblado: Sin amoblar,350,2,no
+750.0,1,51,2,San Isidro,Amoblado: Amoblado,300,2,no
+1100.0,2,100,3,Miraflores,Amoblado: Sin amoblar,500,2,no
+850.0,3,92,2,Miraflores,Amoblado: Amoblado,650,2,no
+750.0,1,50,1.5,Barranco,Amoblado: Amoblado,170,1,no
+750.0,1,54,1,San Isidro,Amoblado: Amoblado,300,2,no
+850.0,1,76,2,Miraflores,Amoblado: Amoblado,300,1,no
+750.0,1,52,,Barranco,Amoblado: Amoblado,,,no
+700.0,2,57,2,Lince,Amoblado: Amoblado,140,,no
+1400.0,3,230,3.5,Santiago de Surco,Amoblado: Semi-amoblado,820,2,no
+750.0,1,48,1,San Isidro,Amoblado: Amoblado,250,1,no
+1800.0,4,222,3.5,San Isidro,,780,2,no
+1350.0,3,180,2.5,Miraflores,Amoblado: Sin amoblar,540,,no
+850.0,3,110,3,La Molina,,1,,no
+700.0,2,124,1.5,Santiago de Surco,Amoblado: Sin amoblar,,1,no
+850.0,2,100,2,Santiago de Surco,Amoblado: Amoblado,350,1,si
+472.55,3,92,3,Santiago de Surco,Amoblado: Sin amoblar,130,,no
+1100.0,3,180,3,Santiago de Surco,Amoblado: Semi-amoblado,480,2,no
+1350.0,3,160,2.5,Santiago de Surco,Amoblado: Amoblado,500,2,no
+800.0,3,82,2,Surquillo,Amoblado: Sin amoblar,150,1,no
+900.0,1,100,2,San Isidro,Amoblado: Semi-amoblado,,2,no
+747.74,3,90,2,Miraflores,Amoblado: Amoblado,380,1,no
+778.32,3,146,3,Santiago de Surco,Amoblado: Sin amoblar,250,1,no
+520.0,1,40,1,Jesus Maria,Amoblado: Sin amoblar,80,1,si
+285000.0,3,153,2,San Borja,Amoblado: Amoblado,500,1,no
+333.56,2,51,2,Los Olivos,Amoblado: Semi-amoblado,137,,no
+1300.0,3,160,2.5,La Molina,Amoblado: Amoblado,250,2,no
+900.0,2,84,2,Miraflores,Amoblado: Amoblado,330,1,no
+600.0,1,60,1,Miraflores,Amoblado: Amoblado,230,1,no
+694.93,3,90,2,San Miguel,Amoblado: Amoblado,350,1,no
+305.77,3,82,2,Los Olivos,Amoblado: Sin amoblar,,1,si
+1050.0,3,187,3,Miraflores,Amoblado: Amoblado,,1,no
+525.36,1,50,1,Miraflores,Amoblado: Amoblado,220,1,no
+950.0,3,114,3,Miraflores,Amoblado: Amoblado,320,1,no
+880.0,2,100,2,Santiago de Surco,Amoblado: Sin amoblar,295,1,no
+980.0,4,238,3.5,Santiago de Surco,Amoblado: Sin amoblar,,,si
+667.13,2,100,1,San Borja,Amoblado: Sin amoblar,300,1,no
+1190.0,1,92,2,Barranco,Amoblado: Amoblado,500,1,no
+650.0,2,71,2,La Molina,Amoblado: Sin amoblar,150,1,no
+1500.0,3,145,3,San Isidro,Amoblado: Amoblado,430,1,no
+820.01,3,110,4,Miraflores,Amoblado: Sin amoblar,320,1,no
+65.0,3,115,2,Miraflores,Amoblado: Amoblado,,,no
+1500.0,3,209,4,Santiago de Surco,Amoblado: Amoblado,900,4,no
+950.0,2,100,2,Miraflores,Amoblado: Amoblado,550,2,no
+514.24,1,75,1,Santiago de Surco,Amoblado: Sin amoblar,350,,no
+486.45,3,95,2,Santiago de Surco,Amoblado: Sin amoblar,150,,no
+750.0,1,73,1,Barranco,Amoblado: Amoblado,360,1,no
+389.16,1,65,1,Magdalena del Mar,Amoblado: Sin amoblar,100,,no
+525.36,2,7,2,Miraflores,Amoblado: Amoblado,150,1,no
+667.13,2,100,1,San Borja,Amoblado: Sin amoblar,,,no
+250.17,2,90,1,San Juan de Lurigancho,Amoblado: Sin amoblar,,,si
+439.19,1,40,1,Cercado de Lima,Amoblado: Sin amoblar,100,1,no
+694.93,3,105,4,Miraflores,Amoblado: Amoblado,390,1,no
+250.17,2,90,1,San Juan de Lurigancho,Amoblado: Sin amoblar,,,si
+830.0,3,140,3,Miraflores,Amoblado: Sin amoblar,200,1,no
+1100.0,3,163,2,Santiago de Surco,,,2,no
+1550.0,3,209,5,Santiago de Surco,Amoblado: Amoblado,900,4,no
+850.0,2,100,3,Miraflores,Amoblado: Amoblado,600,2,no
+1500.0,2,89,2,Miraflores,Amoblado: Amoblado,,1,no
+500.35,3,70,2,Lince,Amoblado: Sin amoblar,190,,si
+3200.0,3,250,5,San Isidro,Amoblado: Amoblado,900,2,no
+1100.0,3,160,4,Santiago de Surco,Amoblado: Sin amoblar,,2,no
+1350.0,3,140,3,Miraflores,Amoblado: Amoblado,550,2,no
+1700.0,3,253,,Santiago de Surco,Amoblado: Sin amoblar,700,2,no
+1100.0,1,80,1,Miraflores,Amoblado: Amoblado,350,2,no
+2000.0,5,300,4.5,Santiago de Surco,Amoblado: Sin amoblar,1,3,no
+1100.0,3,142,2.5,Miraflores,Amoblado: Sin amoblar,525,2,si
+1100.0,3,120,2,Miraflores,Amoblado: Amoblado,350,2,no
+1000.0,2,70,2,Lince,Amoblado: Amoblado,340,1,no
+850.0,2,100,2,Magdalena del Mar,Amoblado: Amoblado,412,1,no
+900.0,2,80,2,Miraflores,Amoblado: Amoblado,350,1,si
+950.0,3,160,3,Santiago de Surco,Amoblado: Sin amoblar,570,2,no
+361.36,1,41,1,San Miguel,Amoblado: Sin amoblar,120,,no
+1175.0,2,140,3,Miraflores,Amoblado: Amoblado,600,2,no
+1100.0,3,120,2.5,Miraflores,Amoblado: Amoblado,650,2,no
+520.0,1,50,1,Barranco,Amoblado: Amoblado,160,,no
+850.0,2,100,3,Miraflores,,,,no
+639.33,3,100,2,Santiago de Surco,Amoblado: Semi-amoblado,350,,no
+1200.0,3,180,4,Santiago de Surco,Amoblado: Amoblado,180,2,no
+555.94,2,45,2,Cercado de Lima,Amoblado: Amoblado,180,,no
+472.55,2,74,2,Chorrillos,,90,,no
+750.0,1,50,1,Barranco,Amoblado: Semi-amoblado,300,1,no
+1400.0,2,145,,Santiago de Surco,Amoblado: Sin amoblar,510,2,no
+750.0,1,50,1,Miraflores,Amoblado: Amoblado,350,1,no
+800.0,3,128,3,Santiago de Surco,Amoblado: Sin amoblar,350,2,no
+1250.0,3,160,2,San Isidro,Amoblado: Sin amoblar,320,2,no
+750.0,2,98,2,San Isidro,Amoblado: Sin amoblar,,1,si
+1900.0,3,285,4,Santiago de Surco,Amoblado: Sin amoblar,1,2,no
+1100.0,3,204,4,Miraflores,Amoblado: Sin amoblar,650,2,no
+555.94,3,95,2,Santiago de Surco,,150,1,no
+514.24,3,95,2,Santiago de Surco,,150,1,no
+825.0,2,65,1,Miraflores,Amoblado: Amoblado,130,,no
+486.45,3,95,2,Santiago de Surco,,150,,no
+850.0,2,100,2,San Isidro,Amoblado: Amoblado,570,,si
+625.0,1,50,2,Jesus Maria,Amoblado: Amoblado,160,,no
+555.94,3,95,2,Santiago de Surco,,150,1,no
+806.11,2,90,3,Miraflores,Amoblado: Amoblado,350,1,no
+639.33,3,110,2,Santiago de Surco,,150,,no
+666.85,3,95,2,Jesus Maria,Amoblado: Sin amoblar,280,1,no
+416.96,2,54,1,Chorrillos,,90,,no
+528.14,2,60,1,Miraflores,Amoblado: Sin amoblar,150,1,si
+750.0,3,90,2,Santiago de Surco,Amoblado: Sin amoblar,,,no
+550.0,2,60,2,San Miguel,Amoblado: Sin amoblar,,1,no
+750.0,2,90,1.5,Miraflores,Amoblado: Amoblado,300,1,no
+1000.0,3,120,2.5,Miraflores,Amoblado: Amoblado,400,1,no
+416.96,1,41,1,Santiago de Surco,Amoblado: Sin amoblar,105,,no
+555.94,4,130,3,Santiago de Surco,,1,1,no
+700.0,3,100,2,Santiago de Surco,Amoblado: Sin amoblar,300,1,no
+700.0,3,110,2,Santiago de Surco,Amoblado: Sin amoblar,260,1,no
+625.43,3,90,2,Lince,Amoblado: Amoblado,200,,no
+950.0,2,70,2,Miraflores,Amoblado: Amoblado,,1,no
+700.0,3,120,3,Santiago de Surco,,150,1,no
+542.04,3,117,1.5,Surquillo,Amoblado: Sin amoblar,50,1,no
+1000.0,3,117,3,Miraflores,Amoblado: Amoblado,550,2,no
+189.02,1,50,1,Santiago de Surco,,1,,no
+900.0,4,100,2,Miraflores,Amoblado: Amoblado,200,1,no
+750.0,1,75,1,San Isidro,,,,no
+1500.0,3,165,3,Miraflores,Amoblado: Amoblado,300,,no
+650.0,1,50,1,San Isidro,Amoblado: Amoblado,195,1,si
+208.48,1,50,1,Santiago de Surco,,,,no
+1000.0,2,87,2,Miraflores,Amoblado: Amoblado,156,,no
+400.0,2,55,1,Miraflores,Amoblado: Amoblado,,,no
+700.0,1,60,1,Miraflores,Amoblado: Amoblado,200,,si
+1100.0,3,106,2,Miraflores,Amoblado: Amoblado,300,1,no
+420.0,2,60,2,Miraflores,Amoblado: Amoblado,,,no
+630.99,2,75,1,Miraflores,Amoblado: Sin amoblar,,1,no
+700.0,3,106,3,Miraflores,Amoblado: Sin amoblar,350,1,no
+778.32,3,103,2.5,Santiago de Surco,Amoblado: Sin amoblar,350,1,no
+472.55,1,65,2,Santiago de Surco,Amoblado: Semi-amoblado,50,,si
+350.0,1,45,1,Miraflores,Amoblado: Amoblado,,,no
+650.0,1,53,1,Miraflores,Amoblado: Amoblado,260,1,no
+1190.0,3,200,4,San Borja,,450,2,no
+1100.0,3,200,3,Santiago de Surco,Amoblado: Sin amoblar,170,1,no
+850.0,3,164,2,Miraflores,Amoblado: Amoblado,450,2,no
+1100.0,1,80,1.5,Barranco,Amoblado: Amoblado,380,1,no
+500.0,1,50,1,Miraflores,Amoblado: Amoblado,245,,si
+1300.0,2,108,3,Miraflores,Amoblado: Amoblado,650,2,no
+750.0,2,110,2,San Isidro,Amoblado: Amoblado,250,,no
+600.0,1,50,,Miraflores,Amoblado: Amoblado,240,1,no
+920.0,3,96,2,San Borja,,300,2,no
+529.0,1,50,1,San Isidro,Amoblado: Semi-amoblado,215,1,no
+820.0,2,74,2,San Isidro,Amoblado: Amoblado,320,,no
+800.0,2,110,3,Miraflores,Amoblado: Amoblado,480,,no
+800.0,3,120,2,Barranco,Amoblado: Sin amoblar,300,1,no
+785.0,2,83,2,Miraflores,Amoblado: Sin amoblar,548,1,no
+1600.0,3,400,3,Chorrillos,Amoblado: Sin amoblar,700,1,no
+694.93,1,50,1,Miraflores,Amoblado: Amoblado,230,1,no
+800.0,3,90,3,Miraflores,Amoblado: Amoblado,334,1,si
+1050.0,3,156,2,San Isidro,Amoblado: Semi-amoblado,300,1,no
+1000.0,2,90,3,Miraflores,Amoblado: Amoblado,,,no
+800.0,2,110,3,Miraflores,Amoblado: Amoblado,480,1,no
+1300.0,3,180,4,Santiago de Surco,Amoblado: Sin amoblar,,,no
+990.0,3,125,2,Miraflores,Amoblado: Sin amoblar,440,1,no
+950.0,3,130,2,Santiago de Surco,Amoblado: Semi-amoblado,300,1,no
+1200.0,3,111,2,San Borja,Amoblado: Sin amoblar,,1,no
+600.0,1,60,2,Magdalena del Mar,Amoblado: Semi-amoblado,236,1,no
+1000.0,3,100,2,Miraflores,Amoblado: Sin amoblar,340,1,no
+800.0,2,90,2,San Isidro,Amoblado: Sin amoblar,300,1,no
+900.0,2,115,2,Miraflores,Amoblado: Sin amoblar,300,1,no
+1000.0,3,114,2,Miraflores,Amoblado: Sin amoblar,340,,no
+1400.0,3,214,,Santiago de Surco,,680,,no
+1590.0,3,172,4,Miraflores,Amoblado: Amoblado,450,2,no
+800.0,3,140,2.5,Miraflores,Amoblado: Sin amoblar,450,2,no
+950.0,2,120,3,Miraflores,Amoblado: Amoblado,,,no
+800.0,3,80,2,Surquillo,Amoblado: Sin amoblar,260,,no
+750.0,1,45,1,Miraflores,Amoblado: Amoblado,230,,no
+972.9,2,90,2,Miraflores,Amoblado: Amoblado,350,2,no
+1390.0,2,120,2.5,Miraflores,Amoblado: Amoblado,450,3,no
+790.0,2,95,2,San Isidro,Amoblado: Sin amoblar,350,,no
+900.0,2,67,1,San Isidro,Amoblado: Semi-amoblado,450,1,no
+1000.0,3,130,2.5,Miraflores,Amoblado: Amoblado,400,2,no
+750.52,2,76,2,San Borja,Amoblado: Sin amoblar,,1,no
+1000.0,3,101,2,Miraflores,Amoblado: Sin amoblar,,1,no
+444.75,2,72,2,San Miguel,,,,no
+750.0,2,70,2,Barranco,Amoblado: Amoblado,300,1,no
+1800.0,3,270,3,Miraflores,Amoblado: Amoblado,500,2,no
+1100.0,3,160,2.5,Santiago de Surco,Amoblado: Sin amoblar,690,2,no
+700.0,3,101,2,Santiago de Surco,Amoblado: Sin amoblar,300,,no
+800.0,3,130,2,Miraflores,Amoblado: Sin amoblar,450,1,no
+830.0,1,65,1.5,Miraflores,Amoblado: Amoblado,280,1,no
+720.0,3,108,2,Miraflores,Amoblado: Sin amoblar,,1,no
+850.0,3,87,2,Miraflores,Amoblado: Amoblado,380,1,no
+700.0,1,73,1,Lince,Amoblado: Amoblado,140,1,no
+750.0,1,50,1,San Isidro,,,1,no
+1100.0,3,140,,Santiago de Surco,,,,no
+950.0,2,110,3,Miraflores,Amoblado: Amoblado,420,1,no
+1500.0,4,170,2,Miraflores,Amoblado: Sin amoblar,,,no
+1300.0,2,100,2,Miraflores,Amoblado: Amoblado,500,1,no
+800.0,2,120,,Miraflores,Amoblado: Sin amoblar,380,1,no
+925.0,1,63,2,Barranco,,,,no
+1300.0,3,130,2.5,Miraflores,Amoblado: Amoblado,450,2,no
+1800.0,3,160,3,Miraflores,Amoblado: Amoblado,500,2,no
+1400.0,3,190,2.5,Miraflores,,500,1,no
+1400.0,3,150,2.5,San Isidro,Amoblado: Amoblado,350,1,no
+1050.0,3,160,,Miraflores,,570,,no
+1100.0,3,172,3,San Isidro,Amoblado: Amoblado,670,2,no
+580.0,1,42,1,San Isidro,Amoblado: Sin amoblar,200,1,no
+472.55,,78,,San Miguel,,,,no
+700.0,2,78,2,Miraflores,Amoblado: Amoblado,280,1,no
+500.0,1,44,1,Barranco,Amoblado: Amoblado,,1,no
+750.0,2,93,,Miraflores,,380,,no
+694.93,3,105,2,Miraflores,Amoblado: Amoblado,,,no
+500.35,3,105,2,Pueblo Libre,Amoblado: Sin amoblar,80,,no
+444.75,3,80,2,San Miguel,,,,no
+550.0,1,42,1,San Isidro,Amoblado: Sin amoblar,200,1,no
+555.94,3,70,2,Lince,Amoblado: Sin amoblar,230,1,no
+555.94,2,70,1,San Borja,,250,,no
+700.0,1,75,1,Miraflores,Amoblado: Amoblado,261,1,no
+472.55,3,80,2,San Miguel,,120,,no
+472.55,3,75,2,San Miguel,,,,no
+500.35,3,90,2,Pueblo Libre,,80,,no
+333.56,1,52,1,Breña,,,,no
+780.0,1,50,,San Isidro,Amoblado: Amoblado,286,,no
+611.53,3,90,2,Jesus Maria,Amoblado: Sin amoblar,100,1,no
+750.52,2,70,2,Miraflores,Amoblado: Amoblado,230,1,si
+1600.0,3,253,4,Miraflores,,800,1,no
+2400.0,3,250,3.5,Miraflores,Amoblado: Amoblado,700,2,no
+555.94,3,88,2,San Miguel,Amoblado: Sin amoblar,200,1,no
+600.0,3,86,2,Barranco,Amoblado: Sin amoblar,230,1,no
+900.0,2,87,2,Miraflores,Amoblado: Semi-amoblado,300,1,no
+750.52,3,80,1,Miraflores,Amoblado: Sin amoblar,300,1,no
+700.0,2,65,2,San Isidro,Amoblado: Amoblado,180,2,no
+1200.0,3,177,2,San Isidro,Amoblado: Semi-amoblado,650,1,no
+1900.0,3,280,3.5,Santiago de Surco,Amoblado: Sin amoblar,507,2,no
+1945.79,3,200,4,San Isidro,Amoblado: Amoblado,850,2,no
+667.13,3,115,2,Santiago de Surco,Amoblado: Sin amoblar,150,1,no
+1500.0,3,140,4,San Isidro,Amoblado: Amoblado,480,2,no
+1850.0,4,240,,Santiago de Surco,Amoblado: Sin amoblar,680,2,si
+8000.0,6,695,6.5,Barranco,Amoblado: Sin amoblar,2,5,si
+750.0,3,86,3,Miraflores,Amoblado: Amoblado,240,1,no
+750.0,2,105,3,Santiago de Surco,Amoblado: Sin amoblar,380,1,no
+1400.0,3,164,3,San Isidro,Amoblado: Semi-amoblado,540,2,no
+1800.0,4,265,3,Santiago de Surco,,550,3,no
+750.0,2,80,2,Miraflores,Amoblado: Amoblado,300,1,no
+6000.0,4,753,4.5,Barranco,,2,,no
+5500.0,3,370,3,San Isidro,Amoblado: Sin amoblar,,,no
+900.0,2,130,2.5,San Isidro,Amoblado: Amoblado,442,1,si
+800.0,3,113,2,Lince,,280,1,si
+555.94,1,60,1,Santiago de Surco,Amoblado: Amoblado,155,1,no
+1400.0,3,200,3,Santiago de Surco,Amoblado: Sin amoblar,750,2,no
+2900.0,4,320,3.5,Barranco,Amoblado: Sin amoblar,1,2,si
+620.0,2,70,1,San Isidro,Amoblado: Semi-amoblado,100,,no
+2000.0,3,190,2,Miraflores,Amoblado: Sin amoblar,578,1,no
+500.35,2,75,2,Magdalena del Mar,Amoblado: Sin amoblar,170,,si
+600.0,1,38,1,Barranco,Amoblado: Sin amoblar,200,1,no
+1000.0,2,119,2,Miraflores,Amoblado: Amoblado,560,2,no
+780.0,2,101,2,Santiago de Surco,Amoblado: Sin amoblar,340,,no
+1000.0,3,128,2,Lince,,,,no
+1600.0,3,242,3.5,San Isidro,Amoblado: Sin amoblar,1,3,si
+1300.0,3,250,3,Miraflores,Amoblado: Sin amoblar,1,2,no
+3800.0,4,445,4,Miraflores,Amoblado: Sin amoblar,,3,si
+4000.0,3,330,5,San Isidro,Amoblado: Amoblado,1,3,no
+4000.0,3,315,2.5,San Isidro,Amoblado: Sin amoblar,1,2,si
+1100.0,3,120,2,Miraflores,Amoblado: Amoblado,350,1,no
+416.96,1,32,1,Lince,Amoblado: Sin amoblar,120,,si
+458.65,2,105,2,San Miguel,Amoblado: Semi-amoblado,150,,no
+550.0,1,60,1,San Isidro,Amoblado: Amoblado,265,1,no
+2500.0,3,320,3,San Isidro,Amoblado: Sin amoblar,1,2,no
+1250.0,3,192,2,San Borja,Amoblado: Amoblado,200,2,no
+1250.0,3,140,4,Santiago de Surco,Amoblado: Sin amoblar,550,,no
+1600.0,3,242,3,San Isidro,,1,2,no
+90000.0,1,75,1,San Miguel,Amoblado: Sin amoblar,250,1,no
+694.93,3,130,3,La Molina,Amoblado: Sin amoblar,350,,si
+1300.0,3,180,3.5,Santiago de Surco,,,,no
+900.0,2,100,2.5,Lince,,350,1,no
+800.0,3,93,3,Miraflores,Amoblado: Sin amoblar,220,1,no
+528.14,2,80,2,San Borja,Amoblado: Sin amoblar,150,,no
+700.0,2,65,,San Isidro,Amoblado: Amoblado,180,1,no
+1150.0,2,110,2,Miraflores,Amoblado: Semi-amoblado,380,2,no
+750.0,3,85,2,Lince,Amoblado: Sin amoblar,300,1,no
+277.97,3,80,3,Chaclacayo,,130,1,no
+555.94,3,85,2,Magdalena del Mar,,225,1,no
+2000.0,3,210,2.5,Miraflores,Amoblado: Amoblado,700,1,no
+600.0,4,105,2,San Miguel,,85,,no
+900.0,3,140,4,Miraflores,Amoblado: Sin amoblar,350,1,no
+1300.0,3,140,4,Santiago de Surco,Amoblado: Sin amoblar,480,,no
+1700.0,3,196,4,San Isidro,Amoblado: Amoblado,883,1,no
+730.0,3,110,3,Santiago de Surco,Amoblado: Sin amoblar,250,,no
+512.0,2,90,1,La Victoria,,,,no
+550.0,1,50,1,San Borja,Amoblado: Sin amoblar,250,,no
+1300.0,1,89,2,Miraflores,Amoblado: Semi-amoblado,400,1,no
+583.74,3,135,2,Santiago de Surco,Amoblado: Sin amoblar,150,1,no
+1400.0,3,200,4,Miraflores,Amoblado: Sin amoblar,634,2,no
+514.24,3,80,1,Magdalena del Mar,Amoblado: Semi-amoblado,200,,no
+2000.0,2,160,2,San Isidro,,,,no
+1300.0,3,140,4,Santiago de Surco,Amoblado: Sin amoblar,550,,no
+3400.0,2,260,2,San Isidro,Amoblado: Amoblado,,,no
+1900.0,3,200,2,Barranco,Amoblado: Sin amoblar,780,2,no
+416.96,1,55,1,Pueblo Libre,Amoblado: Sin amoblar,1,,si
+990.0,3,150,2.5,San Borja,Amoblado: Sin amoblar,350,1,no
+2000.0,2,169,3,Miraflores,Amoblado: Semi-amoblado,600,2,no
+1000.0,1,110,1.5,San Isidro,Amoblado: Amoblado,500,1,no
+650.0,2,100,2,Miraflores,Amoblado: Sin amoblar,100,1,no
+1290.0,4,200,4,San Borja,,200,2,no
+1000.0,3,113,4,Magdalena del Mar,Amoblado: Semi-amoblado,430,1,si
+800.0,2,85,2,Miraflores,Amoblado: Amoblado,290,1,no
+1100.0,3,1,3,Santiago de Surco,Amoblado: Sin amoblar,500,2,no
+1100.0,2,110,2,San Isidro,Amoblado: Amoblado,330,1,no
+5000.0,5,528,7,Santiago de Surco,,,,no
+1200.0,1,140,,Miraflores,Amoblado: Amoblado,,1,no
+900.0,3,100,3,Miraflores,Amoblado: Sin amoblar,350,1,no
+1200.0,3,138,4,Miraflores,Amoblado: Sin amoblar,480,2,no
+430.85,2,60,1,Pueblo Libre,,80,,no
+2800.0,4,316,4.5,San Isidro,Amoblado: Sin amoblar,980,2,no
+694.93,1,48,1,Barranco,Amoblado: Sin amoblar,350,1,no
+790.0,1,60,2,Miraflores,Amoblado: Amoblado,220,,si
+800.0,3,90,2,Miraflores,Amoblado: Sin amoblar,300,1,no
+1250.0,3,140,3,Santiago de Surco,Amoblado: Sin amoblar,500,,no
+2350.0,3,195,3,Miraflores,,900,3,no
+1700.0,3,140,,Santiago de Surco,,550,2,no
+800.0,3,84,3,Miraflores,Amoblado: Semi-amoblado,300,1,no
+667.13,3,90,2,Santiago de Surco,Amoblado: Sin amoblar,150,1,no
+900.0,2,85,2,Miraflores,Amoblado: Sin amoblar,300,1,no
+1100.0,3,140,2,San Isidro,Amoblado: Amoblado,738,1,no
+800.0,2,78,2,Jesus Maria,Amoblado: Sin amoblar,200,1,no
+1300.0,3,150,2,San Isidro,Amoblado: Sin amoblar,520,1,no
+950.0,2,84,2,Barranco,Amoblado: Semi-amoblado,350,1,no
+1600.0,3,242,,San Isidro,Amoblado: Sin amoblar,1,2,si
+555.94,3,95,2,Santiago de Surco,Amoblado: Sin amoblar,150,1,no
+472.55,3,75,2,Santiago de Surco,,,,no
+1900.0,3,360,4,Santiago de Surco,,,,no
+361.36,1,65,1,San Borja,Amoblado: Amoblado,200,,no
+1500.0,3,150,2.5,San Isidro,Amoblado: Amoblado,550,2,no
+900.0,3,90,3,Lince,Amoblado: Sin amoblar,360,2,no
+1700.0,3,180,3,San Isidro,Amoblado: Amoblado,573,2,si
+5500.0,3,617,2.5,San Isidro,Amoblado: Sin amoblar,2,3,no
+486.45,3,85,2,Santiago de Surco,Amoblado: Sin amoblar,150,1,no
+2000.0,3,190,2,Miraflores,Amoblado: Sin amoblar,578,1,no
+2900.0,3,319,3.5,Barranco,,1,,no
+1200.0,2,125,,Miraflores,,,2,no
+1300.0,2,120,2.5,Miraflores,Amoblado: Amoblado,340,2,no
+1300.0,4,200,2,Barranco,Amoblado: Amoblado,500,2,no
+1000.0,2,90,3,Lince,Amoblado: Sin amoblar,250,1,no
+950.0,3,90,3,Lince,Amoblado: Sin amoblar,360,2,no
+528.14,3,75,2,Santiago de Surco,Amoblado: Semi-amoblado,190,1,si
+1400.0,2,107,3,San Isidro,Amoblado: Sin amoblar,750,1,no
+2100.0,1,90,1,Miraflores,Amoblado: Amoblado,1,,no
+361.36,2,68,2,San Borja,,200,,no
+1100.0,3,185,4,Santiago de Surco,,,,no
+625.43,3,85,2,Miraflores,,300,1,no
+1100.0,2,120,2,Miraflores,Amoblado: Amoblado,100,,no
+1300.0,2,100,2,Barranco,,,,no
+3800.0,3,309,3.5,San Isidro,,2,3,no
+600.0,1,50,1,Miraflores,Amoblado: Amoblado,253,2,no
+1600.0,3,200,3,San Isidro,Amoblado: Amoblado,320,1,no
+1300.0,3,131,2.5,San Isidro,Amoblado: Amoblado,420,2,si
+1000.0,2,121,2,San Isidro,Amoblado: Sin amoblar,300,1,no
+850.0,2,90,2,Miraflores,Amoblado: Sin amoblar,324,1,no
+1600.0,3,175,2.5,San Isidro,Amoblado: Sin amoblar,650,2,si
+694.93,2,82,2,San Miguel,Amoblado: Sin amoblar,250,,no
+833.91,4,100,4,Jesus Maria,,280,1,no
+850.0,3,115,3,Santiago de Surco,Amoblado: Sin amoblar,400,,no
+444.75,3,71,1,San Miguel,,100,,no
+555.94,3,95,2,Santiago de Surco,Amoblado: Sin amoblar,150,1,no
+110.0,1,90,1,Miraflores,Amoblado: Amoblado,,,no
+361.36,2,60,2,Los Olivos,Amoblado: Semi-amoblado,,,no
+850.0,2,85,1,Barranco,Amoblado: Amoblado,350,1,no
+1111.88,3,150,3,Santiago de Surco,Amoblado: Semi-amoblado,,1,no
+850.0,3,150,2,Jesus Maria,Amoblado: Amoblado,150,,no
+555.94,3,100,1,La Molina,Amoblado: Amoblado,350,,si
+277.97,2,58,2,Ate,,100,,no
+1350.0,2,215,2.5,Miraflores,Amoblado: Sin amoblar,600,2,no
+1050.0,4,130,2,Santiago de Surco,,,,no
+1000.0,2,98,3,Miraflores,,,1,no
+900.0,1,47,1,Barranco,Amoblado: Amoblado,240,2,no
+1100.0,2,140,2,Miraflores,Amoblado: Amoblado,300,1,no
+2750.0,3,240,4,Barranco,Amoblado: Sin amoblar,1,2,no
+800.0,1,70,2,Miraflores,Amoblado: Amoblado,220,1,no
+750.0,3,98,2,San Borja,,280,1,no
+1500.0,2,110,2,Barranco,Amoblado: Sin amoblar,170,,no
+750.0,1,46,1,San Isidro,Amoblado: Semi-amoblado,280,1,no
+2300.0,3,215,4,San Isidro,,,,no
+1150.0,2,215,2.5,Miraflores,Amoblado: Amoblado,600,2,no
+850.0,3,113,2,Surquillo,,,,no
+444.75,3,60,1,Santiago de Surco,,,,no
+2000.0,3,182,2.5,San Isidro,Amoblado: Amoblado,1,2,no
+900.0,2,128,2,San Isidro,Amoblado: Amoblado,442,,no
+472.55,2,75,2,Magdalena del Mar,,200,,no
+472.55,1,45,1,Lince,Amoblado: Sin amoblar,140,,no
+1100.0,1,108,3,Miraflores,Amoblado: Amoblado,330,1,no
+850.0,2,100,2,Santiago de Surco,Amoblado: Sin amoblar,300,1,no
+1250.0,2,150,3,San Isidro,,580,3,no
+700.0,2,80,2,Miraflores,Amoblado: Sin amoblar,,1,no
+1290.0,2,193,3,Miraflores,,350,2,no
+1000.0,1,105,1,San Isidro,Amoblado: Amoblado,,,no
+2500.0,3,360,4,San Isidro,Amoblado: Amoblado,1,2,no
+1000.0,2,100,2,Santiago de Surco,,,,no
+750.0,2,74,,Surquillo,Amoblado: Amoblado,250,1,no
+778.32,3,103,2,San Borja,,,,no
+719.94,3,80,2,Magdalena del Mar,Amoblado: Amoblado,180,,no
+500.35,2,75,1,Los Olivos,Amoblado: Amoblado,,,no
+667.13,3,104,3,San Borja,,,,no
+890.0,3,130,3,Santiago de Surco,,270,2,no
+1800.0,3,150,2,Miraflores,Amoblado: Amoblado,750,,no
+670.0,2,92,1.5,Miraflores,Amoblado: Amoblado,350,1,no
+650.0,1,49,1,Lince,Amoblado: Amoblado,250,,no
+277.97,2,100,1,Los Olivos,Amoblado: Amoblado,,,no
+1200.0,3,185,3,Miraflores,,,,no
+1300.0,3,145,3,Miraflores,Amoblado: Sin amoblar,500,,no
+444.75,4,120,3,Los Olivos,,,,no
+780.0,3,90,2,San Borja,,350,2,no
+3200.0,4,523,4.5,San Isidro,Amoblado: Sin amoblar,1,2,no
+305.77,2,75,1,San Juan de Lurigancho,,,,no
+1700.0,1,90,1.5,Miraflores,,,,no
+5500.0,3,618,3,San Isidro,,,,no
+1800.0,2,160,2,San Isidro,Amoblado: Sin amoblar,600,,no
+1600.0,4,200,3,San Isidro,Amoblado: Amoblado,250,1,no
+500.35,2,70,2,Santiago de Surco,,,,no
+4000.0,3,335,3,San Isidro,Amoblado: Sin amoblar,2,3,si
+159000.0,1,70,2,Miraflores,Amoblado: Amoblado,250,,no
+1200.0,2,100,3,Miraflores,Amoblado: Amoblado,,1,no
+583.74,1,60,1,San Isidro,Amoblado: Amoblado,,1,no
+333.56,3,90,2,Los Olivos,,,,no
+750.0,2,103,2,Miraflores,Amoblado: Amoblado,350,1,no
+694.93,3,87,,Magdalena del Mar,Amoblado: Sin amoblar,280,2,no
+1350.0,3,160,4,Santiago de Surco,Amoblado: Sin amoblar,800,2,no
+1000.0,3,141,2,San Isidro,,,,no
+950.0,3,108,3,Barranco,,,1,no
+650.0,3,85,2,Lince,,300,,no
+778.32,3,115,3,San Borja,,400,1,no
+800.0,3,84,2,Miraflores,Amoblado: Semi-amoblado,,1,no
+800.0,2,100,2,Miraflores,Amoblado: Sin amoblar,275,1,no
+1000.0,3,138,2.5,Miraflores,Amoblado: Amoblado,500,1,no
+1000.0,3,120,2,San Isidro,,,,no
+900.0,3,94,2,Barranco,,,1,no
+277.97,3,100,1,Chaclacayo,,,,no
+555.94,1,43,1,Surquillo,,,,no
+750.0,1,50,1,Barranco,Amoblado: Amoblado,180,,no
+6500.0,4,460,3.5,Miraflores,Amoblado: Amoblado,,,no
+583.74,2,65,2,Jesus Maria,,,,no
+1300.0,3,110,,Santiago de Surco,Amoblado: Amoblado,,2,no
+1100.0,3,138,2.5,Miraflores,Amoblado: Amoblado,500,1,no
+444.75,2,32,2,San Miguel,Amoblado: Sin amoblar,50,,no
+514.24,3,90,,Magdalena del Mar,,150,,no
+444.75,1,40,1,Santiago de Surco,Amoblado: Sin amoblar,,,no
+595.0,1,44,1,Barranco,,160,1,no
+5500.0,4,617,3,San Isidro,Amoblado: Sin amoblar,2,3,no
+694.93,2,90,2,Santiago de Surco,Amoblado: Sin amoblar,200,,no
+790.0,2,115,2,Miraflores,Amoblado: Amoblado,395,1,no
+550.0,2,65,1,Santiago de Surco,Amoblado: Sin amoblar,180,1,no
+800.0,3,110,2,Santiago de Surco,,,1,no
+305.77,2,60,1,Ate,,,,no
+1300.0,4,198,2.5,San Isidro,Amoblado: Sin amoblar,550,3,no
+1000.0,3,190,2,La Molina,Amoblado: Sin amoblar,120,2,no
+694.93,4,124,2,San Borja,,,,no
+750.0,3,100,2,La Molina,Amoblado: Sin amoblar,35,,si
+2000.0,3,190,2.5,Miraflores,Amoblado: Sin amoblar,578,2,no
+458.65,2,80,2,Pueblo Libre,,,,no
+550.0,1,34,1,Barranco,,,,no
+600.42,2,120,1,La Molina,Amoblado: Amoblado,350,,no
+3600.0,4,370,3.5,Miraflores,Amoblado: Amoblado,1,,no
+850.0,3,100,2,San Borja,Amoblado: Sin amoblar,,1,no
+800.0,2,80,2,Barranco,Amoblado: Amoblado,,,no
+416.96,2,40,1,Santiago de Surco,Amoblado: Sin amoblar,,,no
+750.0,2,80,3,Miraflores,Amoblado: Amoblado,212,1,no
+900.0,2,100,2,Miraflores,Amoblado: Amoblado,450,1,no
+1800.0,3,190,2.5,San Isidro,Amoblado: Amoblado,575,2,no
+920.0,2,95,2,Miraflores,,,,no
+2000.0,3,290,2,Miraflores,,,,no
+900.0,3,126,3,Miraflores,,,,no
+555.94,3,79,2,Santiago de Surco,,,,no
+1000.0,1,167,1.5,San Isidro,Amoblado: Amoblado,580,1,no
+1200.0,3,181,4,Santiago de Surco,Amoblado: Sin amoblar,500,3,no
+667.13,3,89,3,Surquillo,,,,no
+1100.0,3,91,2,Miraflores,Amoblado: Amoblado,210,,no
+861.71,2,110,2,San Isidro,Amoblado: Sin amoblar,330,1,no
+1100.0,4,160,4,Santiago de Surco,,,,no
+800.0,2,85,1,Miraflores,Amoblado: Amoblado,200,,no
+590.0,1,70,1,Miraflores,Amoblado: Sin amoblar,270,,no
+800.0,1,70,1.5,Barranco,Amoblado: Amoblado,300,1,no
+1250.0,2,180,2,Miraflores,Amoblado: Amoblado,510,2,no
+667.13,3,92,3,Miraflores,,400,1,no
+520.0,1,50,1,Miraflores,Amoblado: Amoblado,120,,no
+700.0,2,6,,San Isidro,Amoblado: Amoblado,180,2,no
+1150.0,2,100,1,San Isidro,Amoblado: Amoblado,490,1,no
+2500.0,2,281,2.5,San Isidro,,1,2,no
+560.0,1,60,1,Miraflores,,385,,no
+650.0,3,85,,Lince,Amoblado: Sin amoblar,300,,no
+900.0,3,120,2,Miraflores,,270,,no
+764.42,3,75,2,Surquillo,,,,no
+1100.0,2,109,2,San Isidro,Amoblado: Amoblado,348,,no
+610.0,1,40,1,Barranco,,,,no
+2500.0,3,380,4,San Isidro,Amoblado: Sin amoblar,1,,no
+550.0,1,30,1,Miraflores,Amoblado: Amoblado,,,no
+236.27,1,35,1,San Martin de Porres,Amoblado: Sin amoblar,60,,no
+416.96,2,60,2,Surquillo,,,,no
+900.0,2,77,2,San Isidro,Amoblado: Amoblado,,,no
+2700.0,2,281,4,San Isidro,Amoblado: Sin amoblar,1,2,si
+639.33,2,80,2,Jesus Maria,,250,,no
+1000.0,3,150,3,Magdalena del Mar,Amoblado: Amoblado,,,no
+1400.0,2,154,2,San Isidro,,,,no
+1350.0,1,100,2,Santiago de Surco,Amoblado: Amoblado,,,no
+389.16,1,37,1,Surquillo,,,,no
+1900.0,3,203,2.5,San Isidro,,,,no
+650.0,2,83,1,Santiago de Surco,,,,no
+800.0,1,60,1.5,Miraflores,Amoblado: Sin amoblar,,,no
+500.0,3,75,2,Jesus Maria,,,,no
+1400.0,2,102,2,Barranco,,,,no
+555.94,4,98,2,Ate,,,,si
+555.94,3,95,2,Santiago de Surco,Amoblado: Sin amoblar,,1,no
+1250.0,3,112,2,Barranco,,400,1,no
+850.0,1,60,1,Miraflores,Amoblado: Amoblado,,1,no
+1500.0,2,150,2,San Isidro,,,,no
+850.0,3,128,2,Miraflores,,294,,no
+416.96,3,75,2,Chorrillos,,,,no
+2000.0,3,155,3,Miraflores,Amoblado: Amoblado,450,1,no
+600.0,1,60,1,Miraflores,Amoblado: Sin amoblar,,,no
+250.17,2,50,1,Santiago de Surco,,,,no
+583.74,3,87,2,San Miguel,,,,no
+1500.0,2,211,3,Miraflores,,,,no
+800.0,2,70,1,Miraflores,Amoblado: Amoblado,280,,no
+830.0,3,91,2,Miraflores,Amoblado: Semi-amoblado,250,1,no
+850.0,3,115,2,Santiago de Surco,Amoblado: Sin amoblar,400,1,no
+350.0,2,67,1,Los Olivos,Amoblado: Sin amoblar,30,,no
+583.74,1,60,1,San Miguel,Amoblado: Semi-amoblado,250,,no
+486.45,2,104,2,La Molina,Amoblado: Sin amoblar,70,,no
+2500.0,3,350,3,Santiago de Surco,Amoblado: Sin amoblar,1,3,no
+514.24,2,85,2,Jesus Maria,,210,,no
+1800.0,3,200,2,Miraflores,,,,no
+700.0,1,60,1,Miraflores,Amoblado: Amoblado,280,1,no
+1200.0,3,125,3,Santiago de Surco,,,,no
+1490.0,3,140,4,Miraflores,,,,no
+1400.0,3,196,2.5,San Borja,Amoblado: Sin amoblar,800,,no
+850.0,2,100,2,Miraflores,Amoblado: Amoblado,320,1,no
+2000.0,3,190,3,Miraflores,,,,no
+1200.0,1,60,2,Miraflores,,,,no
+1300.0,3,156,2,San Borja,,,,no
+850.0,3,112,1,Miraflores,Amoblado: Semi-amoblado,430,1,no
+730.0,3,100,4,Santiago de Surco,,350,2,no
+260.0,2,67,1,Los Olivos,,120,,no
+1300.0,3,150,2,San Isidro,,,,no
+950.0,2,67,2,San Isidro,,,,no
+152.88,3,89,2,Chorrillos,,,,no
+1200.0,2,85,2,Miraflores,Amoblado: Amoblado,340,1,no
+850.0,2,82,2,Miraflores,,450,,no
+792.21,2,89,2,Lince,,,,no
+1500.0,3,251,3.5,Santiago de Surco,Amoblado: Sin amoblar,760,2,no
+1600.0,3,260,4,Santiago de Surco,,,,no
+900.0,2,115,2,Miraflores,,,,no
+850.0,2,120,1,Miraflores,Amoblado: Sin amoblar,,,si
+778.32,3,133,2,San Isidro,,300,1,no
+1000.0,3,110,2,Santiago de Surco,Amoblado: Amoblado,450,1,no
+700.0,1,60,1,Miraflores,,170,,no
+750.0,1,50,1,Miraflores,Amoblado: Amoblado,160,,no
+465000.0,3,320,4,Santiago de Surco,,650,2,no
+650.0,1,60,1,Barranco,Amoblado: Amoblado,195,1,no
+1000.0,3,190,,Miraflores,Amoblado: Semi-amoblado,,1,no
+6500.0,4,460,3.5,Miraflores,,,,no
+639.33,3,80,2,Miraflores,,,,no
+750.0,3,130,2,La Molina,,,,no
+444.75,1,44,1,San Miguel,,250,1,no
+650.0,1,65,,Barranco,,,,no
+1600.0,3,180,3,Miraflores,Amoblado: Amoblado,250,2,no
+555.94,3,76,2,San Miguel,,,,no
+444.75,1,44,1,San Miguel,,250,,no
+750.0,3,100,2,Miraflores,Amoblado: Sin amoblar,300,,no
+1450.0,3,220,2,Miraflores,,750,,no
+236.27,2,45,1,San Martin de Porres,,,,no
+620.0,1,51,1,Magdalena del Mar,Amoblado: Amoblado,120,,no
+667.13,3,95,3,Pueblo Libre,,,,no
+361.36,1,45,1,Surquillo,,,,no
+1350.0,3,120,2,Miraflores,Amoblado: Amoblado,270,,no
+1100.0,3,190,2.5,Santiago de Surco,Amoblado: Sin amoblar,1,2,no
+472.55,2,98,1,Santiago de Surco,Amoblado: Semi-amoblado,200,,no
+700.0,3,90,2,Magdalena del Mar,,,,no
+1300.0,2,100,2,Barranco,,,,no
+15000.0,3,160,3,Punta Hermosa,,,,no
+486.45,2,104,2,La Molina,,80,,no
+650.0,3,85,3,Miraflores,,,,no
+1200.0,3,141,4,Surquillo,,,,no
+1500.0,3,205,3.5,Santiago de Surco,,,,no
+583.74,2,72,2,Pueblo Libre,Amoblado: Amoblado,,,no
+1500.0,2,134,4,San Isidro,,,,no
+890.0,1,60,1,Miraflores,Amoblado: Amoblado,27,1,no
+500.35,2,68,2,Surquillo,,,,no
+555.94,3,65,2,Cercado de Lima,,,,no
+1200.0,3,151,2.5,San Isidro,Amoblado: Amoblado,320,,no
+1600.0,3,180,3,Miraflores,,,,no
+550.0,3,85,2,Magdalena del Mar,Amoblado: Sin amoblar,,,no
+800.0,2,120,2,Santiago de Surco,,,,no
+208.48,1,39,1,San Juan de Lurigancho,,,,no
+850.59,2,100,2,San Isidro,,,,no
+800.0,2,100,2,Miraflores,,,,no
+2200.0,3,200,2.5,San Isidro,,,,no
+1000.0,3,120,2,Miraflores,Amoblado: Amoblado,1,1,no
+1350.0,3,237,3,Santiago de Surco,Amoblado: Sin amoblar,375,2,no
+1000.0,1,80,1.5,San Isidro,,476,1,no
+472.55,1,56,1,Surquillo,,270,1,no
+8500.0,3,150,2,Pachacamac,,,,no
+1300.0,3,147,3,Santiago de Surco,,,,no
+277.97,4,140,1,San Martin de Porres,,,,no
+444.75,1,45,1,Lince,,,,no
+700.0,1,48,2,Jesus Maria,,,,no
+1000.0,2,90,2,San Isidro,,,,no
+3000.0,4,450,5.5,Santiago de Surco,,1,3,no
+806.11,3,82,2,San Borja,,,,no
+950.0,2,95,2,Miraflores,Amoblado: Amoblado,,,no
+444.75,3,64,2,San Miguel,,,,no
+900.0,1,112,3,Miraflores,,,,no
+389.16,3,89,1,San Miguel,,,,no
+860.0,2,100,2,Miraflores,,,,no
+472.55,3,74,,Santiago de Surco,,,,no
+1000.0,3,112,2,Miraflores,,,,no
+700.0,1,48,2,Jesus Maria,,,,no
+500.35,2,49,1,Magdalena del Mar,,,,no
+222.38,3,56,,Comas,,,,no
+1000.0,2,90,2,Magdalena del Mar,,,,no
+1100.0,3,135,2,Miraflores,,,,no
+639.33,2,60,1,Santiago de Surco,,,,no
+850.0,2,85,2,Miraflores,,,,no
+750.52,2,90,2,Miraflores,Amoblado: Sin amoblar,248,1,no
+1700.0,3,225,4,Miraflores,,,,no
+1200.0,4,120,2,Miraflores,,,,no
+2400.0,3,292,2,Miraflores,,,,no
+555.94,4,113,2,Santiago de Surco,,,,no
+620.0,1,60,1.5,Miraflores,Amoblado: Sin amoblar,276,1,no
+694.93,4,,2,Los Olivos,,,,no
+1200.0,3,167,2.5,Miraflores,Amoblado: Amoblado,651,1,no
+1600.0,3,204,3,Miraflores,Amoblado: Sin amoblar,948,2,no
+389.16,3,66,2,Chorrillos,,,,no
+800.0,3,100,3,Santiago de Surco,,,,no
+600.0,1,35,1,Miraflores,Amoblado: Amoblado,169,,no
+472.55,2,80,1,San Miguel,,,,no
+180.68,2,70,1,Puente Piedra,,,,no
+1200.0,3,125,,Miraflores,,,,no
+152.88,2,60,1,Puente Piedra,,,,no
+694.93,3,103,2,San Isidro,,,,no
+416.96,2,90,1,San Martin de Porres,,,,no
+800.0,2,59,2,Barranco,,,,no
+1400.0,,154,,San Borja,,,,no
+611.53,2,80,2,San Isidro,,,,no
+2800.0,4,400,4.5,Santiago de Surco,Amoblado: Sin amoblar,2,3,no
+25000.0,,1,,La Victoria,,,,no
+416.96,2,85,,San Martin de Porres,,,,no
+1500.0,3,136,3,Miraflores,,,,no
+1400.0,2,154,3,San Isidro,,,,no
+555.94,3,96,2,San Miguel,,,,no
+681.03,2,80,2,Breña,Amoblado: Sin amoblar,,,no
+1275.88,3,174,4,San Isidro,,,,no
+980.0,2,126,2.5,Miraflores,,,,no
+305.77,1,45,1,San Miguel,,,,no
+650.0,2,75,1,Miraflores,,20,,no
+2400.0,1,100,1,Miraflores,Amoblado: Amoblado,1,,no
+1028.49,3,,3,Miraflores,,,,no
+416.96,3,85,2,Comas,,,,no
+361.36,3,,2,San Martin de Porres,,,,no
+1463.23,4,200,3,San Isidro,Amoblado: Amoblado,,,no
+1500.0,3,145,2.5,Miraflores,Amoblado: Amoblado,540,2,no
+700.0,2,85,2,Miraflores,Amoblado: Semi-amoblado,,,no
+555.94,1,40,1,Jesus Maria,Amoblado: Sin amoblar,150,,no
+250.17,2,80,2,Los Olivos,,,,no
+833.91,3,,3,Magdalena del Mar,,,,no
+361.36,3,80,2,Los Olivos,,,,no
+580.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+600.0,3,160,2,Punta Hermosa,,,,no
+900.0,,51,,Barranco,,,,no
+416.96,3,85,2,Comas,,,,no
+800.0,3,130,3,San Borja,Amoblado: Sin amoblar,,1,no
+416.96,1,36,1,Miraflores,,,,no
+700.0,,45,,Miraflores,,,,no
+1500.0,4,230,3,Miraflores,Amoblado: Amoblado,,1,no
+950.0,3,,,San Isidro,,,,no
+1900.0,2,190,,Miraflores,,,3,no
+900.0,3,140,2,San Borja,Amoblado: Sin amoblar,,1,no
+444.75,2,60,1,San Borja,,,,no
+750.0,3,66,2,Lince,Amoblado: Sin amoblar,,1,no
+950.0,3,163,2,Santiago de Surco,Amoblado: Sin amoblar,400,2,no
+1800.0,3,187,3,Miraflores,Amoblado: Amoblado,528,2,no
+1100.0,3,200,3,Santiago de Surco,Amoblado: Sin amoblar,,1,no
+620.0,3,100,2,La Molina,,,,no
+1400.0,4,180,5,Santiago de Surco,,300,,no
+722.72,2,72,2,Jesus Maria,Amoblado: Amoblado,250,,si
+650.0,1,40,1,Miraflores,Amoblado: Amoblado,220,1,si
+2500.0,2,90,2,Jesus Maria,Amoblado: Semi-amoblado,240,1,no
+639.33,3,111,3,Jesus Maria,Amoblado: Sin amoblar,150,,no
+639.33,3,72,2,Magdalena del Mar,Amoblado: Semi-amoblado,195,,si
+333.56,3,73,2,Comas,,,,no
+372.48,3,83,2,Chaclacayo,Amoblado: Sin amoblar,130,,no
+361.36,3,70,2,San Martin de Porres,Amoblado: Semi-amoblado,,,si
+180.68,2,55,1,San Martin de Porres,Amoblado: Sin amoblar,,,si
+597.64,2,84,2,San Borja,Amoblado: Sin amoblar,145,,si
+650.0,3,160,2,Santiago de Surco,Amoblado: Sin amoblar,,,si
+611.53,2,94,2,Jesus Maria,Amoblado: Sin amoblar,290,1,no
+2200.0,3,187,3,Santiago de Surco,Amoblado: Amoblado,600,,no
+680.0,1,62,1.5,Miraflores,Amoblado: Amoblado,230,1,no
+900.0,3,110,3,Santiago de Surco,Amoblado: Amoblado,35,1,no
+250.17,1,28,1,La Molina,Amoblado: Sin amoblar,,,si
+378.04,2,56,1,La Molina,,,,no
+1650.0,2,130,3,Miraflores,Amoblado: Amoblado,,,no
+500.35,3,90,3,San Miguel,Amoblado: Sin amoblar,200,1,no
+472.55,1,35,1,San Borja,Amoblado: Semi-amoblado,,,si
+361.36,1,55,1,Lince,,1,,no
+500.35,3,72,2,Chorrillos,Amoblado: Semi-amoblado,140,1,no
+980.0,3,120,2,San Borja,Amoblado: Sin amoblar,330,2,no
+1250.0,3,150,4,San Isidro,Amoblado: Amoblado,500,2,si
+1500.0,4,245,4,Santiago de Surco,Amoblado: Semi-amoblado,450,2,no
+900.0,1,65,1,Miraflores,Amoblado: Amoblado,300,1,si
+277.97,1,30,1,Miraflores,Amoblado: Sin amoblar,250,,no
+1800.0,3,423,4,Santiago de Surco,Amoblado: Sin amoblar,500,2,no
+2500.0,3,248,2,San Borja,Amoblado: Sin amoblar,800,2,no
+850.0,2,95,2,Miraflores,Amoblado: Amoblado,355,1,si
+550.0,1,40,1,Barranco,Amoblado: Amoblado,200,1,no
+900.0,4,200,3,Santiago de Surco,,,,si
+1200.0,1,110,1,San Isidro,Amoblado: Amoblado,260,1,no
+699.0,1,40,1,Barranco,Amoblado: Amoblado,230,,no
+900.0,3,99,4,Lince,,380,1,no
+2500.0,4,360,6,Miraflores,Amoblado: Amoblado,800,2,no
+1390.0,3,167,4,Santiago de Surco,,800,2,no
+694.93,3,80,2,Jesus Maria,,200,,si
+500.35,3,73,2,Santiago de Surco,Amoblado: Sin amoblar,250,1,no
+820.0,3,111,4,San Borja,Amoblado: Sin amoblar,550,2,no
+1800.0,3,215,4,Santiago de Surco,Amoblado: Sin amoblar,850,2,no
+1000.0,2,100,3,,Amoblado: Amoblado,350,1,no
+444.75,2,58,2,Breña,Amoblado: Sin amoblar,200,1,no
+750.0,2,77,2,Jesus Maria,Amoblado: Semi-amoblado,170,1,no
+650.0,1,41,1,Barranco,Amoblado: Amoblado,200,,no
+694.93,3,70,1,Miraflores,Amoblado: Sin amoblar,250,,no
+1111.88,3,230,2,Santiago de Surco,Amoblado: Sin amoblar,400,2,no
+1150.0,3,144,3,San Borja,Amoblado: Sin amoblar,600,1,no
+570.0,3,120,2,,Amoblado: Sin amoblar,150,,no
+583.74,2,75,1,Surquillo,Amoblado: Semi-amoblado,150,1,no
+950.0,3,99,3,Lince,Amoblado: Sin amoblar,380,,no
+694.93,3,79,2,Magdalena del Mar,Amoblado: Amoblado,200,,no
+555.94,2,57,2,Breña,Amoblado: Sin amoblar,200,1,si
+1000.0,1,88,2,San Isidro,Amoblado: Sin amoblar,,1,no
+1400.0,3,135,3,Miraflores,Amoblado: Amoblado,250,2,no
+611.53,3,75,2,Breña,Amoblado: Semi-amoblado,250,,si
+600.0,1,50,1,Magdalena del Mar,Amoblado: Semi-amoblado,200,2,no
+1500.0,2,96,2,Miraflores,Amoblado: Amoblado,500,1,no
+1250.0,1,105,2,Miraflores,Amoblado: Amoblado,680,2,no
+2200.0,3,100,3,San Bartolo,Amoblado: Amoblado,400,1,no
+690000.0,3,350,,San Borja,,,,si
+667.13,1,40,1,Barranco,Amoblado: Amoblado,200,1,no
+333.56,3,65,2,Chaclacayo,Amoblado: Sin amoblar,150,,no
+555.94,3,80,2,Magdalena del Mar,Amoblado: Sin amoblar,250,,no
+1000.0,2,119,3,Miraflores,Amoblado: Sin amoblar,700,1,no
+4000.0,3,358,4,San Isidro,Amoblado: Amoblado,,,no
+600.0,2,60,1,Miraflores,Amoblado: Amoblado,170,,no
+500.35,3,75,2,Lince,Amoblado: Sin amoblar,160,,si
+1100.0,1,104,2,Santiago de Surco,Amoblado: Semi-amoblado,425,,no
+1080.0,2,125,3,Miraflores,,400,1,si
+305.77,3,75,1,Los Olivos,Amoblado: Semi-amoblado,,,si
+880.0,3,98,3,Barranco,Amoblado: Amoblado,500,,si
+542.04,2,50,2,San Borja,Amoblado: Semi-amoblado,,1,no
+1100.0,1,104,2,Santiago de Surco,Amoblado: Semi-amoblado,425,,no
+806.11,2,123,2,Miraflores,Amoblado: Sin amoblar,700,2,no
+597.64,3,110,2,Santiago de Surco,Amoblado: Sin amoblar,300,1,no
+416.96,1,35,1,Pueblo Libre,Amoblado: Amoblado,150,,no
+1350.0,3,180,3,Miraflores,Amoblado: Sin amoblar,700,2,no
+1250.0,2,119,2,Miraflores,Amoblado: Amoblado,500,2,no
+1700.0,2,118,3,Miraflores,Amoblado: Amoblado,,2,no
+1300.0,4,250,5,Santiago de Surco,Amoblado: Sin amoblar,550,2,no
+1500.0,3,180,2,San Isidro,Amoblado: Sin amoblar,450,,no
+2500.0,3,300,4,San Isidro,Amoblado: Sin amoblar,677,2,no
+1503.0,3,140,3,San Isidro,Amoblado: Amoblado,,2,no
+500.0,1,45,1,Lince,,146,,si
+430.0,1,42,1,Barranco,,200,,no
+800.0,3,90,2,Miraflores,,350,2,no
+2300.0,3,252,4,Santiago de Surco,Amoblado: Amoblado,700,,no
+416.96,1,34,1,Pueblo Libre,,150,1,no
+1100.0,3,147,2,Santiago de Surco,Amoblado: Sin amoblar,600,2,no
+583.74,3,102,2,La Molina,Amoblado: Sin amoblar,320,2,no
+900.0,2,115,3,San Isidro,Amoblado: Amoblado,601,1,no
+889.5,4,220,4,Magdalena del Mar,Amoblado: Amoblado,420,2,no
+1600.0,4,240,4,Santiago de Surco,Amoblado: Sin amoblar,580,2,no
+694.93,3,95,2,Jesus Maria,Amoblado: Amoblado,200,1,no
+750.0,2,71,2,Miraflores,,275,,no
+528.14,2,70,3,Lince,Amoblado: Sin amoblar,220,,no
+611.53,2,98,2,Santiago de Surco,Amoblado: Semi-amoblado,150,1,no
+1400.0,4,177,4,Santiago de Surco,Amoblado: Sin amoblar,450,2,si
+555.94,2,68,2,Jesus Maria,Amoblado: Sin amoblar,180,1,si
+528.14,3,90,2,Jesus Maria,,200,,si
+1900.0,4,220,3,San Isidro,Amoblado: Amoblado,780,2,no
+555.94,3,90,2,Jesus Maria,Amoblado: Sin amoblar,250,1,no
+880.0,2,98,2.5,Miraflores,Amoblado: Amoblado,522,1,no
+1500.0,3,160,5,Miraflores,Amoblado: Amoblado,200,2,no
+1500.0,3,201,4,Santiago de Surco,Amoblado: Sin amoblar,550,2,no
+1700.0,3,360,3,Santiago de Surco,Amoblado: Sin amoblar,530,2,no
+458.65,1,50,1,Miraflores,Amoblado: Sin amoblar,237,1,no
+889.5,2,96,2,Miraflores,Amoblado: Amoblado,300,1,no
+2000.0,4,204,4,Miraflores,Amoblado: Amoblado,600,1,si
+500.35,2,65,2,Lince,Amoblado: Sin amoblar,155,,si
+600.0,1,100,1,Miraflores,Amoblado: Sin amoblar,200,1,no
+1150.0,3,142,3,Miraflores,Amoblado: Sin amoblar,410,1,no
+1050.0,3,127,2,Miraflores,Amoblado: Semi-amoblado,350,1,no
+750.0,1,43,1,San Isidro,Amoblado: Amoblado,,,no
+2400.0,3,190,3,Miraflores,Amoblado: Semi-amoblado,600,,no
+890.0,3,118,4,Miraflores,Amoblado: Sin amoblar,650,2,no
+550.0,2,70,1,Surquillo,Amoblado: Semi-amoblado,140,,no
+444.75,2,60,1,Magdalena del Mar,Amoblado: Sin amoblar,180,,no
+611.53,4,85,3,Lince,,250,1,no
+1350.0,3,131,3,Miraflores,Amoblado: Sin amoblar,300,,no
+750.0,1,59,1,San Isidro,Amoblado: Amoblado,,,no
+1150.0,3,144,4,Santiago de Surco,,160,,no
+555.94,2,96,1,La Molina,Amoblado: Semi-amoblado,,1,no
+650.0,2,75,1,San Borja,Amoblado: Amoblado,,,no
+540.0,1,50,1,Barranco,Amoblado: Amoblado,230,,no
+555.94,2,96,1,La Molina,Amoblado: Semi-amoblado,,1,no
+1100.0,3,145,4,Santiago de Surco,Amoblado: Sin amoblar,250,1,si
+1000.0,3,110,1,Miraflores,Amoblado: Amoblado,150,,no
+444.75,1,45,1,Pueblo Libre,Amoblado: Semi-amoblado,110,1,si
+1100.0,3,140,3,Santiago de Surco,Amoblado: Sin amoblar,450,2,no
+700.0,3,100,3,Santiago de Surco,Amoblado: Sin amoblar,350,2,no
+600.0,2,38,1,San Isidro,Amoblado: Semi-amoblado,245,1,no
+800.0,3,100,3,Miraflores,Amoblado: Sin amoblar,260,1,no
+1200.0,3,150,3,San Isidro,Amoblado: Amoblado,615,2,no
+1800.0,3,180,4,San Isidro,Amoblado: Amoblado,670,,si
+1800.0,3,148,3,Miraflores,Amoblado: Amoblado,350,1,si
+400.0,1,35,1,Barranco,Amoblado: Amoblado,,,no
+3200.0,3,246,3.5,San Isidro,Amoblado: Amoblado,,,no
+528.14,2,58,2,Cercado de Lima,,170,,no
+1300.0,3,132,2,San Isidro,Amoblado: Sin amoblar,430,,no
+555.94,2,65,2,Pueblo Libre,Amoblado: Sin amoblar,250,2,si
+555.94,3,70,2,Lince,Amoblado: Sin amoblar,200,,no
+528.14,1,50,1,Santiago de Surco,Amoblado: Amoblado,200,,no
+775.0,1,88,2,Barranco,Amoblado: Sin amoblar,130,1,no
+1500.0,3,196,3,Miraflores,Amoblado: Semi-amoblado,,2,no
+611.53,3,70,2,Jesus Maria,Amoblado: Sin amoblar,100,,no
+440.0,1,50,1,Miraflores,Amoblado: Semi-amoblado,,,no
+1150.0,3,130,3,Miraflores,Amoblado: Semi-amoblado,740,2,no
+750.0,3,122,3,Santiago de Surco,Amoblado: Amoblado,350,1,no
+361.36,1,44,1,Pueblo Libre,Amoblado: Sin amoblar,,,no
+611.53,1,47,2,Jesus Maria,Amoblado: Sin amoblar,150,,no
+611.53,2,96,3,Santiago de Surco,,,,no
+1000.0,1,50,,San Isidro,Amoblado: Amoblado,,,no
+600.0,2,70,2,Barranco,Amoblado: Sin amoblar,,1,no
+1800.0,3,200,3,Miraflores,Amoblado: Sin amoblar,600,,no
+890.0,3,118,3,Santiago de Surco,Amoblado: Sin amoblar,360,2,no
+403.06,3,80,1,La Molina,,100,1,no
+2500.0,3,307,4,San Isidro,Amoblado: Sin amoblar,1,,no
+700.0,1,70,1,Barranco,Amoblado: Amoblado,300,1,no
+750.0,1,80,2,Miraflores,Amoblado: Sin amoblar,220,1,no
+600.0,2,70,1,Miraflores,,345,,no
+500.35,2,103,1,San Luis,Amoblado: Amoblado,,,no
+1500.0,2,60,1,Surquillo,Amoblado: Sin amoblar,140,,no
+480.0,3,85,2,Santiago de Surco,Amoblado: Semi-amoblado,220,1,no
+583.74,3,105,2,Santiago de Surco,Amoblado: Semi-amoblado,,3,no
+900.0,2,90,3,Miraflores,Amoblado: Amoblado,300,,no
+1250.0,3,130,2,Barranco,Amoblado: Amoblado,548,1,no
+611.53,3,75,2,Breña,Amoblado: Semi-amoblado,250,,si
+458.65,3,85,2,Santiago de Surco,Amoblado: Sin amoblar,150,,no
+528.14,1,42,1,Surquillo,Amoblado: Sin amoblar,,1,no
+500.35,3,74,2,Santiago de Surco,Amoblado: Semi-amoblado,160,1,no
+700.0,1,60,1,Santiago de Surco,Amoblado: Amoblado,190,1,no
+560.0,2,55,1,Surquillo,Amoblado: Sin amoblar,200,,si
+1200.0,2,96,2,Miraflores,Amoblado: Amoblado,250,,no
+500.35,2,78,1,Pueblo Libre,Amoblado: Sin amoblar,180,,no
+430.85,2,64,2,Lince,Amoblado: Sin amoblar,,,si
+800.0,3,130,3,Miraflores,Amoblado: Sin amoblar,250,1,no
+1850.0,3,175,4,San Isidro,Amoblado: Semi-amoblado,420,,no
+430.85,2,61,2,Lince,Amoblado: Sin amoblar,,,si
+800.0,2,85,2,Miraflores,Amoblado: Amoblado,400,1,no
+600.0,2,65,2,Barranco,Amoblado: Amoblado,190,,no
+472.55,1,50,1,Breña,,,,si
+2500.0,3,204,4,Santiago de Surco,,,,no
+1000.0,3,98,2,Jesus Maria,Amoblado: Amoblado,320,,no
+3200.0,4,506,5,Santiago de Surco,,1,,no
+389.16,2,73,1,,Amoblado: Sin amoblar,60,,si
+3000.0,3,249,3,San Isidro,,,,no
+1000.0,3,120,2,Miraflores,Amoblado: Amoblado,490,1,no
+750.0,3,87,3,Jesus Maria,,,,no
+650.0,1,55,1,Santiago de Surco,,130,1,no
+528.14,1,60,1,San Miguel,,,,no
+550.0,1,45,1,Barranco,Amoblado: Amoblado,160,,no
+900.0,6,175,2,Ate,,,,no
+850.0,1,57,1,Miraflores,Amoblado: Amoblado,270,,no
+650.0,2,55,1,Surquillo,Amoblado: Sin amoblar,190,,no
+736.62,2,90,2,Santiago de Surco,Amoblado: Sin amoblar,,2,no
+650.0,1,100,1,Miraflores,Amoblado: Semi-amoblado,200,,no
+650.0,3,110,3,La Molina,Amoblado: Sin amoblar,250,1,no
+640.0,2,60,1,Miraflores,Amoblado: Semi-amoblado,196,,no
+800.0,3,95,3,Miraflores,Amoblado: Amoblado,150,,no
+458.65,2,57,,Jesus Maria,Amoblado: Sin amoblar,150,,no
+699.0,2,70,2,Miraflores,,300,1,no
+650.0,1,65,1,Barranco,Amoblado: Amoblado,330,1,no
+694.93,2,100,2,Santiago de Surco,Amoblado: Sin amoblar,,,no
+1200.0,3,103,2,Miraflores,Amoblado: Amoblado,350,,no
+1100.0,3,198,3,Miraflores,,,,no
+950.0,3,150,4,Miraflores,Amoblado: Sin amoblar,380,2,no
+1550.0,2,154,3,San Isidro,,,,no
+600.0,3,82,2,Barranco,Amoblado: Sin amoblar,120,1,no
+850.0,1,57,1,Miraflores,Amoblado: Amoblado,270,,no
+445.0,1,40,1,Surquillo,Amoblado: Semi-amoblado,200,,si
+750.0,3,90,2,Barranco,Amoblado: Sin amoblar,300,,no
+850.0,2,128,2,San Isidro,Amoblado: Amoblado,600,,no
+1500.0,3,240,5,La Molina,Amoblado: Semi-amoblado,260,,no
+800.0,3,110,3,Surquillo,Amoblado: Amoblado,220,1,no
+850.0,1,57,1,Miraflores,Amoblado: Amoblado,270,,no
+2700.0,3,362,5,Santiago de Surco,,,,no
+850.0,3,126,3,Surquillo,Amoblado: Sin amoblar,250,1,no
+890.0,2,90,2,Miraflores,Amoblado: Amoblado,275,,no
+1300.0,3,171,3,Miraflores,,,,no
+403.06,3,67,2,Chorrillos,Amoblado: Sin amoblar,140,,no
+850.0,3,91,3,Miraflores,Amoblado: Amoblado,270,1,no
+1167.47,3,220,,Miraflores,,,,no
+1500.0,2,150,2,San Isidro,,500,1,no
+444.75,2,80,2,Santiago de Surco,Amoblado: Sin amoblar,,,no
+472.55,2,70,2,Santiago de Surco,Amoblado: Semi-amoblado,180,1,no
+750.52,2,65,2,Miraflores,,,,no
+1150.0,2,100,2,Barranco,,,,no
+780.0,3,80,3,Miraflores,,300,,no
+694.93,3,80,2,Lince,,,,si
+833.91,3,110,3,Miraflores,Amoblado: Amoblado,,1,no
+880.0,3,100,2,Miraflores,Amoblado: Sin amoblar,700,1,no
+650.0,3,86,2,Magdalena del Mar,Amoblado: Sin amoblar,230,1,no
+840.0,2,85,3,Miraflores,Amoblado: Amoblado,300,1,no
+550.0,3,82,2,Surquillo,Amoblado: Sin amoblar,320,1,no
+361.36,3,110,3,San Juan de Miraflores,,,,no
+600.0,3,115,2,Surquillo,Amoblado: Sin amoblar,150,1,no
+800.0,2,128,2,Miraflores,Amoblado: Amoblado,280,,no
+277.97,2,80,1,San Juan de Lurigancho,,,,no
+730.0,3,96,2,Miraflores,Amoblado: Sin amoblar,328,1,no
+550.0,2,70,1,Surquillo,Amoblado: Sin amoblar,140,,no
+750.0,1,55,2,Barranco,,,,no
+430.85,3,80,1,Pueblo Libre,,,,no
+889.5,3,110,3,Miraflores,Amoblado: Amoblado,,1,no
+1600.0,3,200,2,San Isidro,Amoblado: Sin amoblar,550,2,no
+500.0,2,55,1,Santiago de Surco,,,,no
+690.0,3,91,2,Miraflores,Amoblado: Sin amoblar,500,1,no
+1000.0,2,96,2,Miraflores,Amoblado: Amoblado,466,1,no
+583.74,2,64,1,Surquillo,,,,no
+1350.0,3,240,3,San Isidro,Amoblado: Sin amoblar,450,,no
+470.0,2,100,1,La Molina,Amoblado: Sin amoblar,,1,no
+850.0,2,85,2,Miraflores,Amoblado: Amoblado,405,1,no
+900.0,3,100,2,Miraflores,Amoblado: Amoblado,200,1,no
+950.0,3,177,2,Miraflores,,350,1,no
+1300.0,4,180,4,Miraflores,Amoblado: Amoblado,550,1,no
+1167.47,2,96,1,,Amoblado: Sin amoblar,,,no
+700.0,1,60,1,Miraflores,Amoblado: Amoblado,326,1,no
+555.94,3,80,4,San Borja,Amoblado: Sin amoblar,40,,no
+750.0,1,50,1,Barranco,,,,no
+555.0,1,48,1,Miraflores,Amoblado: Sin amoblar,150,,no
+2200.0,3,222,3,San Isidro,,700,3,no
+790.0,2,72,2,San Isidro,Amoblado: Sin amoblar,185,1,no
+700.0,1,46,1,San Isidro,,280,1,no
+1000.0,2,60,1,Miraflores,Amoblado: Amoblado,360,1,no
+950.0,4,145,4,Santiago de Surco,,,,no
+900.0,2,83,2,Miraflores,,,,no
+500.35,2,77,1,Jesus Maria,Amoblado: Semi-amoblado,80,,no
+1300.0,4,350,3,Miraflores,Amoblado: Sin amoblar,,3,no
+416.96,3,150,1,Comas,,,,no
+1000.0,2,112,2,San Borja,,,,no
+750.0,1,45,1,Barranco,,,,no
+694.93,3,80,2,Surquillo,,,,no
+690.0,1,40,1,Magdalena del Mar,,,,no
+1100.0,2,90,3,Miraflores,Amoblado: Amoblado,,,no
+736.62,4,93,3,Surquillo,,,,no
+333.56,2,60,,San Miguel,,,,no
+640.0,3,80,2,San Borja,,,,no
+750.0,1,50,1,Barranco,,,,no
+416.96,2,75,2,San Miguel,Amoblado: Sin amoblar,,,si
+778.32,3,148,2,Miraflores,,,,no
+611.53,3,100,2,Santiago de Surco,,,,no
+277.97,2,80,1,San Juan de Lurigancho,,,,no
+1000.0,2,100,2,San Isidro,Amoblado: Amoblado,469,1,no
+3000.0,4,600,5,Chorrillos,,,,no
+889.5,3,143,2,San Borja,,,,no
+500.35,3,100,2,Santiago de Surco,Amoblado: Sin amoblar,,1,no
+850.0,2,85,2,Miraflores,Amoblado: Amoblado,405,1,no
+550.0,1,59,2,Miraflores,,,,no
+1200.0,1,70,1,Miraflores,,,,no
+850.0,2,69,2,Jesus Maria,Amoblado: Amoblado,220,1,si
+847.81,2,86,2,San Isidro,,,,no
+2500.0,3,200,3,San Isidro,,1,2,no
+806.11,1,70,1,Miraflores,Amoblado: Semi-amoblado,,,no
+2500.0,4,247,4,San Isidro,,,,no
+450.0,1,51,2,Pueblo Libre,,,,no
+222.38,2,52,1,Villa El Salvador,,,,no
+850.0,3,140,3,Miraflores,,,,no
+1500.0,3,170,3,Barranco,,,,no
+1050.0,2,90,2,Miraflores,,,,no
+667.13,2,100,2,Miraflores,,,,no
+1400.0,3,128,3,Magdalena del Mar,,,,no
+1300.0,2,103,3,Miraflores,,,,no
+1600.0,3,180,5,Santiago de Surco,Amoblado: Amoblado,700,,no
+1200.0,2,90,1,San Isidro,,,,no
+1250.0,3,130,3,Magdalena del Mar,,,,no
+611.53,3,120,2,Chorrillos,,,,no
+277.97,1,45,,San Isidro,,1,,no
+347.46,2,65,2,El Agustino,,,,no
+500.35,3,72,2,Santiago de Surco,,180,1,no
+1050.0,3,200,4,San Borja,,,,no
+330000.0,2,133,2,Barranco,Amoblado: Sin amoblar,,2,no
+700.0,1,60,1,Miraflores,,,,no
+900.0,3,110,2,Miraflores,Amoblado: Amoblado,150,,no
+650.0,2,75,3,Miraflores,Amoblado: Semi-amoblado,446,1,no
+600.0,1,70,1,Lince,,,,no
+1000.0,1,87,2,Miraflores,,,,no
+639.33,2,65,1,Santiago de Surco,Amoblado: Semi-amoblado,130,,no
+555.94,4,84,2,San Borja,,,,no
+900.0,3,100,3,Miraflores,,,,no
+416.96,3,80,2,San Miguel,Amoblado: Sin amoblar,,,no
+800.0,3,100,3,Miraflores,,,,no
+1160.0,1,90,1,Chorrillos,,,,no
+900.0,2,90,3,Miraflores,,,,no
+850.0,5,165,,San Miguel,,,,no
+277.97,2,60,1,San Miguel,Amoblado: Sin amoblar,,,no
+1200.0,3,93,2,Santiago de Surco,,,,no
+900.0,2,97,2,La Molina,,300,,no
+650.0,2,80,1,Miraflores,,,,no
+277.97,1,40,1,San Miguel,Amoblado: Sin amoblar,,,no
+3200.0,3,219,3,Miraflores,,,,no
+720.0,2,81,2,Miraflores,,,,no
+386.38,3,110,2,Ate,Amoblado: Sin amoblar,80,,no
+850.0,4,100,3,Miraflores,,,,no
+250.17,1,38,1,San Borja,Amoblado: Sin amoblar,,,no
+600.0,2,70,1,Miraflores,,,,no
+305.77,1,50,1,San Isidro,Amoblado: Sin amoblar,,1,no
+750.0,1,80,2,Barranco,,,,no
+264.07,1,35,1,Jesus Maria,Amoblado: Sin amoblar,,,no
+236.27,1,30,1,Miraflores,Amoblado: Sin amoblar,,,no
+764.42,2,95,2,Miraflores,,,,no
+800.0,3,110,3,San Borja,,,,no
+650.0,2,45,2,Miraflores,,,,no
+264.07,1,50,1,San Luis,Amoblado: Sin amoblar,,,no
+590.0,1,65,1,Lince,,,,no
+333.56,2,60,1,Santiago de Surco,Amoblado: Sin amoblar,,,no
+305.77,1,49,2,Chorrillos,,,,no
+277.97,2,50,1,Pueblo Libre,Amoblado: Sin amoblar,,,no
+464.21,2,100,1,Lince,,,,no
+333.56,2,80,1,Surquillo,Amoblado: Sin amoblar,,,no
+750.0,3,120,3,Santiago de Surco,Amoblado: Sin amoblar,170,2,no
+1945.79,3,175,4,San Borja,,,,no
+236.27,1,50,1,Pueblo Libre,Amoblado: Sin amoblar,,,no
+236.27,1,35,1,Santiago de Surco,Amoblado: Sin amoblar,,,no
+1600.0,3,180,4,Miraflores,Amoblado: Amoblado,650,,no
+361.36,2,70,1,La Molina,,,,no
+333.56,2,80,2,Magdalena del Mar,Amoblado: Sin amoblar,,,no
+465000.0,3,159,3,Santiago de Surco,,,,no
+208.48,1,38,1,Pueblo Libre,Amoblado: Sin amoblar,,,no
+208.48,1,30,1,Surquillo,Amoblado: Sin amoblar,,,no
+222.38,1,30,1,Magdalena del Mar,Amoblado: Sin amoblar,,,no
+611.53,1,47,2,Jesus Maria,Amoblado: Sin amoblar,150,,no
+222.38,1,45,1,La Victoria,Amoblado: Sin amoblar,,,no
+528.14,3,,2,San Miguel,,,,no
+361.36,2,90,1,Breña,Amoblado: Sin amoblar,,,no
+600.0,2,70,1,Miraflores,,,,no
+800.0,2,,2,San Isidro,,,,no
+361.36,3,75,1,San Miguel,Amoblado: Sin amoblar,,,no
+361.36,2,60,1,Magdalena del Mar,Amoblado: Sin amoblar,,,no
+250.17,1,40,1,Lince,Amoblado: Sin amoblar,,,no
+1200.0,3,120,4,Miraflores,Amoblado: Amoblado,300,1,no
+222.38,1,40,1,Breña,Amoblado: Sin amoblar,,,no
+540.0,2,59,2,Lince,,,,no
+333.56,2,60,1,La Victoria,Amoblado: Sin amoblar,,,no
+277.97,2,60,1,San Miguel,Amoblado: Sin amoblar,,,no
+416.96,2,70,2,San Miguel,,,,no
+333.56,2,60,2,Jesus Maria,Amoblado: Sin amoblar,,,no
+1300.0,3,114,3,San Isidro,,,,no
+236.27,1,35,1,San Miguel,Amoblado: Sin amoblar,,,no
+514.24,3,79,,Santiago de Surco,,,,no
+264.07,3,80,1,Jesus Maria,Amoblado: Sin amoblar,,,no
+800.0,4,,4,Barranco,,,,no
+1750.0,3,,4,San Isidro,,,,no
+550.0,2,75,1,Jesus Maria,Amoblado: Amoblado,,10,si
+639.33,2,80,2,Magdalena del Mar,Amoblado: Semi-amoblado,300,1,si
+528.14,2,70,2,Pueblo Libre,,200,1,si
+1000.0,3,90,2,Santiago de Surco,Amoblado: Amoblado,340,1,no
+1400.0,3,82,2,Pueblo Libre,Amoblado: Amoblado,,,si
+500.35,1,45,1,Lince,Amoblado: Amoblado,250,1,no
+1389.85,4,145,4,San Isidro,Amoblado: Amoblado,420,,si
+2500.0,5,300,6,Punta Hermosa,Amoblado: Amoblado,450,3,no
+472.55,3,75,3,San Bartolo,Amoblado: Amoblado,50,2,no
+2500.0,3,220,3,Santiago de Surco,Amoblado: Semi-amoblado,,,no
+950.0,3,127,5,San Borja,,120,1,no
+45.0,2,65,2,San Isidro,Amoblado: Amoblado,,,no
+1450.0,3,82,2,Pueblo Libre,Amoblado: Amoblado,,,si
+600.0,1,60,1,Lince,Amoblado: Sin amoblar,1,1,no
+389.16,3,87,2,Santiago de Surco,Amoblado: Sin amoblar,50,,no
+611.53,3,105,2,Magdalena del Mar,,200,,no
+542.04,3,70,3,Magdalena del Mar,Amoblado: Sin amoblar,200,1,no
+1400.0,3,250,4,San Borja,Amoblado: Sin amoblar,,,si
+2000.0,3,170,4,Miraflores,Amoblado: Amoblado,820,1,no
+444.75,3,80,2,Chorrillos,Amoblado: Sin amoblar,50,,si
+1850.0,2,190,3.5,Miraflores,Amoblado: Sin amoblar,1,2,no
+1250.0,2,105,2,Santiago de Surco,Amoblado: Sin amoblar,400,,no
+1300.0,2,105,3,Surquillo,Amoblado: Amoblado,,1,no
+444.75,1,66,2,Magdalena del Mar,,200,,no
+1400.0,3,160,3,San Isidro,Amoblado: Amoblado,757,2,no
+980.0,3,110,3,San Borja,,,,no
+416.96,1,42,1.5,Barranco,Amoblado: Amoblado,200,,si
+700.0,2,100,3,Magdalena del Mar,Amoblado: Semi-amoblado,200,,si
+555.94,1,60,1,San Miguel,Amoblado: Semi-amoblado,170,1,no
+639.33,2,80,2,Magdalena del Mar,,190,,si
+542.04,1,116,1,Chorrillos,Amoblado: Amoblado,,,no
+3500.0,4,330,4,San Isidro,,1,2,si
+750.52,2,65,2,Surquillo,,,,no
+700.0,1,45,2,Barranco,Amoblado: Amoblado,230,,no
+1300.0,3,80,3,Miraflores,Amoblado: Amoblado,333,1,si
+660.0,1,35,1,San Isidro,Amoblado: Amoblado,,,no
+526.75,1,120,1,Chorrillos,Amoblado: Amoblado,,,no
+2900.0,4,270,3.5,Miraflores,Amoblado: Sin amoblar,650,3,no
+778.32,3,100,3,Barranco,Amoblado: Semi-amoblado,,,no
+416.96,1,54,1,Santiago de Surco,Amoblado: Sin amoblar,180,,si
+1250.0,3,134,2,Miraflores,Amoblado: Sin amoblar,600,,no
+700.0,2,90,2,San Borja,,300,1,no
+800.0,2,65,2,Jesus Maria,Amoblado: Amoblado,,,no
+800.0,2,90,3,Miraflores,Amoblado: Amoblado,380,1,no
+679.0,2,70,2,Jesus Maria,Amoblado: Amoblado,200,,si
+250.17,2,70,1,Los Olivos,Amoblado: Semi-amoblado,,,si
+444.75,1,50,1,Surquillo,,130,,no
+597.64,2,108,2,San Borja,Amoblado: Amoblado,150,,si
+277.97,2,60,1,Ate,Amoblado: Sin amoblar,40,,no
+1000.0,2,125,3,San Isidro,Amoblado: Semi-amoblado,,,si
+347.46,3,70,2,El Agustino,Amoblado: Sin amoblar,,,si
+778.32,2,96,2,Miraflores,,400,,no
+1150.0,3,100,2,Santiago de Surco,,,,no
+1750.0,3,240,3,Miraflores,Amoblado: Sin amoblar,750,2,no
+500.0,3,75,2,Surquillo,,180,,no
+1150.0,3,235,4,Santiago de Surco,Amoblado: Sin amoblar,200,2,no
+3500.0,3,330,5,San Isidro,Amoblado: Sin amoblar,1,1,no
+350000.0,3,265,4,Santiago de Surco,Amoblado: Sin amoblar,550,,no
+264.07,2,53,2,Los Olivos,Amoblado: Sin amoblar,,,si
+1500.0,2,120,2.5,San Isidro,Amoblado: Amoblado,298,2,no
+1400.0,3,130,3,Miraflores,Amoblado: Sin amoblar,270,2,no
+6500.0,3,110,2,Punta Hermosa,Amoblado: Amoblado,200,1,no
+1900.0,3,200,3,Miraflores,Amoblado: Sin amoblar,750,3,no
+472.55,2,70,2,Santiago de Surco,Amoblado: Sin amoblar,,,si
+1399.0,3,200,4,Santiago de Surco,,700,2,no
+526.75,1,55,1,Chorrillos,Amoblado: Amoblado,,,no
+3049.33,3,254,3,San Isidro,,,,no
+1250.0,3,128,3,San Isidro,Amoblado: Semi-amoblado,650,1,no
+650.0,2,65,2,Pueblo Libre,Amoblado: Sin amoblar,200,,si
+1500.0,3,235,2,San Borja,Amoblado: Sin amoblar,680,,si
+800.0,3,110,2,Miraflores,Amoblado: Sin amoblar,504,2,no
+2400.0,4,544,4,Santiago de Surco,,,,no
+950.0,3,200,2,Santiago de Surco,Amoblado: Sin amoblar,300,2,no
+1500.0,3,140,3,Santiago de Surco,Amoblado: Amoblado,520,,no
+1300.0,2,135,3,Miraflores,Amoblado: Semi-amoblado,300,,no
+1150.0,3,100,2.5,Santiago de Surco,Amoblado: Amoblado,250,,no
+900.0,3,115,2,Santiago de Surco,Amoblado: Sin amoblar,430,,no
+2000.0,4,350,3,Santiago de Surco,Amoblado: Sin amoblar,600,,si
+750.0,3,160,4,La Molina,Amoblado: Amoblado,,,si
+750.0,1,70,2,Miraflores,Amoblado: Amoblado,,,no
+164.0,1,40,1,San Martin de Porres,Amoblado: Sin amoblar,,,si
+694.93,3,75,2,Surquillo,,,,no
+800.0,2,98,3,Miraflores,,350,1,no
+555.94,1,60,1,Lince,Amoblado: Sin amoblar,230,,no
+1750.0,2,205,2,Barranco,,,2,no
+650.0,2,91,3,Miraflores,Amoblado: Amoblado,350,1,no
+1350.0,1,104,2,Santiago de Surco,Amoblado: Amoblado,,,no
+389.16,3,64,2,Chorrillos,Amoblado: Sin amoblar,210,,no
+500.35,2,65,1,Barranco,Amoblado: Amoblado,100,,no
+778.32,3,110,3,Miraflores,,300,1,no
+800.0,3,110,4,Magdalena del Mar,Amoblado: Amoblado,230,1,si
+694.93,2,65,,Miraflores,Amoblado: Amoblado,200,1,no
+890.0,3,80,1,Santiago de Surco,Amoblado: Amoblado,,,no
+208.48,4,110,3,Puente Piedra,,,,no
+940.0,3,114,3,San Borja,Amoblado: Sin amoblar,,,no
+600.0,3,110,2,Lince,Amoblado: Amoblado,220,,no
+750.52,3,105,3,Santiago de Surco,Amoblado: Sin amoblar,150,,no
+1306.18,4,185,5,Santiago de Surco,,,,no
+555.94,3,95,2,Chorrillos,,,,no
+3000.0,3,300,4,Santiago de Surco,,,,no
+694.93,1,80,1,Miraflores,Amoblado: Amoblado,250,1,no
+166.78,1,50,1,San Martin de Porres,Amoblado: Sin amoblar,,,si
+458.65,3,66,2,Chorrillos,,,,no
+233.49,2,80,2,Los Olivos,Amoblado: Sin amoblar,,,si
+1700.0,3,130,3,Miraflores,Amoblado: Amoblado,,,no
+2300.0,4,266,4,Magdalena del Mar,Amoblado: Sin amoblar,600,2,no
+1000.0,2,135,2,San Isidro,,450,2,no
+3500.0,4,444,3,Santiago de Surco,Amoblado: Sin amoblar,,3,no
+1200.0,3,200,4,San Borja,,,,no
+1200.0,3,121,2.5,Miraflores,Amoblado: Sin amoblar,350,2,no
+555.94,3,78,2,Pueblo Libre,,,1,no
+750.52,3,105,3,Santiago de Surco,Amoblado: Sin amoblar,150,,no
+1200.0,3,176,,Santiago de Surco,,,,no
+640.0,1,45,1,San Borja,Amoblado: Amoblado,1,,no
+850.0,4,110,3,Santiago de Surco,Amoblado: Sin amoblar,250,2,no
+950.0,2,100,2,San Borja,,,,no
+1050.0,2,107,3,Lince,,,,no
+2500.0,3,125,3,Barranco,Amoblado: Sin amoblar,1,2,no
+1900.0,4,196,3,Chorrillos,Amoblado: Amoblado,,2,no
+444.75,2,68,2,Chorrillos,Amoblado: Sin amoblar,170,,no
+750.52,3,105,3,Santiago de Surco,Amoblado: Sin amoblar,150,,no
+950.0,3,138,3,Santiago de Surco,Amoblado: Amoblado,380,2,no
+950.0,2,100,2.5,Miraflores,Amoblado: Amoblado,600,2,no
+1200.0,2,102,2,Barranco,Amoblado: Sin amoblar,,2,no
+667.13,3,75,2,Pueblo Libre,,,,no
+5000.0,4,617,3.5,San Isidro,,,3,no
+1950.0,1,240,6,Santiago de Surco,,,,no
+3000.0,5,380,7,San Borja,,,,no
+900.0,6,200,3,Santiago de Surco,,,,no
+1450.0,3,184,2,San Borja,,,,no
+667.13,3,115,3,Surquillo,,,,no
+1900.0,3,180,4,San Isidro,Amoblado: Amoblado,900,1,no
+790.0,2,89,3,San Borja,,215,,no
+650.0,3,80,2,Jesus Maria,,,,no
+8000.0,4,600,5,Barranco,Amoblado: Sin amoblar,1,,no
+1220.0,3,137,4,San Isidro,Amoblado: Sin amoblar,400,,no
+1350.0,4,104,4,Santiago de Surco,,,,no
+1000.0,3,230,3,Santiago de Surco,,,,no
+1250.0,2,158,3,San Isidro,,,2,no
+750.0,3,114,3,Santiago de Surco,Amoblado: Sin amoblar,,2,no
+583.74,1,40,2,Pueblo Libre,Amoblado: Amoblado,135,,no
+1200.0,2,104,2,San Isidro,Amoblado: Amoblado,478,1,no
+460.0,1,57,1,Barranco,Amoblado: Amoblado,,1,no
+3000.0,2,120,4,Miraflores,Amoblado: Amoblado,600,,no
+500.35,3,72,2,Chorrillos,,,,no
+1300.0,2,143,2.5,Miraflores,Amoblado: Sin amoblar,450,2,no
+555.94,3,85,2,San Miguel,,,,no
+800.0,2,67,2,Surquillo,Amoblado: Amoblado,255,,no
+2200.0,3,265,2,Barranco,Amoblado: Sin amoblar,,2,no
+2200.0,2,230,3,Miraflores,Amoblado: Amoblado,300,,no
+1800.0,3,230,3,Miraflores,,,,no
+664.35,2,70,2,Surquillo,Amoblado: Amoblado,230,,no
+600.0,1,55,1,Lince,Amoblado: Semi-amoblado,280,1,si
+750.0,2,80,3,Miraflores,,,,no
+514.24,1,60,1,Santiago de Surco,Amoblado: Amoblado,,1,no
+555.94,3,83,2,Pueblo Libre,,,,no
+4000.0,4,340,3.5,Santiago de Surco,Amoblado: Sin amoblar,,3,no
+319.67,3,82,2,Chaclacayo,Amoblado: Sin amoblar,135,1,no
+611.53,3,80,2,Santiago de Surco,Amoblado: Amoblado,200,,no
+500.35,2,140,2,La Molina,Amoblado: Sin amoblar,150,,no
+833.91,3,89,3,San Isidro,,,,no
+1250.0,2,85,2,Santiago de Surco,Amoblado: Sin amoblar,,3,no
+500.35,1,60,2,Miraflores,Amoblado: Sin amoblar,,,no
+900.0,3,134,4,San Borja,,,,no
+1400.0,2,102,2,Magdalena del Mar,Amoblado: Amoblado,,1,no
+650.0,1,48,1,Magdalena del Mar,,,,no
+6500.0,4,796,4.5,San Isidro,,,3,no
+950.0,1,50,1,Miraflores,Amoblado: Amoblado,,1,no
+1200.0,3,110,3,Miraflores,Amoblado: Amoblado,436,,no
+650.0,2,64,2,San Miguel,Amoblado: Semi-amoblado,,,si
+1300.0,4,250,5,Santiago de Surco,Amoblado: Sin amoblar,450,,no
+555.94,2,76,2,Cercado de Lima,,180,,no
+1000.0,3,140,4,San Borja,Amoblado: Sin amoblar,500,,no
+1500.0,3,1,2,Barranco,Amoblado,,,no
+694.93,3,105,2,San Borja,,,,no
+280.19,2,62,1,Lince,Amoblado: Amoblado,150,1,no
+639.33,3,135,2,Santiago de Surco,Amoblado: Sin amoblar,220,1,no
+75.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+600.0,2,90,2,Santiago de Surco,Amoblado: Sin amoblar,280,1,no
+778.32,2,89,2,Lince,,,,no
+1100.0,4,135,3,Miraflores,,,,no
+500.35,1,45,1,La Victoria,,,,no
+820.0,3,111,4,San Borja,,,,no
+945.1,3,100,3,San Isidro,Amoblado: Amoblado,345,,no
+1150.0,3,206,3,Santiago de Surco,,,,no
+611.53,2,65,1,San Borja,Amoblado: Sin amoblar,250,1,no
+416.96,3,73,2,Cercado de Lima,,,,no
+990.0,2,118,2.5,Miraflores,Amoblado: Amoblado,700,1,no
+800.0,3,95,2,San Miguel,Amoblado: Amoblado,,,no
+2000.0,4,360,5,San Isidro,,,,no
+1300.0,3,140,4,Miraflores,Amoblado: Amoblado,536,,no
+750.0,1,50,1,San Isidro,Amoblado: Amoblado,300,,no
+2800.0,4,290,5,San Isidro,Amoblado: Sin amoblar,950,,no
+2500.0,2,125,3,Miraflores,Amoblado: Amoblado,,,no
+900.0,2,81,2,Santiago de Surco,Amoblado: Sin amoblar,80,,si
+75.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+1800.0,3,272,3,Santiago de Surco,,,,no
+1150.0,3,186,3,Santiago de Surco,,,,no
+694.93,3,85,3,Jesus Maria,Amoblado: Sin amoblar,,1,si
+667.13,2,80,1,San Borja,,,,no
+75.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+1800.0,4,190,4,Miraflores,Amoblado: Amoblado,445,,no
+540.0,2,58,1,Magdalena del Mar,,,,no
+778.32,3,103,3,Santiago de Surco,,300,2,no
+555.94,3,78,2,Cercado de Lima,,,,no
+600.0,2,806,2,Magdalena del Mar,Amoblado: Sin amoblar,,,no
+416.96,3,64,2,Chorrillos,,,,no
+1100.0,4,280,3,San Borja,Amoblado: Sin amoblar,200,,si
+1400.0,2,125,2,Miraflores,Amoblado: Amoblado,,2,no
+1600.0,3,280,3,Miraflores,Amoblado: Amoblado,740,2,no
+800.0,1,65,2,Santiago de Surco,Amoblado: Sin amoblar,,4,no
+75.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+555.94,2,64,2,La Victoria,,,,no
+950.0,2,150,3,Santiago de Surco,Amoblado: Amoblado,,,no
+900.0,4,106,4,Magdalena del Mar,,,,no
+1000.0,3,128,3,Santiago de Surco,Amoblado: Sin amoblar,500,,no
+1250.0,3,127,3,San Isidro,Amoblado: Amoblado,390,,no
+90.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+750.0,3,94,1,Miraflores,,,,no
+750.0,1,52,1,San Miguel,Amoblado: Sin amoblar,150,,no
+1100.0,3,127,3,Santiago de Surco,,,,no
+850.0,3,94,2,Santiago de Surco,Amoblado: Sin amoblar,350,,no
+1400.0,3,110,2,Miraflores,Amoblado: Amoblado,300,,no
+90.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+1200.0,3,170,2,San Borja,,,,si
+50.0,1,60,1,Miraflores,Amoblado: Amoblado,,,si
+1050.0,2,100,2.5,Miraflores,,350,,no
+2400.0,3,260,3,Santiago de Surco,Amoblado: Sin amoblar,500,,no
+750.0,2,80,1,Miraflores,Amoblado: Amoblado,100,,no
+100.07,2,68,1,Villa Maria del Triunfo,,,,no
+650.0,2,85,2,Miraflores,Amoblado: Amoblado,175,1,no
+1100.0,3,153,3,Barranco,,,,no
+542.04,2,80,1,Surquillo,Amoblado: Sin amoblar,,,si
+122306.8,4,150,2,Chaclacayo,Amoblado: Sin amoblar,,,no
+222.38,2,80,1,Los Olivos,Amoblado: Sin amoblar,35,,si
+500.35,3,100,2,San Luis,Amoblado: Semi-amoblado,100,,no
+1100.0,3,150,3,Santiago de Surco,,350,,no
+597.64,3,96,2,Santiago de Surco,,,,no
+448.0,2,160,1,Los Olivos,Amoblado: Sin amoblar,50,,no
+500.35,3,80,2,San Miguel,,,,no
+639.33,2,68,1,Jesus Maria,,,,no
+611.53,1,45,1,San Isidro,,,,no
+1390.0,3,130,3,San Isidro,,,,no
+3000.0,3,225,5,Miraflores,,,,no
+800.0,2,82,2,Lince,,,,no
+694.93,3,110,2,Santiago de Surco,Amoblado: Semi-amoblado,80,,no
+90.0,2,75,2,Miraflores,Amoblado: Amoblado,,,no
+2100.0,3,265,3,Miraflores,Amoblado: Sin amoblar,,2,no
+611.53,2,140,2,Santiago de Surco,Amoblado: Sin amoblar,50,,no
+120.0,3,85,2,Miraflores,Amoblado: Amoblado,,,no
+950.0,3,110,3,Barranco,Amoblado: Sin amoblar,420,,no
+850.0,3,105,2,Miraflores,Amoblado: Amoblado,320,1,no
+555.94,2,70,2,Surquillo,,,,no
+75.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+600.0,3,70,2,Santiago de Surco,Amoblado: Sin amoblar,200,,si
+700.0,1,60,1,Barranco,Amoblado,,,no
+583.74,2,53,2,Jesus Maria,,,,no
+1500.0,3,137,4,San Isidro,,,,no
+806.11,2,62,2,San Isidro,,,,no
+750.0,2,90,3,Miraflores,,,,no
+180.68,2,70,1,Chosica,Amoblado: Sin amoblar,,,si
+1200.0,3,150,3,Santiago de Surco,Amoblado: Sin amoblar,,2,no
+850.0,1,120,2,La Molina,Amoblado: Amoblado,,,no
+950.0,3,120,3,Miraflores,Amoblado: Sin amoblar,350,1,no
+2574.28,3,350,4,Santiago de Surco,,,,no
+694.93,3,80,2,San Miguel,,,,no
+1550.0,3,150,2.5,San Isidro,Amoblado: Sin amoblar,527,2,no
+580.96,3,90,2,Surquillo,,,,no
+636.55,3,90,2,Surquillo,,,,no
+3500.0,3,256,4,San Isidro,,,,no
+361.36,1,41,1,San Miguel,,,,no
+790.0,2,96,2,La Molina,,,,no
+4000.0,5,538,7,Santiago de Surco,,,,no
+75.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+1056.29,2,128,2,Santiago de Surco,,,,no
+667.13,3,90,2,San Miguel,,,,si
+1528.84,3,150,3,Santiago de Surco,,,,no
+700.0,3,82,3,Magdalena del Mar,,,,no
+1200.0,1,88,2,Barranco,Amoblado: Amoblado,520,,no
+694.93,3,90,2,Santiago de Surco,Amoblado: Sin amoblar,200,,no
+889.5,3,94,3,Jesus Maria,,,,no
+950.0,2,132,2,Miraflores,,,,no
+2800.0,4,356,4,Santiago de Surco,Amoblado: Sin amoblar,1,2,si
+500.35,3,67,2,San Miguel,,,,no
+1200.0,3,100,3,Miraflores,Amoblado: Amoblado,350,,no
+1500.0,3,170,4,Santiago de Surco,,,,no
+75.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+1000.0,3,115,2,Miraflores,,,,no
+416.96,2,60,2,San Juan de Lurigancho,,,,no
+416.96,2,70,1,Santiago de Surco,Amoblado: Amoblado,,,no
+11400.0,2,85,2,San Bartolo,,,,no
+780.0,1,50,1,Barranco,Amoblado: Amoblado,,1,no
+694.93,3,80,2,San Miguel,,,,no
+3210.55,3,253,3,Miraflores,,,,no
+528.14,2,85,1,San Borja,Amoblado: Sin amoblar,150,,no
+880.0,1,74,2,Barranco,,,,no
+750.0,3,82,2,Miraflores,,,,no
+917.3,3,220,3,,Amoblado: Sin amoblar,340,,no
+444.75,2,57,1,San Borja,Amoblado: Sin amoblar,,1,si
+800.0,2,90,2,Miraflores,,,,no
+3300.0,5,400,6,Miraflores,,,,no
+75.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+75.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+120.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+600.0,1,50,1,Lince,,,,no
+2400.0,3,140,5,Miraflores,Amoblado: Amoblado,438,,no
+1000.0,1,88,1,San Isidro,,,,no
+1200.0,2,140,3,San Isidro,Amoblado: Sin amoblar,550,,no
+1350.0,2,121,2,Barranco,Amoblado: Amoblado,610,2,no
+2700.0,5,320,6,Santiago de Surco,,,,no
+833.91,3,110,3,Santiago de Surco,Amoblado: Amoblado,617,2,no
+700.0,1,64,1,Santiago de Surco,,,,no
+681.03,1,50,2,Lince,,,,no
+1726.19,4,247,3,Miraflores,Amoblado: Sin amoblar,,,no
+750.0,2,110,2,Miraflores,Amoblado: Sin amoblar,350,,no
+950.0,3,120,3,Miraflores,Amoblado: Amoblado,500,1,no
+75.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+1300.0,4,200,4,Punta Hermosa,Amoblado: Amoblado,,,no
+625.43,3,145,3,La Molina,,,,no
+950.0,3,101,2,Miraflores,Amoblado: Sin amoblar,400,1,no
+750.0,2,95,1,San Borja,Amoblado: Sin amoblar,,,si
+570.0,2,55,2,Magdalena del Mar,,260,,si
+500.35,2,65,2,Magdalena del Mar,,,,no
+950.0,3,117,3,San Isidro,Amoblado: Amoblado,308,1,no
+1000.0,1,88,2,San Isidro,,,,no
+472.55,3,90,2,Chorrillos,Amoblado: Sin amoblar,,,no
+1200.0,3,130,3,San Isidro,Amoblado: Sin amoblar,400,,no
+583.74,4,85,3,San Miguel,,,,no
+555.94,3,110,3,San Miguel,Amoblado: Sin amoblar,200,,no
+2100.0,3,250,3.5,Santiago de Surco,Amoblado: Sin amoblar,,,no
+1050.0,2,104,2,Miraflores,,,,no
+90.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+416.96,1,50,1,San Borja,Amoblado: Sin amoblar,,,no
+1600.0,2,125,3,Miraflores,Amoblado: Amoblado,450,2,no
+850.0,4,111,4,Miraflores,Amoblado: Sin amoblar,450,2,si
+600.0,2,80,,Santiago de Surco,Amoblado: Sin amoblar,190,,no
+1800.0,3,205,3.5,San Isidro,Amoblado: Sin amoblar,550,,no
+416.96,2,70,1,Santiago de Surco,Amoblado: Amoblado,,,no
+1200.0,3,144,3,Punta Hermosa,,,,no
+850.0,2,86,3,San Isidro,Amoblado: Amoblado,245,1,no
+180.68,2,70,1,Comas,Amoblado: Sin amoblar,30,,no
+778.32,3,80,3,Miraflores,Amoblado: Sin amoblar,450,,no
+611.53,3,74,2,Santiago de Surco,,,,no
+500.0,3,90,2,San Borja,,120,,no
+650.0,3,90,2,Miraflores,Amoblado: Amoblado,200,1,si
+555.94,1,42,1,Barranco,,,,no
+850.0,2,95,2,Miraflores,,,,no
+972.9,2,8,2,Barranco,Amoblado: Amoblado,,,no
+416.96,3,80,2,Chorrillos,Amoblado: Sin amoblar,150,1,no
+900.0,3,95,2,Jesus Maria,Amoblado: Amoblado,,,si
+555.94,3,170,3,Santiago de Surco,,,,no
+277.97,3,130,3,Ate,,,,si
+750.0,1,64,1,Barranco,Amoblado: Amoblado,230,,no
+722.72,3,91,2,Jesus Maria,,,,no
+75.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+722.72,3,100,3,San Borja,,260,2,no
+667.13,2,70,2,Barranco,Amoblado: Semi-amoblado,,,no
+444.75,1,60,1,San Borja,Amoblado: Amoblado,,,si
+1000.0,1,87,2,Barranco,Amoblado: Amoblado,,,no
+1000.0,3,160,2,Santiago de Surco,Amoblado: Sin amoblar,200,,no
+2109.79,2,127,2,Miraflores,,,,no
+650.0,2,75,2,Santiago de Surco,Amoblado: Sin amoblar,300,1,no
+1300.0,2,90,2,Miraflores,Amoblado: Amoblado,,,no
+600.0,1,40,1,Miraflores,Amoblado: Sin amoblar,149,,no
+1000.0,3,93,3,San Bartolo,,,,no
+1500.0,1,130,2,San Isidro,Amoblado: Semi-amoblado,642,2,no
+694.93,2,154,2,La Molina,,,,no
+1350.0,3,170,2,Santiago de Surco,Amoblado: Sin amoblar,,,no
+650.0,3,85,2,Miraflores,,,,no
+890.0,2,110,2,Miraflores,Amoblado: Sin amoblar,,1,no
+1800.0,3,187,3,San Isidro,,,,no
+2500.0,3,220,3,San Isidro,,,,no
+416.96,3,72,2,Santiago de Surco,,,,no
+1100.0,5,258,5,Santiago de Surco,,,,no
+1150.0,2,120,2,San Borja,,,,no
+800.0,3,86,2,Barranco,Amoblado: Amoblado,,,no
+880.0,2,95,2,Santiago de Surco,,,,no
+700.0,4,160,3,La Molina,Amoblado: Sin amoblar,,,no
+849.0,3,89,2,Barranco,,,,no
+900.0,2,92,3,Surquillo,,,,no
+950.0,3,115,3,Miraflores,Amoblado: Amoblado,410,1,no
+3152.18,4,800,4,Chorrillos,Amoblado: Sin amoblar,,,no
+1400.0,3,172,3,Santiago de Surco,,,,no
+833.91,2,118,3,Santiago de Surco,,,,no
+2500.0,4,280,6,Miraflores,,,,no
+277.97,1,15,1,Santiago de Surco,,,,no
+1250.0,3,80,2,Miraflores,Amoblado: Amoblado,,,no
+555.94,2,,2,Surquillo,Amoblado: Semi-amoblado,,,si
+600.0,2,70,1,Santiago de Surco,Amoblado: Sin amoblar,,,no
+1100.0,4,156,3,Santiago de Surco,,,,no
+1250.0,4,235,4,Miraflores,Amoblado: Sin amoblar,,,no
+70.0,2,70,2,Miraflores,Amoblado: Amoblado,,,no
+850.0,2,60,2,Miraflores,Amoblado: Amoblado,275,,si
+280000.0,3,168,2,San Isidro,Amoblado: Sin amoblar,485,2,no
+2383.59,3,243,3,San Isidro,Amoblado: Sin amoblar,,,no
+416.96,3,120,2,San Miguel,Amoblado: Sin amoblar,70,,si
+500.35,3,130,2,Ate,Amoblado: Sin amoblar,30,2,no
+472.55,2,50,1,Santiago de Surco,Amoblado: Amoblado,,,no
+4600.0,3,350,,San Isidro,Amoblado: Amoblado,1,,no
+60.0,1,55,1,Miraflores,Amoblado: Amoblado,,,no
+800.0,3,87,2,Surquillo,Amoblado: Sin amoblar,,,no
+1200.0,4,250,4,Santiago de Surco,Amoblado: Semi-amoblado,,,no
+444.75,2,57,1,San Borja,,,,si
+1100.0,2,85,2,Miraflores,Amoblado: Amoblado,,,si
+472.55,2,110,2,Chorrillos,Amoblado: Sin amoblar,130,,no
+333.56,3,70,3,El Agustino,Amoblado: Semi-amoblado,,,no
+750.0,3,95,2,Santiago de Surco,Amoblado: Semi-amoblado,300,1,no
+639.33,2,61,2,Barranco,,,,no
+2700.0,4,274,4,Miraflores,Amoblado: Sin amoblar,,2,no
+3000.0,3,447,3.5,San Isidro,,2,3,no
+843.0,2,55,2,Barranco,,,,no
+900.0,3,102,2,Miraflores,,,,no
+1900.0,4,280,,Miraflores,Amoblado: Sin amoblar,400,2,si
+800.0,3,115,2,Miraflores,Amoblado: Amoblado,400,,no
+1550.0,3,150,2,Miraflores,Amoblado: Amoblado,500,2,no
+555.94,3,84,3,San Miguel,Amoblado: Semi-amoblado,160,,no
+1200.0,3,140,3,San Borja,Amoblado: Sin amoblar,,,no
+80.0,2,80,2,Miraflores,Amoblado: Amoblado,,,no
+1150.0,2,80,2,San Isidro,Amoblado,,,no
+1600.0,4,191,3,San Borja,,,,no
+1150.0,2,100,2,Santiago de Surco,,,,no
+3000.0,2,230,2.5,Santiago de Surco,Amoblado: Amoblado,800,,no
+2700.0,3,283,3,Barranco,,1,2,no
+1050.0,2,98,4,Miraflores,,,,no
+1700.0,2,210,2,San Isidro,Amoblado: Amoblado,480,,no
+1200.0,2,104,2,San Isidro,Amoblado: Amoblado,478,2,no
+1000.0,3,180,,Miraflores,Amoblado: Sin amoblar,,,no
+800.0,2,100,2,Miraflores,Amoblado: Amoblado,450,1,no
+1700.0,2,105,2,Miraflores,Amoblado: Amoblado,475,2,no
+1800.0,4,254,6,Santiago de Surco,Amoblado: Sin amoblar,500,,no
+1350.0,2,76,2,San Isidro,,,,no
+1250.0,3,144,3,San Borja,,,,no
+1500.0,3,206,2,Miraflores,,,,no
+333.56,2,80,1,Cercado de Lima,,,,no
+416.96,2,90,2,La Molina,Amoblado: Sin amoblar,,,no
+1000.0,3,101,3,Miraflores,Amoblado,,,no
+277.97,1,30,1,Miraflores,,,,no
+166.78,3,108,2,Carabayllo,Amoblado: Sin amoblar,,,no
+800.0,2,90,2,Miraflores,,,,no
+555.94,3,90,2,Jesus Maria,Amoblado: Amoblado,180,,no
+1000.0,3,110,3,Cercado de Lima,,,,no
+1300.0,3,146,5,Santiago de Surco,,,,no
+555.94,1,50,1,Surquillo,Amoblado: Amoblado,220,,no
+800.0,3,150,2,Surquillo,,,,no
+694.93,1,40,1,Surquillo,Amoblado: Amoblado,,,no
+843.0,2,55,2,Barranco,,,,no
+700.0,2,95,3,Santiago de Surco,,,,no
+900.0,2,95,2,San Isidro,,,,no
+639.33,1,47,1,Miraflores,Amoblado: Amoblado,,1,no
+600.0,1,45,1,Barranco,,,,no
+208.48,1,23,1,Cercado de Lima,,,,no
+920.0,3,95,2,Lince,,,,no
+1100.0,2,92,2,Miraflores,,,,no
+1000.0,3,101,3,Miraflores,Amoblado,,,no
+639.33,2,68,2,Lince,,,,no
+460000.0,3,210,4,Miraflores,Amoblado: Sin amoblar,510,2,no
+1400.0,2,100,2,Santiago de Surco,Amoblado: Amoblado,,,no
+2800.0,3,243,4,San Isidro,,,,no
+400.0,4,138,4,,Amoblado: Semi-amoblado,260,,no
+800.0,3,114,2,Santiago de Surco,,,,no
+250.17,3,72,1,San Martin de Porres,,,,no
+700.0,2,100,2,San Isidro,,,,no
+806.11,2,88,2,Miraflores,Amoblado: Amoblado,,1,no
+750.0,2,120,3,La Molina,Amoblado: Semi-amoblado,,,no
+700.0,4,115,2,Miraflores,,,1,no
+580.0,1,56,1,Santiago de Surco,,,,no
+222.38,2,80,1,Comas,,,,no
+600.0,1,38,1,Barranco,Amoblado: Amoblado,,,no
+800.0,1,64,2,Miraflores,Amoblado: Amoblado,290,,no
+2223.76,3,200,3,Miraflores,,,,no
+1100.0,1,62,2,Miraflores,Amoblado: Amoblado,300,,no
+500.35,2,76,2,San Miguel,,,,no
+1300.0,2,139,2,Miraflores,,,,no
+700.0,3,85,2,Magdalena del Mar,,,,no
+700.0,1,45,2,Barranco,Amoblado: Sin amoblar,240,,no
+361.36,2,78,1,San Juan de Miraflores,,,,no
+1000.0,4,108,2,Miraflores,,,,no
+1900.0,4,290,4,Santiago de Surco,,,,no
+850.0,2,110,3,San Borja,Amoblado: Sin amoblar,200,,no
+880.0,3,114,1,Santiago de Surco,,,,no
+444.75,2,50,1,Pueblo Libre,,,,no
+2800.0,3,200,3,Miraflores,Amoblado: Amoblado,,,no
+2065.04,3,210,2,San Isidro,Amoblado: Sin amoblar,,,no
+1200.0,1,110,1,San Isidro,,,,no
+1200.0,2,140,3,San Isidro,Amoblado: Sin amoblar,440,,no
+1250.0,3,158,4,Chorrillos,,,,no
+1000.0,3,149,2,La Molina,,,,no
+2700.0,3,200,3.5,San Isidro,,,3,no
+555.94,2,40,1,Surquillo,,,,no
+650.0,3,100,3,Santiago de Surco,,,,no
+694.93,2,100,2,San Borja,,,,no
+2500.0,3,262,4,Santiago de Surco,,,,no
+500.35,3,97,2,Pueblo Libre,,,,no
+820.0,2,93,2,Cercado de Lima,,,,no
+997.91,3,95,2,Barranco,,,,no
+750.0,3,98,2,Cercado de Lima,,,,no
+667.13,2,100,2,Santiago de Surco,Amoblado: Sin amoblar,20,1,no
+900.0,1,65,1,Miraflores,Amoblado: Amoblado,180,,si
+5800.0,4,440,4,Santiago de Surco,,,,no
+288000.0,3,114,2,Miraflores,,,,no
+296000.0,3,118,2,Miraflores,,,,no
+1500.0,3,128,3,San Isidro,,535,,no
+3752.6,4,415,3,San Isidro,,,,no
+750.0,4,91,3,La Molina,Amoblado: Sin amoblar,,2,no
+1700.0,2,110,1,San Isidro,Amoblado: Amoblado,,,no
+1000.0,3,110,3,Miraflores,,,,no
+1500.0,2,130,2,Miraflores,Amoblado: Amoblado,,,no
+1800.0,3,159,2,Miraflores,,,,no
+2244.61,3,210,3,San Isidro,,,,no
+780.0,3,100,2,Miraflores,,,,no
+972.9,3,103,2,San Borja,,150,,no
+1060.0,3,85,2,Miraflores,,,,no
+472.55,3,83,2,Magdalena del Mar,,,,no
+650.0,2,80,,Miraflores,,160,,no
+833.91,3,110,2,Cercado de Lima,,,,no
+639.33,1,45,1,Barranco,Amoblado: Semi-amoblado,,,no
+1795.69,3,200,3,San Isidro,Amoblado: Sin amoblar,,,no
+900.0,2,82,2,Miraflores,Amoblado: Sin amoblar,340,2,no
+461000.0,3,148,2,Miraflores,,,,no
+1800.0,3,200,3.5,San Isidro,Amoblado: Sin amoblar,655,2,no
+1000.0,2,94,2,Miraflores,,,,no
+1000.0,2,94,3,Miraflores,,,,no
+650.0,1,65,1,Miraflores,Amoblado: Amoblado,240,,no
+1056.29,4,120,4,La Molina,Amoblado: Amoblado,300,,no
+694.93,2,80,3,Miraflores,Amoblado: Sin amoblar,300,2,no
+600.0,1,51,1,Lince,,,,no
+1500.0,3,156,4,Santiago de Surco,,,,no
+850.0,3,95,2,Santiago de Surco,Amoblado: Amoblado,,,no
+583.74,1,55,2,Lince,,,,no
+653.23,3,84,2,San Miguel,,,,no
+700.0,1,40,1,Barranco,,,,no
+611.53,2,55,2,Jesus Maria,,,,no
+1100.0,3,140,3,Santiago de Surco,,,,no
+1800.0,3,200,3,San Isidro,Amoblado: Sin amoblar,,,no
+1100.0,1,70,2,Barranco,Amoblado: Amoblado,450,,no
+1100.0,3,198,2,Santiago de Surco,,,,no
+3200.0,2,110,2,San Bartolo,Amoblado: Amoblado,,,si
+694.93,3,110,2.5,Jesus Maria,Amoblado: Sin amoblar,240,,no
+694.93,3,110,3,La Victoria,Amoblado: Sin amoblar,,,si
+2000.0,4,209,4,San Isidro,,,,no
+806.11,3,,3,La Victoria,,,,no
+500.35,2,100,1,Magdalena del Mar,,,,no
+650.0,1,45,2,San Isidro,Amoblado: Sin amoblar,250,2,no
+722.72,3,82,2,Pueblo Libre,,,,no
+166.78,1,90,1,Villa El Salvador,Amoblado: Sin amoblar,,,no
+950.0,2,90,3,San Borja,Amoblado: Amoblado,300,,no
+694.93,3,95,3,Lince,,,,no
+792.21,3,105,2.5,San Miguel,Amoblado: Sin amoblar,250,,si
+900.0,3,100,2,Miraflores,Amoblado: Amoblado,335,1,no
+1800.0,3,130,3,Miraflores,Amoblado: Amoblado,377,,no
+889.5,3,123,2,Miraflores,,,,no
+583.74,3,110,2,Santiago de Surco,,,,no
+750.0,3,90,2,Miraflores,,,,no
+800.0,1,100,2,Miraflores,Amoblado: Amoblado,400,1,no
+1600.0,3,170,3,San Isidro,Amoblado: Amoblado,793,2,no
+850.0,2,90,2,Miraflores,,,,no
+600.0,1,46,1,Lince,,,,no
+313000.0,2,107,2,Miraflores,,,,no
+611.53,3,87,2,Santiago de Surco,,,,no
+555.94,3,101,2,La Molina,,,,no
+750.0,3,100,3,Santiago de Surco,,,,no
+2600.0,3,225,4,Miraflores,,,3,no
+3300.0,5,271,6,San Isidro,,,,no
+639.33,1,46,1,Miraflores,Amoblado: Amoblado,,1,no
+600.0,2,62,1,Barranco,,,,no
+900.0,1,65,2,Miraflores,Amoblado: Amoblado,198,,no
+555.94,1,45,1,Cercado de Lima,,,,no
+555.94,1,45,1,Cercado de Lima,,,,no
+722.72,3,87,2,San Miguel,,,,no
+1000.0,2,125,4,Miraflores,Amoblado: Sin amoblar,800,2,no
+980.0,4,145,3,Miraflores,Amoblado: Sin amoblar,400,1,no
+525.0,1,38,1,Barranco,,,,no
+950.0,2,80,2,Miraflores,Amoblado: Amoblado,,,no
+541.0,1,38,1,Barranco,,,,no
+2000.0,3,130,3,Miraflores,,,,no
+639.33,2,73,2,Magdalena del Mar,,,,no
+900.0,3,127,1,Chorrillos,,,,no
+400.0,1,35,1,Barranco,Amoblado: Sin amoblar,,,no
+833.91,3,116,3,Miraflores,Amoblado: Amoblado,500,1,no
+800.0,2,100,2,Miraflores,,,,no
+850.0,2,100,2,Miraflores,,,,no
+850.0,2,117,3,Miraflores,,350,1,no
+690.0,3,104,3,Santiago de Surco,Amoblado: Sin amoblar,280,1,no
+166.78,1,60,1,Comas,Amoblado: Sin amoblar,,,no
+950.0,3,143,3,Santiago de Surco,,,,no
+1200.0,3,126,3,Surquillo,Amoblado: Amoblado,,,no
+2000.0,3,215,4,Santiago de Surco,,,,no
+750.0,2,85,1,San Isidro,Amoblado: Sin amoblar,400,,no
+800.0,3,90,2,Magdalena del Mar,,,,no
+1200.0,3,152,2,Santiago de Surco,Amoblado: Sin amoblar,650,,no
+350.0,1,48,1,San Borja,,,,no
+1500.0,3,120,3,Miraflores,Amoblado: Amoblado,380,,no
+750.0,2,80,1.5,Miraflores,Amoblado: Amoblado,480,1,no
+1167.47,4,152,4,Magdalena del Mar,,,,no
+850.0,2,100,2,Miraflores,,,,no
+458.65,2,40,1,Cercado de Lima,,,,no
+2000.0,3,215,4,Santiago de Surco,,,,no
+277.97,2,55,1,Los Olivos,,,,no
+850.0,3,150,2,Santiago de Surco,Amoblado: Sin amoblar,,,no
+803.33,2,80,3,Miraflores,Amoblado: Sin amoblar,210,,no
+500.0,1,55,1,San Bartolo,Amoblado: Amoblado,,,no
+1430.16,2,169,2,Santiago de Surco,Amoblado: Sin amoblar,,,no
+1975.25,3,210,2,San Isidro,Amoblado: Sin amoblar,,,no
+444.75,1,45,1,San Borja,,,,no
+1250.0,3,137,3,Santiago de Surco,Amoblado: Sin amoblar,,,no
+555.94,3,120,4,La Molina,Amoblado: Semi-amoblado,200,,si
+500.35,3,80,2,Barranco,,,,no
+450.0,1,48,1,Barranco,,,,no
+700.0,2,95,1,Cercado de Lima,,,,no
+2000.0,4,180,4,Miraflores,,,,no
+900.0,2,110,2.5,Miraflores,Amoblado: Sin amoblar,,1,no
+667.13,3,95,3,Surquillo,,,,no
+667.13,3,95,3,Surquillo,,,,no
+722.72,3,150,2,La Molina,Amoblado: Sin amoblar,100,,no
+1000.0,2,90,1,San Martin de Porres,Amoblado: Sin amoblar,,,no
+800.0,3,87,2,San Miguel,,,,no
+950.0,1,70,1,Miraflores,Amoblado: Amoblado,,,no
+555.94,2,98,1,Santiago de Surco,,,,no
+694.93,2,98,2,Pueblo Libre,,,,no
+890.0,1,86,1,Miraflores,Amoblado: Amoblado,210,1,no
+500.35,3,120,2,La Molina,Amoblado: Sin amoblar,,,no
+1050.0,1,88,1,San Isidro,,,,no
+850.0,2,103,3,Barranco,,,,no
+472549.0,3,76,2,Santiago de Surco,,,,no
+1200.0,4,185,4,Santiago de Surco,,,,no
+0.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+500.35,1,41,1,Surquillo,,,,no
+800.0,1,75,2,Barranco,,,,no
+625.43,1,50,1,Santiago de Surco,Amoblado: Semi-amoblado,,,no
+780.0,2,75,2,Miraflores,Amoblado: Amoblado,300,1,no
+277.97,2,60,1,San Luis,,,,no
+950.0,1,50,2,Lince,Amoblado: Amoblado,220,1,no
+900.0,2,90,2,Barranco,Amoblado: Amoblado,,,no
+305.77,2,70,1,Los Olivos,Amoblado: Sin amoblar,,,no
+600.0,1,50,1,Miraflores,Amoblado: Amoblado,150,1,no
+358.58,3,84,3,Chaclacayo,Amoblado: Sin amoblar,,,no
+980.0,2,100,3,Miraflores,,,,no
+800.0,2,110,2,Miraflores,Amoblado: Amoblado,340,1,no
+1000.0,3,122,4,Santiago de Surco,,,,no
+972.9,3,149,3,Santiago de Surco,,,,no
+680.0,1,85,1,San Isidro,Amoblado: Amoblado,250,1,no
+700.0,1,45,1,San Isidro,,,,no
+2500.0,4,250,5,Miraflores,Amoblado: Sin amoblar,700,,no
+600.0,1,50,1,Magdalena del Mar,,,,no
+3100.0,2,110,2,San Bartolo,Amoblado: Amoblado,,,no
+1100.76,3,131,2,San Isidro,Amoblado: Sin amoblar,,,no
+722.72,3,100,2,San Isidro,Amoblado: Sin amoblar,150,,no
+650.0,3,102,3,Santiago de Surco,,,,no
+361.36,1,53,1,Santiago de Surco,Amoblado: Sin amoblar,,,no
+1000.0,3,150,2,Miraflores,Amoblado: Amoblado,,,no
+1500.0,2,111,3,Barranco,Amoblado,,,no
+750.0,3,78,2,Santiago de Surco,,,,no
+750.0,3,86,2,San Borja,Amoblado: Sin amoblar,100,1,no
+1400.0,3,190,2,San Isidro,Amoblado: Sin amoblar,150,,no
+2513.96,3,255,2,San Isidro,Amoblado: Sin amoblar,,,no
+850.0,2,100,2,Miraflores,,,,no
+2200.0,3,260,4,Miraflores,Amoblado: Amoblado,400,,no
+720.0,3,120,3,La Molina,Amoblado: Sin amoblar,270,1,no
+1100.0,3,180,4,Miraflores,Amoblado: Amoblado,,,no
+1200.0,2,120,2,San Isidro,Amoblado: Amoblado,,,no
+950.0,1,70,1,San Isidro,Amoblado: Amoblado,355,1,no
+694.93,3,100,2,Surquillo,,,,no
+850.0,2,90,2,Miraflores,,,,no
+2200.0,2,130,2.5,Miraflores,Amoblado: Amoblado,,,no
+722.72,7,243,5,Chorrillos,,,,no
+1200.0,3,147,4,Santiago de Surco,Amoblado: Amoblado,375,,no
+900.0,3,88,3,Miraflores,Amoblado: Sin amoblar,300,,no
+1800.0,3,166,4,San Isidro,Amoblado: Amoblado,250,,no
+700.0,2,94,3,Miraflores,,,,no
+333.56,3,76,1,Los Olivos,,,,no
+750.0,4,115,3,Miraflores,,,,no
+950.0,3,135,3,Santiago de Surco,,,,no
+333.56,3,76,1,Los Olivos,,,,no
+667.13,3,80,2,Jesus Maria,,,,no
+750.0,3,100,2,Miraflores,,,,no
+1100.0,2,157,3,Miraflores,,465,1,no
+680.0,1,70,2,Santiago de Surco,,,,no
+1301.73,3,180,2,San Isidro,,,,no
+1800.0,3,230,3,Santiago de Surco,Amoblado: Sin amoblar,,2,no
+2000.0,4,208,3,Miraflores,,,,no
+806.11,3,90,2,San Borja,,,,no
+214.04,1,100,1,Los Olivos,Amoblado: Sin amoblar,,,si
+8400.0,3,450,4,San Isidro,,,,no
+650.0,2,73,,Miraflores,Amoblado: Amoblado,250,1,no
+650.0,1,44,1,Miraflores,,,,no
+750.0,3,95,3,Santiago de Surco,,,,no
+1300.0,3,120,2.5,Miraflores,,370,,no
+660.0,2,130,3,San Borja,,,,no
+890.0,2,65,2,Miraflores,Amoblado: Amoblado,275,,no
+1700.0,3,255,4,Barranco,Amoblado: Sin amoblar,1,2,no
+1300.0,3,170,1,Santiago de Surco,,,,no
+583.74,1,41,1,Barranco,,,,no
+361.36,2,65,1,Santiago de Surco,Amoblado: Sin amoblar,180,,no
+660.0,2,130,3,San Borja,,,,no
+670.0,3,140,3,San Borja,,,,no
+2779.7,1,24,1,San Isidro,Amoblado: Sin amoblar,,,no
+583.74,3,100,1,Santiago de Surco,,,,no
+1200.0,3,155,2,San Borja,,,,no
+525.0,1,29,1,Barranco,,,,no
+500.35,2,55,2,Jesus Maria,,,,no
+540.0,1,29,1,Barranco,,,,no
+444.75,2,61,1,San Miguel,,,,no
+750.0,3,100,3,Santiago de Surco,,,,no
+1500.0,3,120,2,San Isidro,Amoblado: Amoblado,480,2,no
+1650.0,3,140,2,San Isidro,Amoblado: Amoblado,582,2,no
+890.0,3,80,1,Santiago de Surco,Amoblado: Amoblado,,,no
+897843.1,4,424,4,Miraflores,,,,no
+950.0,2,96,3,Santiago de Surco,,,,no
+1700.0,3,225,2,Santiago de Surco,,,,no
+472.55,2,90,2,La Molina,Amoblado: Sin amoblar,,,no
+770.0,2,75,2,Barranco,,,,no
+700.0,2,128,3,Santiago de Surco,,,,no
+380.0,1,65,1,Miraflores,Amoblado: Amoblado,,,no
+1100.0,2,120,2,San Isidro,Amoblado: Amoblado,300,1,no
+277.97,3,70,2,Rimac,,,,no
+583.74,3,88,2,Cercado de Lima,,,,no
+555.94,3,111,3,Santiago de Surco,,,,no
+1350.0,3,,2,San Isidro,,,,no
+1000.0,2,180,2,Miraflores,Amoblado: Amoblado,,,no
+1795.69,3,206,3,San Isidro,,,,no
+900.0,1,46,1,Miraflores,Amoblado: Amoblado,,,si
+550.0,1,37,1,Barranco,,,,no
+611.53,3,73,2,Magdalena del Mar,,,,no
+900.0,2,95,3,Santiago de Surco,,,,no
+264.07,2,75,1,San Martin de Porres,,,,no
+850.0,3,85,2,Pueblo Libre,Amoblado: Amoblado,,,no
+3000.0,3,177,3,San Isidro,,,,no
+50.0,1,55,1,Miraflores,Amoblado: Amoblado,,,no
+950.0,3,131,4,Santiago de Surco,,,,no
+6000.0,2,107,2,San Bartolo,Amoblado: Amoblado,120,,no
+650.0,2,80,1,San Borja,Amoblado: Sin amoblar,,,no
+416.96,2,79,2,Los Olivos,,,,no
+200.14,3,82,2,Puente Piedra,Amoblado: Sin amoblar,,,no
+2600.0,5,320,5,San Isidro,Amoblado: Amoblado,,,no
+0.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+0.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+1975.25,3,213,3,San Isidro,,,,no
+1600.0,3,240,3,Santiago de Surco,,,,no
+800.0,1,54,2,Barranco,,,,no
+0.0,2,75,2,Miraflores,Amoblado: Amoblado,,,no
+660.0,2,130,3,San Borja,,,,no
+222.38,1,70,1,Cercado de Lima,,,,no
+900.0,2,105,2,Miraflores,Amoblado: Amoblado,,,si
+710.0,3,76,2,Surquillo,,,,no
+1400.0,3,250,2,Miraflores,Amoblado: Sin amoblar,,1,no
+1800.0,3,300,4,Santiago de Surco,,,2,no
+806.11,2,64,2,Miraflores,,,,no
+416.96,3,65,2,El Agustino,,,,no
+1300.0,4,102,3,Santiago de Surco,,,,no
+2800.0,4,275,4,Santiago de Surco,Amoblado: Sin amoblar,,,no
+1500.0,3,162,4,San Isidro,Amoblado: Amoblado,200,,si
+333.56,3,100,2,San Martin de Porres,,,,no
+865.0,2,115,3,San Isidro,,,,no
+1800.0,3,255,3,San Isidro,Amoblado: Sin amoblar,750,1,no
+778.32,2,125,3,San Isidro,,,,no
+950.0,2,180,2,Miraflores,Amoblado: Amoblado,,,no
+850.0,3,120,4,Santiago de Surco,Amoblado: Sin amoblar,,,no
+1650.0,3,120,4,Miraflores,Amoblado: Amoblado,,,no
+1350.0,3,144,3,Santiago de Surco,,,,no
+890.0,3,120,2,San Isidro,,,,no
+750.0,1,47,2,San Isidro,Amoblado: Amoblado,,2,no
+800.0,2,90,3,Miraflores,,,,no
+800.0,2,105,2,Santiago de Surco,,,,no
+699.0,3,114,2,La Molina,,,,no
+1000.0,2,110,2,San Isidro,,,,no
+4500.0,3,573,3.5,San Isidro,,2,2,no
+665.0,2,60,2,Barranco,,,,no
+472.55,3,85,2,Magdalena del Mar,,,,no
+1362.05,4,201,4,,Amoblado: Sin amoblar,690,,no
+860.0,2,80,2,Miraflores,Amoblado,,,no
+589.0,1,43,1,Barranco,,,,no
+0.0,1,60,1,Miraflores,,,,no
+0.0,3,85,2,Miraflores,,,,no
+600.0,3,128,3,Santiago de Surco,,,,no
+900.0,1,80,2,Miraflores,Amoblado: Amoblado,290,1,no
+1050.0,2,96,2,Miraflores,Amoblado: Amoblado,300,1,no
+0.0,1,60,1,Miraflores,,,,no
+0.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+0.0,3,85,2,Miraflores,Amoblado: Amoblado,,,no
+0.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+375.26,2,35,1,Santiago de Surco,,,,no
+2500.0,4,263,3.5,Miraflores,Amoblado: Sin amoblar,,,no
+1300.0,2,110,2,Miraflores,Amoblado: Amoblado,410,,no
+3500.0,3,150,3,Punta Hermosa,,,,no
+264.07,3,84,2,Los Olivos,Amoblado: Sin amoblar,,,no
+1900.0,3,170,2,Miraflores,Amoblado: Amoblado,,,no
+520.0,1,42,,Miraflores,Amoblado: Semi-amoblado,,,no
+2380.0,4,349,4,Santiago de Surco,,,,no
+900.0,2,100,2,Magdalena del Mar,Amoblado: Amoblado,360,2,no
+750.0,2,55,2,Barranco,,,,no
+700.0,2,70,2,Lince,,,,no
+250.17,1,32,1,San Martin de Porres,,,,no
+667.13,3,98,3,Miraflores,,,,no
+1400.0,3,110,3,San Isidro,Amoblado: Amoblado,,,si
+750.0,2,116,3,Miraflores,,,,no
+1150.0,2,121,2,Miraflores,Amoblado: Amoblado,,,no
+1100.0,3,175,2,Santiago de Surco,Amoblado: Sin amoblar,,,no
+1163.3,3,193,2,San Isidro,,,,no
+650.0,3,110,3,Santiago de Surco,,,,no
+2065.04,3,215,3,San Isidro,,,,no
+750.0,2,75,2,San Miguel,,,,no
+700.0,2,90,2,Magdalena del Mar,,,,no
+850.0,1,68,2,Barranco,,,,no
+750.52,2,83,2,Miraflores,,,,no
+0.0,1,85,1,Miraflores,Amoblado: Amoblado,,,no
+0.0,3,85,2,Miraflores,Amoblado: Amoblado,,,no
+70000.0,1,40,1,Santiago de Surco,,,,no
+800.0,1,50,1,Lince,Amoblado: Amoblado,400,1,no
+800.0,1,49,1,Barranco,Amoblado: Amoblado,,1,no
+833.91,3,105,3,Miraflores,Amoblado: Amoblado,270,,no
+700.0,2,70,1,Barranco,Amoblado: Amoblado,150,,no
+850.0,3,100,4,Magdalena del Mar,,,,no
+555.94,3,90,2,Santiago de Surco,,,,no
+0.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+1301.73,2,150,2,San Isidro,,,,no
+0.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+570.0,3,60,2,Surquillo,,,,no
+1100.0,3,154,3,Miraflores,,,,no
+528.14,2,55,1,Miraflores,Amoblado: Amoblado,130,,no
+750.0,3,99,3,Santiago de Surco,,,,no
+555.94,2,92,2,Santiago de Surco,,,,no
+1200.0,3,135,2,San Isidro,,,,no
+0.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+444.47,2,95,2,Cercado de Lima,,,,no
+1000.0,1,85,2,Barranco,,,,no
+1436.55,2,120,2,Miraflores,,,,no
+0.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+550.0,2,60,1,Jesus Maria,,,,no
+1100.0,3,160,3,San Isidro,,,,no
+1980.0,2,151,2.5,Miraflores,Amoblado: Semi-amoblado,700,,no
+555.94,2,65,1,Pueblo Libre,,,,no
+1000.0,3,200,4,San Borja,,,,no
+1600.0,3,172,2.5,San Isidro,Amoblado: Amoblado,500,,no
+361.36,3,100,2,Ate,,,,no
+700.0,2,80,1,Miraflores,,,,no
+458.65,2,47,1,San Miguel,,,,no
+611.53,3,76,2,Santiago de Surco,Amoblado: Sin amoblar,,,no
+694.93,3,78,2,Cercado de Lima,,,,no
+611.53,3,91,2,Surquillo,,,,no
+1340.0,3,185,2,Santiago de Surco,,,,no
+820.0,2,103,2,San Isidro,,,,no
+1300.0,2,137,3,Miraflores,,,,no
+0.0,1,85,1,Miraflores,,,,no
+0.0,3,85,2,Miraflores,,,,no
+222.38,1,15,1,Santiago de Surco,,,,no
+800.0,1,50,1,Miraflores,,,,no
+513.0,2,60,1,Santiago de Surco,,,,no
+1300.0,3,155,3,San Isidro,Amoblado: Sin amoblar,500,2,si
+600.0,1,55,1,Miraflores,Amoblado: Amoblado,100,,no
+3300.0,3,400,4,Santiago de Surco,,,,no
+950.0,2,95,2,Miraflores,,,,no
+1436.55,3,190,2,San Isidro,Amoblado: Sin amoblar,,,no
+708.82,1,60,1,Miraflores,,,,no
+1100.0,2,120,2,Miraflores,Amoblado: Amoblado,350,,no
+1834.6,3,167,2,San Isidro,,,,no
+3000.0,3,283,,San Isidro,Amoblado: Amoblado,,2,no
+208.48,2,41,1,San Juan de Lurigancho,,,,no
+389.16,2,90,1,Barranco,,,,no
+583.74,3,147,2,La Molina,,,,no
+3860.73,3,230,3,Miraflores,Amoblado: Sin amoblar,,,no
+800.0,3,90,3,San Borja,,,,no
+500.35,2,103,1,San Luis,,,,no
+361.36,3,120,2,Santiago de Surco,,,,no
+639.33,3,90,2,Miraflores,,,,no
+528.14,3,89,3,San Miguel,Amoblado: Sin amoblar,155,,no
+800.0,1,50,1,Miraflores,,,,no
+800.0,1,48,1,Miraflores,,,,no
+850.0,3,86,3,Miraflores,,,,no
+0.0,2,75,2,Miraflores,Amoblado: Amoblado,,,no
+416.96,1,43,1,Pueblo Libre,,,,no
+650.0,2,88,2,Miraflores,,,,no
+500.0,1,45,1,Miraflores,,,,no
+1100.0,3,65,1,Miraflores,Amoblado: Amoblado,300,,no
+800.0,2,80,3,Miraflores,,,,no
+650.0,2,100,2,San Isidro,,,,no
+1651.14,3,308,2,San Isidro,,,,no
+583.74,1,54,2,Barranco,,,,no
+555.94,3,71,2,Barranco,,,,no
+1000.0,2,126,1,Barranco,,,,no
+700.0,1,74,2,Miraflores,,,,no
+472.55,2,70,2,La Molina,,,,no
+2071.43,3,190,2,Miraflores,,,,no
+2000.0,3,144,3,Miraflores,Amoblado: Amoblado,437,2,no
+620.0,3,89,1,Surquillo,,,,no
+1000.0,3,120,4,La Molina,,,,no
+1100.0,4,160,4,Chorrillos,,,,no
+555.94,3,90,2,San Borja,,,,no
+1000.0,3,120,3,San Borja,,300,,no
+650.0,1,44,1,Miraflores,,,,no
+611.53,4,82,3,Magdalena del Mar,,,,no
+700.0,2,95,1,Cercado de Lima,,,,no
+333.56,1,40,1,Pueblo Libre,,,,no
+1900.0,3,180,2,Miraflores,Amoblado: Sin amoblar,,2,no
+333.56,3,67,2,Chorrillos,,,,no
+1500.0,3,170,2.5,San Isidro,Amoblado: Amoblado,,1,no
+1100.0,3,135,3,Miraflores,,,,no
+555.94,3,65,1,San Miguel,,,,no
+694.93,3,120,2,San Borja,,,,no
+1850.0,3,160,3,San Isidro,Amoblado: Amoblado,300,,no
+694.93,3,82,2,San Miguel,Amoblado: Amoblado,,,si
+722.72,2,101,2,Santiago de Surco,,,,no
+486.45,1,45,1,Barranco,,,,no
+800.0,2,70,1,Miraflores,,,,no
+555.94,2,65,1,Pueblo Libre,,,,no
+486.45,2,64,1,La Molina,,,,no
+1300.0,4,255,5,Santiago de Surco,,,,no
+2000.0,3,423,4.5,Santiago de Surco,Amoblado: Amoblado,,,no
+600.0,1,50,1,Miraflores,,,,no
+750.0,2,94,2,Santiago de Surco,,,,no
+850.0,1,60,1,Miraflores,Amoblado: Amoblado,350,,no
+1100.0,3,190,2,La Molina,,,,no
+1000.0,3,110,2,Miraflores,Amoblado: Semi-amoblado,390,,no
+389.16,2,65,2,El Agustino,,,,no
+1050.0,1,64,1.5,Miraflores,Amoblado: Amoblado,190,,no
+4968.71,4,617,3,San Isidro,,,,no
+600.0,1,48,1,Barranco,,,,no
+527.0,2,68,2,Santiago de Surco,,,,no
+0.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+1400.0,1,66,2,San Isidro,Amoblado: Sin amoblar,700,2,no
+583.74,3,80,2,Lince,,,,no
+611.53,3,78,2,San Miguel,,,,no
+1000.0,3,120,4,Santiago de Surco,,,,no
+790.0,3,98,3,Lince,,,,no
+500.35,3,80,1,Cercado de Lima,,,,no
+440.0,1,50,1,Miraflores,,,,no
+700.0,1,45,1,Barranco,,,,no
+500.35,3,73,3,Chorrillos,,,,no
+416.96,1,43,1,Cercado de Lima,,,,no
+0.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+0.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+0.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+0.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+0.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+0.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+0.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+0.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+0.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+0.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+0.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+0.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+430.85,2,50,2,Chorrillos,,,,no
+1050.0,3,125,3,Miraflores,,,,no
+722.72,2,92,2,Miraflores,,,,no
+555.94,3,95,2,Santiago de Surco,,,,no
+555.94,3,95,2,Santiago de Surco,,,,no
+514.24,3,95,2,Santiago de Surco,,,,no
+1559.41,3,163,2,Miraflores,Amoblado: Sin amoblar,,,no
+233439.21,2,85,2,Miraflores,Amoblado: Sin amoblar,,,no
+583.74,1,60,1,San Miguel,,,,no
+900.0,2,70,2,Barranco,,,,no
+2700.0,3,250,3,Miraflores,Amoblado: Amoblado,,,no
+1000.0,1,80,2,San Isidro,Amoblado: Amoblado,300,,no
+694.93,3,75,2,Miraflores,,,,no
+1150.0,3,170,3,Santiago de Surco,Amoblado: Sin amoblar,280,1,no
+700.0,1,60,1,Miraflores,,,,no
+10000.0,2,120,2,Punta Hermosa,,,,no
+1000.0,2,80,,Miraflores,,,,no
+1000.0,3,96,2,Jesus Maria,Amoblado: Sin amoblar,,,no
+486.45,3,74,2,Santiago de Surco,,,,no
+528.14,2,62,2,Magdalena del Mar,,,,no
+333.56,1,24,1,Santiago de Surco,,,,no
+800.0,1,60,2,Barranco,,,,no
+800.0,3,113,3,San Borja,,,,no
+800.0,3,135,3,Magdalena del Mar,,,,no
+2200.0,3,300,4,San Isidro,,,,no
+700.0,2,88,2,Miraflores,,,,no
+700.0,2,100,2,San Isidro,,,,no
+361.36,1,35,1,Santiago de Surco,,,,no
+667.13,2,85,3,Magdalena del Mar,,,,no
+640.0,1,74,1,Miraflores,,,,no
+660.0,1,50,1,Miraflores,,,,no
+600.0,1,55,1,Miraflores,,,,no
+1000.0,3,117,3,Miraflores,Amoblado: Amoblado,,,no
+1206.95,1,136,1,San Isidro,Amoblado: Sin amoblar,,,no
+750.0,4,100,3,Jesus Maria,Amoblado: Sin amoblar,,,no
+694.93,3,180,2,La Molina,,,,no
+694.93,2,65,2,Surquillo,,,,no
+590.0,2,65,1,Barranco,Amoblado: Sin amoblar,,,no
+1400.0,3,130,3,Miraflores,,,,no
+472.55,2,82,1,Barranco,,,,no
+500.35,3,78,2,Pueblo Libre,,,,no
+1200.0,3,109,2,Surquillo,,,,no
+0.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+800.0,3,120,4,Miraflores,Amoblado: Amoblado,400,1,no
+700.0,2,112,2,La Molina,,,,no
+277.97,2,60,1,San Juan de Miraflores,,,,no
+1300.0,3,150,3,San Isidro,Amoblado: Amoblado,445,,no
+800.0,1,45,1,San Miguel,Amoblado: Amoblado,,,si
+800.55,2,105,2,Miraflores,,,,no
+667.13,,68,2,Lince,,,,no
+650.0,2,60,2,Barranco,,,,no
+880.0,2,85,2,Miraflores,,,,no
+1020.15,3,140,2,San Isidro,,,,no
+1900.0,3,410,3,Santiago de Surco,,,,no
+250.17,1,90,1,Santiago de Surco,Amoblado: Sin amoblar,,,no
+580.0,2,79,2,Pueblo Libre,,,,no
+1150.0,1,118,1,Miraflores,,,,no
+486.45,3,95,2,Santiago de Surco,,,,no
+542.04,3,100,2,Cercado de Lima,,,,no
+1436.55,3,145,3,Miraflores,,,,no
+1500.0,2,130,3,Miraflores,,,,no
+361.36,3,58,1,Chorrillos,,,,no
+305.77,1,22,1,Santiago de Surco,,,,no
+900.0,2,73,2,Miraflores,,,,no
+1500.0,3,150,3,Magdalena del Mar,,,,no
+472.55,2,72,2,La Molina,,,,no
+700.0,2,75,1,La Molina,Amoblado: Amoblado,,,no
+1300.0,2,126,2,San Borja,,,,no
+528.14,1,50,1,Santiago de Surco,,,,no
+416.96,1,35,1,Pueblo Libre,,,,no
+950.0,2,93,2,Miraflores,Amoblado: Sin amoblar,,,no
+890.0,1,80,1,San Isidro,Amoblado: Amoblado,300,1,no
+1050.0,4,140,4,Santiago de Surco,Amoblado: Amoblado,,,no
+1550.0,3,153,2,San Isidro,,,,no
+750.0,2,78,2,Miraflores,,,,no
+1200.0,1,80,1,Barranco,,,,no
+1742.87,4,200,3,San Isidro,Amoblado: Sin amoblar,,,no
+1100.0,1,70,2,San Isidro,Amoblado: Amoblado,400,,no
+611.53,2,58,1,Magdalena del Mar,,,,no
+1436.55,3,140,2,San Isidro,Amoblado: Sin amoblar,,,no
+472.55,2,70,2,San Miguel,,,,no
+850.0,3,90,2,Miraflores,,,,no
+472.55,3,102,1,San Miguel,,,,no
+800.0,3,160,4,Miraflores,,,,no
+639.33,3,70,2,Lince,,,,no
+700.0,2,88,3,Magdalena del Mar,,,,no
+2000.0,3,300,3,Santiago de Surco,,,,no
+1100.0,3,125,3,Cercado de Lima,,,,no
+694.93,3,80,2,Magdalena del Mar,,,,no
+1436.55,2,150,2,San Isidro,Amoblado: Sin amoblar,,,no
+775.0,2,87,1,San Isidro,,,,no
+750.52,3,106,2,Santiago de Surco,,,,no
+486.45,1,48,1,Miraflores,,,,no
+1084.08,4,160,4,Santiago de Surco,,,,no
+800.0,3,109,3,Santiago de Surco,,,,no
+806.11,3,150,2,La Molina,,,,no
+700.0,2,75,2,San Miguel,,,,no
+583.74,3,78,2,Pueblo Libre,,,,no
+850.0,2,130,2,Miraflores,Amoblado: Sin amoblar,,,no
+416.96,3,80,2,La Victoria,,,,no
+1100.0,3,135,2,San Isidro,,,,no
+650.0,1,64,1,Miraflores,,,,no
+416.96,4,160,3,Lurin,,,,no
+1500.0,3,151,5,Miraflores,,,,no
+1050.0,2,85,3,Miraflores,,,,no
+850.0,2,95,2,Miraflores,,,,no
+1050.0,3,120,2,Miraflores,,,,no
+1350.0,3,120,2,Miraflores,,,,no
+850.0,3,83,2,San Miguel,,,,no
+611.53,3,97,3,Jesus Maria,,,,no
+1260.0,3,123,3,Miraflores,,,,no
+2500.0,5,222,4,San Isidro,,,,no
+2000.0,1,50,1,Surquillo,Amoblado: Amoblado,220,,no
+1200.0,2,150,4,San Isidro,Amoblado: Sin amoblar,500,2,no
+555.94,2,84,2,Miraflores,,,,no
+650.0,3,79,2,Miraflores,,,,no
+680.0,2,80,,Magdalena del Mar,,,,no
+1800.0,2,107,2,San Isidro,,,,no
+1900.0,3,185,1,Miraflores,,,,no
+1350.0,3,162,3,Miraflores,,710,1,no
+1500.0,3,210,3,Santiago de Surco,,,,no
+4000.0,3,210,3,San Isidro,,,,no
+3000.0,3,220,,San Isidro,Amoblado: Sin amoblar,,3,no
+750.0,3,,3,Miraflores,,,,no
+500.35,1,70,1,San Martin de Porres,,,,no
+800.0,3,100,3,Miraflores,,,,no
+1300.0,3,189,2,Santiago de Surco,,,,no
+416.96,1,45,1,San Bartolo,Amoblado: Amoblado,,,no
+1616.12,3,187,3,Miraflores,,,,no
+900.0,3,80,2,San Miguel,,,,no
+639.33,2,96,2,Magdalena del Mar,,,,no
+2244.61,3,180,3,Miraflores,,,,no
+720.0,2,73,2,Miraflores,,,,no
+1500.0,4,153,4,Santiago de Surco,,,,no
+680.0,1,54,2,Barranco,,,,no
+416.96,3,200,1,Ate,Amoblado: Semi-amoblado,,,no
+667.13,3,86,2,Jesus Maria,,,,no
+1400.0,2,127,3,San Isidro,,,,no
+472.55,3,84,2,San Miguel,,,,no
+583.74,2,67,2,Santiago de Surco,,,,no
+500.35,2,64,2,San Bartolo,,,,no
+1000.0,3,130,3,Magdalena del Mar,,,,no
+1700.0,3,200,2,San Isidro,Amoblado: Sin amoblar,,,no
+1056.29,2,98,2,Miraflores,,,,no
+1800.0,3,210,2.5,San Isidro,Amoblado: Amoblado,850,,no
+236.27,2,200,1,Los Olivos,Amoblado: Sin amoblar,,,si
+667.13,3,150,2,La Victoria,,,,no
+667.13,3,150,2,La Victoria,,,,no
+972.9,1,180,1,San Martin de Porres,,,,no
+950.0,2,95,2,Miraflores,,,,no
+416.96,1,56,1,Chorrillos,Amoblado: Amoblado,130,,no
+639.33,3,105,3,Breña,,,,no
+1025.0,2,88,2,Miraflores,,,,no
+430.85,1,45,1,Lince,,,,no
+310.0,1,50,1,Breña,Amoblado: Sin amoblar,,,no
+1000.0,3,114,3,San Borja,Amoblado: Semi-amoblado,320,,no
+1650.0,3,75,1,Santiago de Surco,,,,no
+611.53,3,84,3,Magdalena del Mar,,,,no
+667.13,3,110,3,San Borja,,,,no
+1528.84,5,200,4,San Borja,,,,no
+1800.0,3,188,3,San Isidro,,,,no
+1795.69,3,153,2,Miraflores,,,,no
+1300.0,3,127,4,San Borja,,,,no
+1100.0,3,100,3,Miraflores,,,,no
+690.0,1,50,1,Santiago de Surco,,,,no
+800.0,2,75,2,Lince,,,,no
+650.0,3,113,1,Santiago de Surco,,,,no
+800.0,1,65,1,Barranco,,,,no
+699.0,2,78,1,Santiago de Surco,,,,no
+750.52,3,103,,Santiago de Surco,Amoblado: Sin amoblar,,,no
+694.93,3,90,2,Surquillo,,,,no
+2100.0,4,247,3,Miraflores,,,,no
+2300.0,4,400,4,San Isidro,,,,no
+1080.0,3,106,2,Miraflores,,,,no
+500.35,2,83,1,Santiago de Surco,,,,no
+1800.0,3,225,4,San Isidro,,,,no
+555.94,3,110,3,Pueblo Libre,,,,no
+1350.0,3,113,3,Santiago de Surco,,,,no
+1400.0,3,115,3,Miraflores,Amoblado: Amoblado,489,2,no
+700.0,2,88,3,San Borja,,,,no
+2400.0,3,153,2,San Isidro,,,,no
+850.0,2,96,3,Miraflores,Amoblado: Sin amoblar,,,no
+900.0,2,94,2,Miraflores,,,,no
+2400.0,3,130,3,Miraflores,,,,no
+583.74,2,62,1,Surquillo,,,,no
+416.68,2,90,1,Cercado de Lima,,,,no
+1550.0,2,154,3,San Isidro,,,,no
+610.0,1,46,1,San Isidro,,,,no
+444.75,2,110,1,Santiago de Surco,,,,no
+950.0,2,140,2,San Isidro,Amoblado: Sin amoblar,,,no
+416.96,1,44,1,Pueblo Libre,,,,no
+585.0,1,46,1,San Isidro,,,,no
+850.0,2,85,,Miraflores,Amoblado: Amoblado,300,1,no
+650.0,3,90,2,Magdalena del Mar,,,,no
+750.0,3,80,2,San Miguel,,,,no
+2400.0,4,250,5,Miraflores,,,,no
+528.14,2,54,2,Surquillo,,,,no
+1350.0,4,256,5,Santiago de Surco,,,,no
+1000.0,3,120,3,Santiago de Surco,,,,no
+555.94,3,86,2,Jesus Maria,,,,no
+264.07,2,55,,Chorrillos,,,,no
+1500.0,1,180,1,Miraflores,,,,no
+1700.0,3,175,4,Miraflores,,,,no
+750.52,3,105,2,Barranco,,,,no
+700.0,1,68,2,Miraflores,,,,no
+2000.0,3,220,2,Miraflores,,,,no
+2000.0,3,200,3,Santiago de Surco,Amoblado: Semi-amoblado,,,no
+1573.03,3,120,2,San Isidro,,,,no
+500.0,,70,1,Punta Hermosa,Amoblado: Amoblado,,,no
+831.13,3,120,2,Santiago de Surco,,,,no
+1000.0,1,97,1,Barranco,,,,no
+639.33,4,89,3,Jesus Maria,,,,no
+1200.0,3,130,3,Barranco,,,,no
+583.74,3,78,2,Pueblo Libre,,,,no
+5500.0,4,410,5,San Isidro,,,,no
+750.0,3,80,2,Surquillo,,,,no
+416.96,2,50,2,San Miguel,,,,no
+1400.0,3,135,3,Miraflores,,,,no
+650.0,3,95,,Surquillo,,,,no
+1000.0,2,120,3,Magdalena del Mar,,,,no
+389.16,1,,1,Santiago de Surco,,,,no
+1200.0,4,62,2,Cercado de Lima,,,,no
+950.0,3,179,2,Santiago de Surco,,,,no
+500.35,2,70,2,Jesus Maria,,,,no
+700.0,2,60,2,Surquillo,Amoblado: Amoblado,,,no
+611.53,2,70,2,San Borja,Amoblado: Sin amoblar,200,1,no
+416.96,2,79,2,Los Olivos,,,,no
+1100.0,3,140,3,San Borja,,,,no
+1100.0,3,160,2,Miraflores,Amoblado: Amoblado,,2,no
+416.96,3,75,2,Chorrillos,,,,no
+850.0,1,74,1,Barranco,,,,no
+1400.0,3,155,3,San Isidro,Amoblado: Sin amoblar,600,,no
+750.0,1,45,1,Barranco,,,,no
+611.53,2,106,1,La Molina,,,,no
+1100.0,2,130,3,Miraflores,,,,no
+333.56,3,108,1,San Martin de Porres,,,,no
+729.67,3,100,2,Magdalena del Mar,,,,no
+1300.0,3,120,3,Miraflores,Amoblado: Amoblado,,,no
+250.0,2,45,1,San Miguel,Amoblado: Amoblado,,,no
+1000.0,2,105,2,Miraflores,,,,no
+890.0,1,72,1,Barranco,,,,no
+800.0,3,95,2,Magdalena del Mar,,,,no
+22000.0,5,260,5,Punta Hermosa,Amoblado: Amoblado,400,,no
+528.14,4,100,3,Santiago de Surco,,,,no
+820.0,1,53,2,Barranco,,,,no
+1400.0,2,140,2,Miraflores,,,,no
+453.09,3,100,2,Ate,,,,no
+700.0,3,75,2,La Victoria,,,,no
+236.27,2,70,1,San Martin de Porres,,,,no
+950.0,3,94,2,San Isidro,,,,no
+650.0,1,55,1,Barranco,,,,no
+1100.0,3,170,3,Miraflores,,400,,no
+500.35,1,44,1,Magdalena del Mar,,,,no
+620.0,1,53,2,Barranco,,,,no
+806.11,2,95,2,Miraflores,Amoblado: Amoblado,280,1,no
+950.0,3,120,4,Miraflores,,,,no
+430.85,3,100,2,Cercado de Lima,,,,no
+1100.0,2,80,2,Miraflores,Amoblado: Amoblado,,,no
+555.94,1,,1,Miraflores,,,,no
+639.33,3,84,2,San Borja,,,,no
+112.0,1,20,1,La Molina,,,,no
+850.0,2,90,2,Miraflores,,,,no
+2065.04,3,190,2,Miraflores,,,,no
+1000.0,1,100,1,Barranco,,,,no
+650.0,3,90,1,San Borja,,,,no
+444.75,2,72,2,Barranco,,,,no
+650.0,1,60,1,Miraflores,,,,no
+500.35,2,72,2,San Miguel,,,,no
+900.0,2,,1,San Isidro,,,,no
+1436.55,3,180,2,San Isidro,,,,no
+1150.0,3,125,4,Santiago de Surco,,,,no
+850.0,3,110,,San Borja,,,,no
+780.0,2,66,2,Santiago de Surco,,,,no
+778.32,1,757,2,Miraflores,Amoblado: Amoblado,350,,no
+850.0,1,72,1,San Isidro,,,,no
+2200.0,3,210,4,Barranco,,,,no
+2100.0,3,231,4,Miraflores,Amoblado: Semi-amoblado,,,si
+2100.0,3,194,1,San Isidro,,,,no
+1400.0,3,126,2,San Isidro,,,,no
+2000.0,3,200,4,San Isidro,Amoblado: Sin amoblar,,,no
+550.0,2,73,2,San Miguel,,,,no
+750.0,2,74,2,Surquillo,,,,no
+667.13,3,83,2,Jesus Maria,,,,no
+1250.0,2,130,2,San Isidro,,,,no
+305.77,1,38,1,Santiago de Surco,,,,no
+1900.0,3,,2,Miraflores,,,,no
+555.94,3,,2,Santiago de Surco,,,,no
+270000.0,3,120,3,San Borja,,,,no
+680.0,1,52,1,Lince,,,,no
+611.53,1,46,1,San Isidro,,,,no
+420.0,1,45,1,Miraflores,Amoblado: Sin amoblar,280,,no
+850.0,3,120,2,Santiago de Surco,,,,no
+850.0,2,89,2,Miraflores,,,,no
+667.13,3,75,2,Lince,,,,no
+4000.0,4,438,4,San Isidro,,,,no
+486.45,2,,2,Jesus Maria,,,,no
+416.96,1,40,1,Surquillo,,,,no
+416.96,3,100,2,Santa Anita,,,,no
+700.0,2,101,3,Miraflores,Amoblado: Semi-amoblado,450,1,no
+1250.0,3,160,3,San Isidro,,,,no
+750.0,1,74,2,Barranco,,,,no
+555.94,2,95,2,Magdalena del Mar,,,,no
+450.0,1,30,1,Cercado de Lima,,,,no
+250.17,3,80,2,San Juan de Miraflores,Amoblado: Sin amoblar,,,no
+800.0,3,,3,Cercado de Lima,,,,no
+1334.26,3,148,2,San Isidro,,,,no
+950.0,1,100,2,Miraflores,Amoblado: Semi-amoblado,,,no
+880.0,3,140,1,San Isidro,,,,no
+800.0,2,140,2,Miraflores,,,,no
+2476.71,3,289,2,San Isidro,,,,no
+1616.12,2,160,2,San Isidro,,,,no
+690.0,1,47,1,Lince,,,,no
+850.0,2,68,2,Miraflores,,,,no
+1050.0,4,198,4,Santiago de Surco,,,,no
+1000.0,2,90,2,Miraflores,Amoblado: Sin amoblar,400,,no
+555.94,3,78,,Lince,,,,no
+1000.0,2,120,3,San Isidro,,,,no
+583.74,2,56,2,Magdalena del Mar,,,,no
+722.72,3,169,2,La Molina,,,,no
+416.96,3,80,2,Los Olivos,,,,no
+639.33,3,110,2,Santiago de Surco,,100,1,no
+2500.0,3,200,5,San Isidro,,,,no
+550.0,1,50,1,Barranco,,,,no
+555.94,2,57,2,La Victoria,,,,no
+550.0,1,40,1,San Isidro,Amoblado: Amoblado,250,1,no
+480.89,3,100,2,Ate,,,,no
+667.13,3,88,2,San Miguel,,,,no
+550.0,2,150,1,La Molina,Amoblado: Sin amoblar,,,no
+1200.0,1,70,1,San Isidro,,,,no
+600.0,1,53,2,Barranco,,,,no
+1000.0,2,107,3,Magdalena del Mar,,,,no
+2800.0,4,316,5,San Isidro,,,,no
+430.85,3,93,2,Santiago de Surco,,,,no
+583.74,2,78,3,Miraflores,,,,no
+458.65,2,50,1,Breña,,,,no
+700.0,3,80,,Magdalena del Mar,,,,no
+500.35,2,76,1,Lince,,,,no
+1100.0,3,182,3,Miraflores,,,,no
+750.0,2,93,2,San Miguel,Amoblado: Sin amoblar,,,si
+850.0,1,54,1,Miraflores,,,,no
+1200.0,3,135,3,Santiago de Surco,,,,no
+900.0,1,70,1,Miraflores,,,,no
+500.35,2,100,2,Jesus Maria,,,,no
+416.96,3,72,2,Chorrillos,,,,no
+690.0,1,65,1,Miraflores,,,,no
+650.0,1,40,1,Barranco,,,,no
+980.0,3,95,,Barranco,,,,no
+667.13,1,60,1,Miraflores,,,,no
+667.13,2,75,2,Santiago de Surco,,,,no
+700.0,1,45,1,San Isidro,,,,no
+2100.0,4,270,3,San Isidro,Amoblado: Amoblado,950,2,no
+694.93,4,118,3,Miraflores,Amoblado: Semi-amoblado,300,,no
+2000.0,3,318,4,San Isidro,,,,no
+2244.61,4,220,3,San Isidro,,,,no
+1000.69,4,120,4,San Borja,,,,no
+500.35,2,90,1,La Molina,Amoblado: Sin amoblar,,,no
+1200.0,3,155,3,San Isidro,Amoblado: Sin amoblar,500,,no
+900.0,3,126,3,San Borja,,,,no
+361.36,3,100,2,Ate,,,,no
+1100.0,4,180,4,Santiago de Surco,,,,no
+3700.0,3,287,3,Miraflores,,,,no
+664.35,3,72,2,Magdalena del Mar,,,,no
+389.16,2,60,1,Cercado de Lima,,,,no
+7500.0,4,200,3,Lurin,,,,no
+1000.0,2,110,2,San Miguel,,,,no
+792.21,2,88,3,Miraflores,,,,no
+700.0,3,90,2,Santiago de Surco,,,,no
+850.0,3,100,2,San Borja,,,,no
+692.15,3,90,1,San Borja,,,,no
+1280.0,2,125,2,San Isidro,Amoblado: Sin amoblar,,,no
+583.74,3,75,2,Lince,,,,no
+1300.0,3,179,3,San Borja,,,,no
+472.55,3,160,2,San Juan de Lurigancho,,,,no
+750.0,,85,2,Cercado de Lima,,,,no
+500.35,1,49,2,Barranco,,,,no
+750.0,3,105,2,Santiago de Surco,,,,no
+1000.0,2,131,2,Santiago de Surco,,,,no
+2000.0,3,240,3,Miraflores,,,,no
+680.0,2,70,2,Magdalena del Mar,,,,no
+806.11,3,110,3,Surquillo,,,,no
+500.35,2,55,1,Santiago de Surco,,,,no
+444.75,3,76,2,San Miguel,,,,no
+1200.0,3,123,2,Miraflores,,450,,no
+727.0,2,64,2,Barranco,,,,no
+208.48,1,60,1,Los Olivos,,,,no
+806.11,3,80,,Surquillo,,,,no
+1500.0,5,216,5,San Borja,,,,no
+500.35,3,75,2,Santiago de Surco,,,,no
+1885.47,3,210,2,San Isidro,Amoblado: Sin amoblar,,,no
+900.0,2,78,2,Surquillo,,,,no
+305.77,2,68,1,Chorrillos,,,,no
+750.0,2,68,2,Lince,,,,no
+650.0,1,48,1,San Isidro,,,,no
+680.0,2,88,2,San Isidro,,,,no
+611.53,3,100,2,San Borja,,,,no
+800.0,3,96,2,La Molina,,,,no
+800.0,2,90,,Santiago de Surco,,,,no
+1700.0,3,185,3,San Isidro,,,,no
+940.0,3,115,3.5,Miraflores,Amoblado: Sin amoblar,380,,no
+2000.0,3,280,4,Santiago de Surco,,,,no
+2000.0,2,90,2,San Bartolo,,,,no
+1250.0,3,150,2,Miraflores,,,,no
+1000.0,4,108,4,Santiago de Surco,,,,no
+569.84,2,55,2,Surquillo,,,,no
+444.75,3,67,1,Santiago de Surco,,,,no
+1350.0,3,120,3,Miraflores,Amoblado: Amoblado,,,no
+900.0,2,90,2,Santiago de Surco,,,,no
+1049.0,3,128,4,Miraflores,,,,no
+1200.0,3,90,2,Miraflores,,,,no
+1500.0,3,144,3,San Isidro,,,,no
+1000.0,2,137,3,San Isidro,,,,no
+555.94,3,80,2,Cercado de Lima,,,,no
+528.14,3,118,2,La Molina,,,,no
+389.16,3,57,2,Cercado de Lima,,,,no
+950.0,3,115,2,San Isidro,,,,no
+1200.0,3,130,2,San Isidro,,,,no
+458.65,2,49,2,San Miguel,,,,no
+950.0,2,86,2,Barranco,Amoblado: Semi-amoblado,400,,no
+500.35,2,86,2,San Juan de Lurigancho,,,,no
+722.72,3,103,4,Santiago de Surco,Amoblado: Semi-amoblado,360,1,no
+1000.0,2,200,3,La Molina,,,,no
+277.97,2,63,1,San Juan de Miraflores,,,,no
+950.0,3,95,2,Miraflores,Amoblado: Amoblado,,,no
+917.3,4,100,3,Surquillo,,,,no
+833.91,2,110,2,Magdalena del Mar,,,,no
+639.33,3,100,2,San Borja,,,,no
+1400.0,3,110,4,Miraflores,,,,no
+2200.0,4,250,4,San Isidro,,,,no
+670.0,2,90,2,Miraflores,,,,no
+850.0,1,65,1,Barranco,,,,no
+778.32,3,146,3,San Borja,,,,no
+1580.0,3,,,San Isidro,,,,no
+889.5,5,160,3,Miraflores,,,,no
+780.0,1,85,2,San Isidro,,,,no
+725.0,3,111,1,Miraflores,,,,no
+1100.0,2,110,3,San Isidro,,,,no
+1000.0,2,96,2,Miraflores,,,,no
+850.0,2,112,2,San Isidro,,,,no
+600.0,2,65,2,Jesus Maria,,,,no
+750.0,2,55,2,Barranco,,,,no
+1250.0,3,116,3,Santiago de Surco,,,,no
+667.13,1,65,2,Miraflores,,,,no
+1100.0,3,113,2,Santiago de Surco,,,,no
+1400.0,3,126,3,Miraflores,Amoblado: Amoblado,329,,si
+810.0,2,78,2,Cercado de Lima,,,,no
+500.0,1,32,1,Cercado de Lima,,,,no
+1300.0,3,200,4,Santiago de Surco,,,,no
+833.91,4,160,3,La Molina,,,,no
+1500.0,4,200,4,Miraflores,Amoblado: Amoblado,185,,no
+528.14,3,82,1,San Miguel,,,,no
+800.0,1,65,1,Miraflores,,,,no
+400.0,2,73,1,Breña,,,,no
+950.0,3,129,3,Miraflores,Amoblado: Sin amoblar,,,si
+250.17,2,60,1,San Juan de Miraflores,,,,no
+1000.0,2,110,2.5,Magdalena del Mar,Amoblado: Amoblado,450,2,no
+900.0,2,66,1,San Miguel,Amoblado: Amoblado,,,si
+180.68,2,70,,Comas,,,,no
+800.0,3,100,3,La Molina,,,,no
+700.0,2,86,2,Miraflores,,,,no
+722.72,1,51,1,Lince,,,,no
+333.56,1,40,1,Cercado de Lima,,,,no
+490.0,2,56,1,Santiago de Surco,Amoblado: Sin amoblar,150,,no
+650.0,2,55,1,Surquillo,,,,no
+667.13,3,96,3,La Molina,,,,no
+600.0,2,50,1,Surquillo,,,,no
+750.52,3,120,2,Barranco,,,,no
+550.38,2,60,2,Miraflores,,,,no
+639.33,3,87,2,San Miguel,,,,no
+694.93,4,100,3,San Borja,,,,no
+650.0,2,62,2,Barranco,,,,no
+236.27,3,65,1,Villa El Salvador,,,,no
+1600.0,4,154,3,San Isidro,,,,no
+722.72,2,100,2,Miraflores,,,,no
+850.0,2,80,2,Miraflores,,,,no
+555.94,4,105,3,La Molina,,,,no
+1100.0,1,70,1,Miraflores,Amoblado: Amoblado,,,no
+3000.0,3,220,,San Isidro,Amoblado: Sin amoblar,,3,no
+166.78,2,35,1,Villa Maria del Triunfo,Amoblado: Sin amoblar,,,no
+2900.0,4,393,4,San Isidro,Amoblado: Sin amoblar,1,3,no
+528.14,4,120,2,Chorrillos,,,,no
+650.0,1,53,1,Miraflores,,,,no
+990.0,3,92,3,Santiago de Surco,,,,no
+790.0,2,88,2,Barranco,,,,no
+583.74,3,75,2,Lince,,,,no
+1000.0,3,136,3,Santiago de Surco,,,,no
+694.93,3,72,,Lince,,,,no
+675.0,1,49,1,Barranco,,,,no
+272.41,2,60,1,San Juan de Miraflores,,,,no
+1200.0,3,130,2,Barranco,,,,no
+472.55,2,50,2,Cercado de Lima,,,,no
+555.94,4,120,2,Pueblo Libre,,,,no
+722.72,2,80,2,Miraflores,,,,no
+1700.0,4,180,4,Barranco,,,,no
+900.0,2,105,3,Jesus Maria,,,,no
+1100.0,2,95,2,Miraflores,,,,no
+520.0,1,50,1,Miraflores,,,,no
+700.0,2,74,2,Barranco,,,,no
+1945.79,3,206,2,San Isidro,Amoblado: Sin amoblar,,,no
+653.23,3,80,3,Lince,,,,no
+194.58,2,55,1,Villa El Salvador,,,,no
+458.65,3,70,2,Santiago de Surco,,,,no
+2500.0,3,240,2,San Isidro,,,,no
+900.0,1,76,2,Miraflores,,,,no
+2000.0,3,215,4,Santiago de Surco,,,,no
+670.0,3,89,3,Jesus Maria,,,,no
+333.56,2,70,1,Cercado de Lima,,,,no
+3500.0,2,64,2,San Bartolo,,,,no
+1945.79,3,220,4,Chorrillos,Amoblado: Sin amoblar,,,no
+920.0,3,125,3,Santiago de Surco,,,,no
+472.55,3,140,3,La Victoria,,,,no
+2300.0,4,289,5,Santiago de Surco,,,,no
+900.0,3,77,2,Magdalena del Mar,,,,no
+1500.0,5,350,3,San Borja,,,,no
+458.65,3,70,2,Santiago de Surco,,,,no
+1800.0,2,229,3,Miraflores,,,,no
+650.0,1,47,1,San Isidro,,,,no
+542.04,2,78,2,Magdalena del Mar,,,,no
+930.0,1,92,2,Miraflores,,,,no
+514.24,3,72,3,Cercado de Lima,,,,no
+750.0,1,52,1,Magdalena del Mar,,,,no
+1100.0,3,,4,Magdalena del Mar,,,,no
+1100.0,3,145,4,Miraflores,,,,no
+800.0,3,133,2,Miraflores,,,,no
+1600.0,3,172,2,San Isidro,,,,no
+600.0,1,58,1,Miraflores,,,,no
+469.77,3,75,2,Santiago de Surco,,,,no
+900.0,2,104,2,Miraflores,,,,no
+875.0,3,100,3,Miraflores,,,,no
+720.0,1,57,1,Lince,,,,no
+1000.0,3,156,2,San Isidro,,,,no
+5000.0,4,350,5,Miraflores,,,,no
+416.96,3,75,3,Santiago de Surco,,,,no
+1000.0,3,130,2,San Isidro,Amoblado: Sin amoblar,,,no
+277.97,1,45,1,Santiago de Surco,,,,no
+690.0,2,84,2,Barranco,,,,no
+486.45,3,70,2,San Miguel,,,,no
+555.94,2,75,,Pueblo Libre,,,,no
+1250.0,3,113,3,Miraflores,Amoblado: Sin amoblar,,,no
+333.56,3,100,2,San Juan de Lurigancho,,,,no
+630.0,1,60,2,Magdalena del Mar,,,,no
+444.75,2,50,2,Lince,,,,no
+319.67,3,90,2,San Martin de Porres,,,,no
+611.53,2,85,1,San Isidro,,,,no
+450.0,3,90,2,La Molina,,,,no
+1300.0,,170,3,Santiago de Surco,,,,no
+1300.0,3,150,,San Isidro,Amoblado: Sin amoblar,,,no
+555.94,2,80,2,Santiago de Surco,,,,no
+319.67,3,90,2,San Martin de Porres,,,,no
+800.0,2,80,1,Miraflores,,,,no
+690.0,1,61,2,San Borja,,,,no
+1500.0,3,137,3,San Isidro,,,,no
+305.77,3,110,1,San Martin de Porres,,,,no
+675.0,1,59,1,Miraflores,,,,no
+416.96,1,30,1,San Miguel,,,,no
+800.0,4,105,3,Santiago de Surco,Amoblado: Sin amoblar,,,no
+1850.0,3,200,3,San Isidro,,,,no
+790.0,3,125,3,Santiago de Surco,,,,no
+800.0,2,76,1,San Isidro,,,,no
+319.67,2,90,2,San Martin de Porres,,,,no
+1100.0,4,106,3,Miraflores,Amoblado: Sin amoblar,,,no
+416.96,2,63,2,Breña,,,,no
+806.11,3,,2,Miraflores,,,,no
+222.38,2,43,1,San Juan de Lurigancho,,,,no
+1550.0,2,125,2,San Isidro,,,,no
+860.0,3,120,3,Miraflores,,,,no
+1700.0,3,220,3,Santiago de Surco,,,,no
+650.0,1,38,1,San Isidro,,,,no
+1800.0,1,184,1,San Isidro,,,,no
+667.13,3,100,2,Santiago de Surco,,,,no
+1350.0,3,140,2,Barranco,,,,no
+950.0,2,120,2,Cercado de Lima,,,,no
+319.67,3,90,2,San Martin de Porres,,,,no
+1150.0,2,53,1,Barranco,,,,no
+555.94,3,86,2,Cercado de Lima,,,,no
+850.0,3,110,3,Santiago de Surco,,,,no
+600.0,2,88,1,La Molina,,,,no
+750.52,4,100,4,Jesus Maria,,,,no
+650.0,2,50,1,Miraflores,,,,no
+694.93,2,100,2,Santiago de Surco,,,,no
+850.0,3,120,3,Santiago de Surco,Amoblado: Sin amoblar,,,no
+166.78,1,16,1,Cercado de Lima,,,,no
+920.0,3,120,4,Miraflores,,,,no
+1400.0,4,206,3,San Isidro,,,,no
+1000.0,3,120,3,Miraflores,,,,no
+639.33,3,79,2,Surquillo,,,,no
+950.0,3,98,2,Miraflores,,,,no
+681.03,1,90,1,Miraflores,,,,no
+700.0,3,90,3,Santiago de Surco,,,,no
+1100.0,2,100,1,Miraflores,,,,no
+444.75,3,87,1,Cercado de Lima,,,,no
+639.33,2,115,2,Santiago de Surco,,,,no
+750.0,2,75,1,San Miguel,,,,no
+458.65,3,74,2,Santiago de Surco,,,,no
+680.0,1,60,2,Miraflores,Amoblado: Amoblado,280,1,no
+1500.0,3,106,4,Miraflores,,,,no
+1200.0,3,160,3,Miraflores,,,,no
+667.13,3,85,2,Lince,,,,no
+1100.0,3,130,2,Santiago de Surco,Amoblado: Sin amoblar,500,,si
+900.0,3,125,3,San Borja,,,,no
+361.36,2,65,2,Chorrillos,,,,no
+361.36,2,65,1,Chorrillos,,,,no
+361.36,2,65,1,Chorrillos,,,,no
+694.93,3,118,,Jesus Maria,Amoblado: Semi-amoblado,,,no
+800.0,2,85,3,Miraflores,,,,no
+166.78,3,62,2,Puente Piedra,,,,no
+650.0,1,68,1,Miraflores,,,,no
+990.0,4,,4,Santiago de Surco,,,,no
+1300.0,3,179,3,San Borja,,,,no
+1000.0,1,68,2,Miraflores,,,,no
+1400.0,3,170,2,Santiago de Surco,,,,no
+653.23,3,89,2,Magdalena del Mar,,,,no
+1300.0,2,102,2,San Isidro,,,,no
+500.35,2,70,1,Surquillo,,,,no
+444.75,3,75,3,San Miguel,Amoblado: Semi-amoblado,140,,si
+500.35,3,132,3,San Miguel,,,,no
+870.0,2,122,3,Jesus Maria,,,,no
+970.0,3,113,3,San Isidro,,,,no
+950.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+1200.0,2,120,3,Miraflores,,,,no
+750.0,2,103,2,San Borja,Amoblado: Sin amoblar,,,no
+1000.0,3,125,3,Miraflores,Amoblado: Amoblado,300,1,no
+1000.0,3,100,2,Miraflores,Amoblado: Amoblado,,,si
+1200.0,2,139,2,Miraflores,,,,no
+222.38,1,10,1,Pueblo Libre,,,,no
+720.0,2,76,1,Miraflores,,,,no
+1050.0,3,140,3,Miraflores,,,,no
+1100.0,1,83,1,San Isidro,,,,no
+750.52,2,90,2,Jesus Maria,,,,no
+694.93,2,95,2,San Isidro,,,,no
+639.33,3,80,2,Miraflores,,,,no
+1400.0,4,160,4,Miraflores,,,,no
+1200.0,3,170,3,San Isidro,,,,no
+170000.0,3,,2,La Molina,,,,no
+1300.0,3,200,3,Santiago de Surco,,,,no
+1153.58,3,108,2,Miraflores,,,,no
+2300.0,4,235,4,Santiago de Surco,,,,no
+403.06,1,60,1,Lince,,,,no
+750.0,2,73,2,Miraflores,,,,no
+806.11,2,64,2,Miraflores,,,,no
+389.16,3,80,2,Chorrillos,,,,si
+650.0,3,135,3,La Molina,,,,no
+3000.0,4,203,,Miraflores,,,,no
+450.0,3,85,2,Santiago de Surco,,,,no
+555.94,2,96,1,La Molina,,,,no
+800.0,3,102,2,Miraflores,,,,no
+472.55,2,76,1,La Molina,,,,no
+1100.0,3,120,3,Miraflores,,,,no
+600.0,3,100,3,San Miguel,,,,no
+1200.0,3,151,3,Miraflores,,,,no
+700.48,2,114,2,Miraflores,,,,no
+594.86,,80,1,Cercado de Lima,,,,no
+555.94,,75,2,Santiago de Surco,,,,no
+850.0,1,64,2,Miraflores,,,,no
+444.75,3,66,2,Chorrillos,,,,no
+400.0,1,85,2,San Miguel,Amoblado: Amoblado,,,no
+1350.0,3,178,2,San Borja,,,,no
+486.45,3,81,2,Santiago de Surco,,,,no
+1200.0,3,130,2,Miraflores,Amoblado: Amoblado,400,,si
+750.0,2,70,1,Miraflores,,,,no
+639.33,2,64,1,Santiago de Surco,,,,no
+528.14,2,75,2,San Miguel,,,,no
+950.0,2,106,2,Cercado de Lima,,,,no
+1100.0,2,99,2,Miraflores,,,,no
+80.0,1,65,1,Miraflores,Amoblado: Amoblado,,,no
+138.99,2,90,1,Carabayllo,Amoblado: Sin amoblar,,,no
+389.16,5,160,6,San Martin de Porres,,,,no
+277.97,3,70,2,Ate,,,,no
+950.0,2,120,3,San Isidro,,,,no
+416.96,1,40,1,Lince,,,,no
+2000.0,3,150,3,San Isidro,,,,no
+890.0,2,86,2,Miraflores,,,,no
+3000.0,2,240,2,Santiago de Surco,,,,no
+389.16,3,65,1,Chorrillos,,,,no
+700.0,3,134,2,Jesus Maria,,,,no
+361.36,4,120,2,Santa Anita,Amoblado: Amoblado,,,si
+900.0,2,85,2,Santiago de Surco,,,,no
+1650.0,3,160,3,Miraflores,Amoblado: Amoblado,,,no
+3200.0,3,320,3,San Isidro,Amoblado: Amoblado,,,no
+780.0,3,90,3,San Borja,,,,no
+555.94,2,65,2,Pueblo Libre,,,,no
+722.72,3,90,,Cercado de Lima,,,,no
+500.35,3,80,2,Barranco,,,,no
+750.0,3,88,1,Magdalena del Mar,,,,no
+850.0,3,82,3,Miraflores,,,,no
+750.0,3,100,4,Miraflores,,,,no
+583.74,2,68,2,Lince,,,,no
+850.0,3,133,4,Miraflores,,,,no
+2000.0,2,150,2,San Isidro,,,,no
+500.35,2,65,2,Pueblo Libre,,,,no
+800.0,1,30,1,Barranco,,,,no
+166.78,1,,1,Villa El Salvador,,,,no
+692.15,3,101,3,San Borja,,,,no
+333.56,2,60,2,Los Olivos,,,,no
+1150.0,2,117,2,San Isidro,,,,no
+850.0,1,90,1,Miraflores,,,,no
+555.94,3,90,2,Magdalena del Mar,,,,no
+650.0,1,65,1,Miraflores,,,,no
+700.0,1,55,2,Barranco,,,,no
+778.32,4,140,2,La Molina,,,,no
+528.14,2,148,1,Ate,,,,no
+500.35,2,100,2,Santiago de Surco,,,,no
+472.55,1,65,1,La Molina,,,,no
+416.96,1,50,1,Surquillo,,,,no
+670.0,1,45,1,Barranco,,,,no
+999.0,2,85,3,Miraflores,,,,no
+333.56,2,50,1,Los Olivos,,,,no
+1350.0,3,162,3,Miraflores,,710,1,no
+800.0,2,80,2,Miraflores,,,,no
+1600.0,3,157,3,Miraflores,Amoblado: Semi-amoblado,550,,no
+700.0,1,65,2,Miraflores,,,,no
+700.48,1,49,1,San Isidro,,,,no
+1300.0,3,140,3,San Borja,,,,no
+7200.0,3,120,2,Lurin,,,,no
+700.0,1,55,1,Miraflores,,,,no
+900.0,3,174,3,Miraflores,,,,no
+555.94,4,164,2,La Victoria,,,,no
+430.85,3,73,2,Chorrillos,,,,no
+1300.0,2,168,2,Miraflores,,,,no
+950.0,1,76,2,Cercado de Lima,,,,no
+950.0,3,100,3,San Borja,Amoblado: Sin amoblar,400,,no
+681.03,3,95,3,San Borja,,,,no
+1500.0,2,93,4,Miraflores,,,,no
+600.0,2,73,1,Magdalena del Mar,,,,no
+850.0,1,90,1,Miraflores,Amoblado: Amoblado,,,no
+444.75,2,53,2,San Miguel,,,,no
+567.0,2,78,2,Chorrillos,,,,no
+277.97,1,70,1,,,,,no
+375.26,2,63,1,Ate,,,,no
+3000.0,3,281,3.5,Santiago de Surco,Amoblado: Amoblado,,,no
+1250.0,3,175,3,Miraflores,,,,no
+2000.0,3,180,2,Miraflores,,,,no
+514.24,3,90,2,Jesus Maria,,,,no
+850.0,3,111,3,La Molina,,,,no
+694.93,2,88,1,Miraflores,,,,no
+750.0,3,100,2,Santiago de Surco,,,,no
+680.0,1,70,1,Cercado de Lima,,,,no
+800.0,1,88,2,San Miguel,,,,no
+2000.0,2,180,2,San Isidro,,,,no
+1100.0,3,135,2,Santiago de Surco,Amoblado: Sin amoblar,1,,no
+416.96,1,64,1,Santiago de Surco,,,,no
+500.35,3,81,2,San Miguel,,,,no
+333.56,2,85,2,Independencia,,,,no
+2000.0,3,280,4,Santiago de Surco,,,,no
+125.09,3,58,1,Chorrillos,,,,no
+700.0,1,85,1,San Miguel,,,,no
+650.0,1,70,1,Miraflores,,,,no
+1050.0,3,180,2,Lince,,,,no
+528.14,3,80,,Lince,,,,no
+1100.0,2,110,3,San Isidro,,,,no
+555.94,3,85,3,Breña,,,,no
+800.0,2,80,3,Miraflores,,,,no
+444.75,2,70,1,Pueblo Libre,,,,no
+850.0,3,93,2,Lince,,,,no
+700.0,2,,2,Barranco,,,,no
+150000.0,4,90,3,Magdalena del Mar,Amoblado: Sin amoblar,,,no
+950.0,3,150,4,Miraflores,,,,no
+1100.0,,125,4,Miraflores,,,,no
+760.0,2,113,3,Miraflores,,,,no
+950.0,2,,3,Miraflores,,,,no
+800.0,2,97,2,Miraflores,,,,no
+708.82,2,75,2,Lince,,,,no
+0.0,1,,1,Miraflores,Amoblado: Amoblado,,,no
+3335.64,4,380,4,San Isidro,,,,no
+1300.0,2,168,2,Santiago de Surco,,,,no
+1300.0,3,169,3,Miraflores,,,,no
+528.14,2,80,2,Santiago de Surco,,,,no
+416.96,3,120,1,San Miguel,Amoblado: Sin amoblar,70,,si
+416.96,1,40,1,San Miguel,,,,no
+236.27,2,67,1,Los Olivos,,,,no
+305.77,1,24,1,San Borja,,,,no
+1850.0,3,250,4,Barranco,,,,no
+583.74,3,71,2,Surquillo,,,,no
+950.0,2,95,2,Barranco,,,,no
+681.03,3,75,,Cercado de Lima,,,,no
+680.0,1,61,1,Cercado de Lima,,,,no
+361.36,2,65,1,Chorrillos,Amoblado: Semi-amoblado,,,no
+1150.0,2,100,2,Barranco,,,,no
+472.27,2,100,1,Pueblo Libre,Amoblado: Sin amoblar,,,no
+850.0,3,,3,San Borja,,,,no
+900.0,3,97,2,Miraflores,,,,no
+1200.0,3,160,2,Santiago de Surco,,,,no
+1100.0,3,140,3,San Isidro,,,,no
+416.96,3,64,2,,Amoblado: Sin amoblar,,,si
+800.0,2,72,2,San Isidro,,,,no
+1050.0,2,112,4,San Isidro,,,,no
+4000.0,4,252,4,San Isidro,,,,no
+2500.0,3,270,2,San Isidro,,,,no
+1200.0,3,113,3,Miraflores,,,,no
+1300.0,3,140,4,Santiago de Surco,,,,no
+1100.0,3,106,,Miraflores,,,,no
+694.93,2,87,1,Miraflores,,,,no
+750.0,3,95,2,Miraflores,,,,no
+780.0,1,60,1,Barranco,,,,no
+416.96,2,64,1,Chorrillos,,,,no
+1300.0,2,90,3,Miraflores,Amoblado: Amoblado,,,no
+416.96,2,75,2,Ate,,,,no
+700.0,1,45,1,Barranco,,,,no
+583.74,2,62,2,Miraflores,,,,no
+2000.0,3,162,1,Pucusana,,,,no
+277.69,3,85,2,Comas,,,,no
+2000.0,3,202,3,Santiago de Surco,,,,no
+800.0,1,40,1,Barranco,Amoblado: Amoblado,250,,si
+486.45,2,104,1,San Miguel,,,,no
+3500.0,3,235,2,Barranco,,,,no
+850.0,3,90,2,Miraflores,,,,no
+950.0,3,97,2,Miraflores,Amoblado: Amoblado,,,no
+277.97,2,68,1,Chorrillos,,,,no
+611.53,2,88,3,Miraflores,,,,no
+2500.0,3,360,3,Santiago de Surco,,,,no
+222.38,1,20,1,San Isidro,,,,no
+900.0,3,95,3,Magdalena del Mar,Amoblado: Amoblado,,,no
+900.0,3,86,2,Miraflores,,,,no
+472.55,1,,1,Pueblo Libre,,,,no
+667.13,3,70,,Lince,,,,no
+830.0,2,90,2,Miraflores,,,,no
+1500.0,4,120,4,Ancon,,,,no
+800.0,3,160,3,Miraflores,,,,no
+700.0,3,,2,Surquillo,,,,no
+1100.0,2,89,2,Miraflores,Amoblado: Amoblado,,,no
+6000.0,5,457,4,Barranco,,,,no
+950.0,3,,2,Santiago de Surco,,,,no
+2500.0,4,,3,San Isidro,,,,no
+900.0,3,115,2,Santiago de Surco,,,,no
+472.55,1,42,1,Magdalena del Mar,,,,no
+472.55,1,42,1,Magdalena del Mar,,,,no
+850.0,2,93,2,Cercado de Lima,,,,no
+800.0,2,102,1,Miraflores,,,,no
+520.0,1,50,,San Isidro,,,,no
+383.6,1,61,1,San Isidro,,,,no
+1300.0,4,122,3,Miraflores,,,,no
+806.11,3,138,2,Jesus Maria,,,,no
+1600.0,3,162,4,San Isidro,Amoblado: Amoblado,200,,si
+1300.0,3,120,3,San Borja,,,,no
+900.0,2,113,2,Miraflores,,,,no
+778.32,5,422,3,San Isidro,,,,no
+528.14,3,70,2,Surquillo,,,,no
+1300.0,,150,,Santiago de Surco,,,,no
+416.96,3,117,1,Comas,,,,no
+528.14,3,84,3,San Miguel,,,,no
+2200.0,3,288,3,Chorrillos,,,,no
+1500.0,4,200,4,Miraflores,Amoblado: Amoblado,185,,no
+800.0,1,73,2,Miraflores,,,,no
+1250.0,3,130,3,Miraflores,Amoblado: Sin amoblar,,,no
+664.35,3,,2,Lince,,,,no
+900.0,,140,1,San Isidro,,,,no
+670.0,2,93,3,La Molina,,,,no
+333.56,2,90,1,San Martin de Porres,,,,no
+305.77,2,70,1,San Martin de Porres,,,,no
+667.13,4,110,2,La Molina,,,,no
+1000.0,3,120,2,Miraflores,,,,no
+790.0,2,80,1,San Isidro,,,,no
+1650.0,3,230,3,Santiago de Surco,Amoblado: Sin amoblar,,,no
+480.0,3,80,1,,Amoblado: Sin amoblar,,,si
+1100.0,3,108,3,Miraflores,,,,no
+1150.0,4,170,4,San Isidro,,,,no
+900.0,3,90,2,Miraflores,,,,no
+1300.0,3,150,3,San Isidro,,,,no
+900.0,3,128,3,San Isidro,,,,no
+850.0,2,85,3,Magdalena del Mar,,,,no
+416.96,3,85,2,San Juan de Miraflores,,,,no
+600.0,1,62,1,Jesus Maria,,,,no
+600.0,6,70,2,Lince,,,,no
+750.0,1,59,2,Miraflores,,,,no
+2100.0,2,,3,Miraflores,,,,no
+611.53,1,59,1,San Miguel,,,,no
+486.45,4,130,2,Rimac,,,,no
+222.38,1,20,1,Santiago de Surco,,,,no
+1500.0,2,100,2,San Isidro,,,,no
+583.74,1,61,1,Miraflores,,,,no
+980.0,3,126,2,La Molina,,,,no
+555.94,3,125,,La Molina,,,,no
+950.0,3,120,3,San Borja,,,,no
+3000.0,2,389,4,San Isidro,,,,no
+389.16,3,78,3,El Agustino,,,,no
+550.0,1,53,1,Miraflores,,,,no
+639.33,2,100,,Santiago de Surco,,,,no
+680.0,1,70,1,San Isidro,,,,no
+890.0,3,110,3,Miraflores,,,,no
+550.0,1,,1,Lince,,,,no
+2100.0,3,210,2,San Isidro,,850,,no
+1800.0,3,217,4,Santiago de Surco,,,,no
+528.14,3,78,2,San Miguel,,,,no
+1200.0,3,130,2,Cercado de Lima,,,,no
+1300.0,3,110,3,Cercado de Lima,,,,no
+650.0,1,53,1,Barranco,,,,no
+1500.0,1,102,2,Santiago de Surco,,,,no
+1000.0,3,180,3,Miraflores,,,,no
+600.0,2,90,2,Miraflores,,,,no
+444.75,2,75,1,Cercado de Lima,,,,no
+850.0,2,102,3,Miraflores,,,,no
+694.93,3,75,2,San Miguel,,,,no
+890.0,2,80,2,Miraflores,,,,no
+2300.0,3,217,4,Santiago de Surco,,,,no
+583.74,3,63,2,Lince,,,,no
+555.94,4,90,3,San Miguel,,,,no
+550.0,1,53,1,Miraflores,,,,no
+900.0,2,65,2,Miraflores,Amoblado: Amoblado,,,no
+900.0,2,80,2,Miraflores,,,,no
+486.45,2,110,1,La Molina,,,,no
+458.65,2,115,1,Lince,,,,no
+500.35,3,74,2,San Miguel,,,,no
+850.0,2,77,,San Isidro,,,,no
+458.65,3,89,2,Santiago de Surco,,,,no
+500.35,2,72,1,La Molina,,,,no
+900.0,2,105,3,Miraflores,,,,no
+583.74,2,78,2,Miraflores,,,,no
+950.0,2,120,2,Miraflores,Amoblado: Sin amoblar,386,,si
+500.0,1,70,1,Miraflores,,,,no
+1000.0,3,115,2,Santiago de Surco,,,,no
+850.0,3,118,3,Miraflores,,,,no
+694.93,3,100,,Santiago de Surco,,,,no
+950.0,3,120,4,Miraflores,,,,no
+1100.0,3,110,2,Miraflores,,,,no
+1616.12,3,175,2,San Isidro,Amoblado: Sin amoblar,,,no
+2500.0,3,220,4,Santiago de Surco,,,,no
+895.0,2,100,1,Cercado de Lima,,,,no
+450.0,1,40,1,Santiago de Surco,,,,no
+1250.0,3,150,2,San Isidro,,,,no
+472.55,1,90,2,La Molina,,,,no
+780.0,1,69,1.5,Miraflores,Amoblado: Amoblado,,,no
+900.0,2,95,2,Miraflores,,,,no
+1600.0,3,120,3,San Isidro,,,,no
+611.53,3,78,2,Pueblo Libre,,,,no
+800.0,2,95,2,San Borja,,,,no
+750.52,6,145,3,La Molina,,200,,no
+528.14,3,72,2,Jesus Maria,,,,no
+1050.0,3,90,3,Miraflores,Amoblado: Sin amoblar,,,no
+555.94,3,80,2,San Miguel,,,,no
+1090.0,2,67,2,Miraflores,,,,no
+472.55,1,80,2,,,,,no
+900.0,3,102,3,Miraflores,Amoblado: Sin amoblar,,,no
+473.0,2,54,1,Magdalena del Mar,,,,no
+277.97,2,60,1,Santa Anita,Amoblado: Semi-amoblado,,,si
+900.0,3,130,2,San Isidro,,,,no
+1100.0,3,180,2,Miraflores,,,,no
+6000.0,5,487,4,Barranco,,,,no
+416.96,1,45,1,San Miguel,,,,no
+900.0,1,90,2,Miraflores,,,,no
+222.38,2,10,1,San Juan de Miraflores,Amoblado: Sin amoblar,,,si
+850.0,2,75,2,San Miguel,,,,no
+375.26,,60,1,Santiago de Surco,,,,no
+1700.0,2,210,4,Miraflores,,,,no
+850.0,1,61,2,Miraflores,,,,no
+1750.0,3,153,4,San Borja,,,,no
+4000.0,2,281,2,San Isidro,,,,no
+681.03,2,84,1,Miraflores,,,,no
+650.0,1,60,1,Miraflores,Amoblado: Sin amoblar,,,no
+361.36,1,80,1,San Miguel,,,,no
+0.0,4,180,2,San Borja,,,,no
+2100.0,2,127,2,San Isidro,,,,no
+650.0,1,58,1,Miraflores,,,,no
+990.0,3,100,2,Miraflores,,,,no
+416.96,1,,1,San Borja,,,,no
+833.91,,120,2,San Borja,,,,no
+1600.0,4,227,4,Santiago de Surco,,,,no
+611.53,3,,2,Surquillo,,,,no
+611.53,2,180,3,San Miguel,,,,no
+2600.0,3,200,3,Miraflores,,,,no
+2600.0,3,200,3,Miraflores,,,,no
+950.0,2,110,4,Miraflores,,,,no
+2200.0,3,190,2,Miraflores,,,,no
+1000.0,2,150,4,Miraflores,,,,no
+778.32,4,120,2,Miraflores,,,,no
+2400.0,2,142,2.5,Miraflores,Amoblado: Amoblado,,,no
+2500.0,3,250,2,Miraflores,,,,no
+611.53,1,40,1,Lince,,,,no
+277.97,3,72,1,Comas,,,,no
+550.0,1,30,1,San Isidro,,,,no
+1600.0,2,155,4,Miraflores,,,,no
+750.0,2,98,2,Miraflores,,,,no
+694.93,2,95,2,Miraflores,,,,no
+600.0,1,65,1,Miraflores,,,,no
+650.0,2,81,2,Miraflores,,,,no
+472.55,3,80,2,Surquillo,,,,no
+3000.0,4,560,2,La Molina,,,,no
+264.07,2,50,1,Cercado de Lima,,,,no
+1900.0,3,180,2,Miraflores,,,,no
+1800.0,3,185,2,San Isidro,,,,no
+800.0,3,110,2,Magdalena del Mar,,,,no
+667.13,1,53,1,Miraflores,,,,no
+305.77,1,30,1,San Isidro,,,,no
+1150.0,3,140,2,Santiago de Surco,,,,no
+650.0,1,45,1,San Isidro,,,,no
+800.0,1,45,1,San Miguel,Amoblado: Amoblado,,,no
+444.75,3,75,2,Cercado de Lima,,100,,no
+900.0,1,60,1,Miraflores,,,,no
+500.35,1,42,1,Miraflores,,,,no
+542.04,3,80,3,Magdalena del Mar,,,,no
+900.0,2,146,2,San Isidro,,,,no
+472.55,2,73,2,Pueblo Libre,,,,no
+780.0,1,92,2,San Isidro,,,,no
+950.0,2,127,2,Cercado de Lima,,,,no
+800.0,2,94,3,Miraflores,,,,no
+528.14,4,120,1.5,Cercado de Lima,Amoblado: Sin amoblar,90,,no
+720.0,3,105,2,Santiago de Surco,Amoblado: Sin amoblar,,1,no
+950.0,1,96,1,San Isidro,,,,no
+416.96,2,75,1,Cercado de Lima,,,,no
+1000.0,2,93,2,Miraflores,,,,no
+1700.0,3,,3,San Isidro,,,,no
+472.55,2,64,2,San Miguel,,,,no
+1200.0,3,,3,San Isidro,,,,no
+542.04,3,91,2,La Molina,,,,no
+778.32,3,85,2,Miraflores,,,,no
+820.0,2,82,2,Magdalena del Mar,Amoblado: Sin amoblar,,,si
+555.94,3,85,2,Magdalena del Mar,,,,no
+555.94,3,70,1,Surquillo,,,,no
+860.0,3,76,2,Jesus Maria,,,,no
+750.0,,89,2,Miraflores,,,,no
+750.0,1,65,1,Miraflores,,,,no
+420.0,3,140,,Comas,,,,no
+573.0,3,92,2,Santiago de Surco,,,,no
+500.35,2,54,2,Chorrillos,,,,no
+800.0,1,40,1,Miraflores,,,,no
+361.36,2,76,2,Ate,,,,no
+333.56,2,76,2,Ate,,,,no
+1100.0,3,150,2,San Isidro,,,,no
+833.91,4,,4,Jesus Maria,,,,no
+950.0,3,99,3,Lince,,,,no
+657.0,3,79,2,Surquillo,,,,no
+472.55,3,75,2,Breña,,,,no
+1000.0,1,60,1,Miraflores,,,,no
+5000.0,4,405,4,San Isidro,,,,no
+950.0,3,120,2,Ate,,,,si
+1600.0,3,198,3,Miraflores,,,,no
+2500.0,3,279,3,San Borja,,,,no
+700.0,2,91,3,San Isidro,,,,no
+222.38,2,65,1,Santa Anita,,,,no
+500.0,1,50,1,Miraflores,Amoblado: Semi-amoblado,,1,no
+1900.0,3,190,2,San Isidro,,,,no
+361.36,3,63,2,Chorrillos,,,,no
+800.0,2,75,2,San Miguel,,,,no
+900.0,3,106,2,Magdalena del Mar,,,,no
+1100.0,2,103,2,Miraflores,,,,no
+800.0,2,96,,Miraflores,,,,no
+1100.0,3,135,3,La Molina,Amoblado: Sin amoblar,,,si
+2100.0,,266,,Santiago de Surco,,,,no
+689.0,3,79,2,Surquillo,,,,no
+2500.0,3,169,3,San Borja,,,,no
+1000.0,3,115,1,Santiago de Surco,,,,no
+2000.0,3,180,2,Cercado de Lima,,,,no
+730.0,2,100,2,Miraflores,,,,no
+2000.0,2,217,2,Miraflores,,,,no
+1300.0,2,100,2,Miraflores,Amoblado: Amoblado,,,no
+4200.0,4,343,5,Miraflores,,,,no
+1300.0,2,130,2,Miraflores,,,,no
+1300.0,2,70,1,Miraflores,Amoblado: Amoblado,236,1,no
+528.14,3,70,3,Barranco,,,,no
+1100.0,4,,4,Miraflores,,,,no
+889.5,3,100,2,Miraflores,,,,no
+1300.0,3,132,4,Miraflores,,,,no
+1300.0,3,132,4,Miraflores,,,,no
+1500.0,3,193,3,San Isidro,,,,no
+277.97,2,60,2,Los Olivos,,,,no
+1500.0,2,96,2,Barranco,,,,no
+1000.0,1,115,1.5,San Isidro,Amoblado: Amoblado,450,,no
+1600.0,3,250,4,Jesus Maria,,,,no
+1100.0,3,180,3,San Isidro,,,,no
+600.0,2,85,2,Santiago de Surco,,,,no
+2200.0,3,250,3,Santiago de Surco,,,,no
+1800.0,2,142,2,Miraflores,,,,no
+694.93,2,106,1,Lince,,,,no
+650.0,1,45,1,Barranco,,90,,no
+611.53,3,95,3,San Miguel,,,,no
+680.0,2,90,2,Miraflores,,,,no
+542.04,1,48,1,Miraflores,,,,no
+1100.0,3,113,2,Santiago de Surco,,,,no
+416.96,3,140,2,La Molina,Amoblado: Amoblado,,,si
+780.0,1,60,1,Miraflores,,,,no
+1150.0,3,170,3,Miraflores,,,,no
+1450.0,2,105,2,Miraflores,,,,no
+1000.0,2,90,2,Miraflores,,,,no
+416.96,,60,1,Pueblo Libre,,,,no
+1800.0,4,260,4,Santiago de Surco,,,,no
+1900.0,3,206,2,Santiago de Surco,,,,no
+1350.0,3,150,2,Barranco,,,,no
+667.13,3,180,3,Jesus Maria,Amoblado: Sin amoblar,,,si
+1200.0,3,142,3,Santiago de Surco,,,,no
+555.94,2,,2,Surquillo,,,,no
+1500.0,3,180,4,San Isidro,,,,no
+555.94,2,60,2,San Miguel,,,,no
+444.75,3,80,2,Chorrillos,,,,no
+400.0,1,68,2,La Molina,,,,no
+1800.0,3,176,4,San Isidro,Amoblado: Semi-amoblado,750,,no
+1200.0,3,155,4,San Isidro,,,,no
+1300.0,2,145,2,Santiago de Surco,,,,no
+416.96,,60,1,Pueblo Libre,,,,no
+500.35,2,68,1,San Miguel,,,,no
+2200.0,4,340,3.5,Santiago de Surco,Amoblado: Sin amoblar,1,,no
+60.0,1,55,1,Miraflores,Amoblado: Amoblado,,,no
+800.0,1,70,1,Miraflores,,,,no
+138.99,2,20,1,San Juan de Miraflores,,,,no
+2300.0,3,200,2,San Isidro,,,,no
+1100.0,2,70,2,San Isidro,,,,no
+361.36,1,50,,San Luis,,,,no
+850.0,3,108,2,Santiago de Surco,,,,no
+1500.0,3,190,4,San Isidro,,,,no
+416.96,3,,2,Santiago de Surco,,,,no
+1400.0,3,125,2,Miraflores,,,,no
+3500.0,3,288,3,San Borja,,,,no
+500.35,1,40,1,Miraflores,,,,no
+1800.0,3,180,3,San Isidro,,,,no
+441.0,3,82,1,San Miguel,,,,no
+1200.0,3,110,2,San Isidro,Amoblado: Amoblado,,,no
+450.0,,40,,La Victoria,,,,no
+1290.0,2,100,2,San Isidro,,,,no
+800.0,3,95,3,San Isidro,,,,no
+650.0,2,94,2,Miraflores,,,,no
+870.0,3,125,3,La Molina,,,,no
+1000.0,3,105,4,San Isidro,,,,no
+500.0,1,40,1,San Isidro,,,,no
+458.65,2,55,1,Miraflores,,,,no
+720.0,2,115,1,Lince,,,,no
+625.43,3,80,2,San Miguel,,,,no
+850.0,4,130,2,Miraflores,,,,no
+444.75,1,51,1,Jesus Maria,,,,no
+710.0,2,100,3,Miraflores,,,,no
+2000.0,3,223,2,San Isidro,,,,no
+416.96,2,70,2,Chorrillos,Amoblado: Sin amoblar,,,no
+722.72,3,85,2,Miraflores,,,,no
+880.0,2,121,3,Miraflores,,,,no
+472.55,1,,1,Jesus Maria,,,,no
+1200.0,2,85,2,Barranco,,,,no
+750.0,3,,2,Miraflores,,,,no
+850.0,2,100,4,Miraflores,,,,no
+750.0,3,120,2,Miraflores,,,,no
+1100.0,2,101,3,Miraflores,,,,no
+1350.0,2,125,2,Miraflores,,,,no
+1450.0,3,200,2,San Isidro,,,,no
+397.5,1,50,1,Miraflores,,,,no
+750.0,2,86,2,Miraflores,,,,no
+800.0,3,90,3,Miraflores,,,,no
+305.77,1,,1,Lince,,,,no
+800.0,3,107,3,Miraflores,,,,no
+1200.0,2,140,2,San Isidro,Amoblado: Amoblado,400,2,no
+1900.0,3,170,3,San Isidro,,,,no
+1600.0,2,,2,San Isidro,,,,no
+6000.0,5,487,3.5,Barranco,Amoblado: Sin amoblar,,,no
+1200.0,2,116,2,Miraflores,,,,no
+319.67,1,12,1,Miraflores,,,,no
+180.68,1,,1,Barranco,,,,no
+486.45,3,85,2,San Miguel,,,,no
+650.0,2,,1,Miraflores,,,,no
+690.0,3,108,3,La Molina,,,,no
+2800.0,3,243,3,San Isidro,,,,no
+1400.0,2,,3,Miraflores,,,,no
+416.96,3,,3,Carabayllo,,,,no
+386.38,3,110,2,Ate,,,,no
+1030.0,3,100,3,La Molina,,,,no
+2200.0,3,220,3,Santiago de Surco,,,,no
+844.0,2,94,2,Miraflores,,,,no
+1200.0,3,156,2,Miraflores,,,,no
+750.0,2,80,3,Miraflores,,,,no
+800.0,2,80,3,Miraflores,,,,no
+1200.0,3,187,2,Santiago de Surco,,,,no
+500.0,1,48,,Miraflores,,,,no
+450.0,,65,1,Santiago de Surco,,,,no
+8500.0,4,459,4,Barranco,,,,no
+1200.0,2,145,3,San Isidro,,,,no
+694.93,3,115,2,Surquillo,,,,no
+583.74,,80,2,Cercado de Lima,,,,no
+550.0,1,45,,San Isidro,,,,no
+611.53,3,98,3,Magdalena del Mar,,,,no
+1200.0,2,147,2,San Isidro,,,,no
+1500.0,3,137,2,Miraflores,Amoblado: Amoblado,,,si
+528.14,4,89,3,San Miguel,Amoblado: Sin amoblar,155,,no
+1200.0,3,140,4,Miraflores,,,,no
+1200.0,3,140,3,San Isidro,,,,no
+850.0,1,80,1,Miraflores,Amoblado: Amoblado,,,no
+1800.0,2,160,2,San Isidro,,,,no
+528.14,2,92,2,San Borja,,,,no
+875.0,3,125,2,Jesus Maria,,,,no
+1000.0,2,91,2,Miraflores,,,,no
+1000.0,2,108,2,Jesus Maria,,,,no
+690.0,3,82,2,Surquillo,,,,no
+416.96,2,90,1,San Miguel,,,,no
+472.55,1,50,1,Miraflores,,,,no
+2000.0,3,230,3,San Isidro,,,,no
+3000.0,2,325,3,Cercado de Lima,,,,no
+848.0,4,148,2,Santiago de Surco,,,,no
+750.0,3,125,2,Santiago de Surco,,,,no
+1000.0,3,142,2,Santiago de Surco,,,,no
+500.35,2,60,1,Barranco,,,,no
+850.0,2,126,3,Miraflores,,,,no
+7300.0,4,625,4.5,San Isidro,Amoblado: Sin amoblar,,,no
+2300.0,6,340,3,Santiago de Surco,Amoblado: Sin amoblar,,,si
+722.72,3,85,2,Miraflores,,,,no
+5000.0,3,589,,San Borja,,,,no
+600.0,1,60,1,San Isidro,,,,no
+1500.0,3,203,3,Santiago de Surco,,,,no
+5000.0,3,285,3,San Isidro,,,,no
+1100.0,3,,2,San Isidro,,,,no
+800.0,1,70,1,Miraflores,,,,no
+945.0,2,90,3,Miraflores,,,,no
+1200.0,3,146,2,Miraflores,,,,no
+1200.0,2,100,2,Miraflores,,,,no
+778.32,1,70,1,Miraflores,,,,no
+900.0,2,95,2,Miraflores,,,,no
+1400.0,4,209,3,Miraflores,,,,no
+800.0,1,65,1,Miraflores,,,,no
+1500.0,4,150,3,Miraflores,,,,no
+1100.0,3,111,4,Miraflores,,,,no
+900.0,2,100,2,Miraflores,,,,no
+1200.0,4,150,3,Miraflores,,,,no
+60.0,1,60,1,Miraflores,,,,no
+1200.0,2,145,2,Miraflores,,,,no
+950.0,1,60,1,Miraflores,,,,no
+1200.0,2,135,2,Miraflores,,,,no
+1200.0,2,135,2,Miraflores,,,,no
+1400.0,3,110,4,Miraflores,,,,no
+1200.0,2,135,2,Miraflores,,,,no
+1600.0,3,126,4,Miraflores,,,,no
+900.0,1,85,2,Miraflores,,,,no
+1400.0,3,110,4,Miraflores,,,,no
+1200.0,2,90,2,Miraflores,,,,no
+1300.0,2,126,1,Miraflores,,,,no
+900.0,1,90,3,Miraflores,,,,no
+1740.0,2,104,2,Miraflores,,,,no
+1500.0,3,120,3,Miraflores,,,,no
+1200.0,2,95,2,Miraflores,,,,no
+2500.0,4,190,3,Miraflores,,,,no
+2300.0,4,200,4,Miraflores,,,,no
+1100.0,3,111,4,Miraflores,,,,no
+1200.0,2,135,2,Miraflores,,,,no
+885.0,2,80,2,Miraflores,,,,no
+885.0,2,80,2,Miraflores,,,,no
+1300.0,3,110,4,Miraflores,,,,no
+900.0,1,65,2,Miraflores,,,,no
+900.0,1,61,2,Miraflores,,,,no
+900.0,1,62,2,Miraflores,,,,no
+1100.0,2,101,2,Miraflores,,,,no
+900.0,1,62,2,Miraflores,,,,no
+1200.0,3,110,4,Miraflores,,,,no
+1200.0,3,110,4,Miraflores,,,,no
+1000.0,1,84,2,Miraflores,,,,no
+2000.0,3,263,3,Santiago de Surco,,,,no
+694.93,2,70,1,Lince,,,,no
+850.0,3,100,2,San Miguel,,,,no
+5500.0,4,617,4,San Isidro,,,,no
+900.0,3,148,2,Santiago de Surco,,,,no
+1200.0,2,117,2,Miraflores,,,,no
+900.0,2,72,2,Barranco,,,,no
+1100.0,2,105,,Barranco,,,,no
+300.0,1,32,1,La Molina,,,,no
+650.0,1,60,1,Miraflores,Amoblado: Amoblado,,,no
+5000.0,3,346,3.5,San Isidro,Amoblado: Amoblado,,,no
+500.35,2,60,2,Breña,,,,no
+555.94,3,78,2,San Miguel,,,,no
+500.35,,30,,Miraflores,,,,no
+4500.0,4,450,3.5,San Isidro,Amoblado: Sin amoblar,,,no
+465.0,3,75,2,San Miguel,,,,no
+250.17,1,40,1,San Miguel,,,,no
+750.0,2,100,2,Miraflores,,,,no
+700.0,2,80,2,Miraflores,,,,no
+950.0,3,90,2,Magdalena del Mar,,,,no
+600.0,2,74,4,Miraflores,,,,no
+1200.0,1,100,1,Miraflores,,,,no
+800.0,1,67,2,Miraflores,,,,no
+472.55,3,,2,San Miguel,,,,no
+305.77,1,,1,Magdalena del Mar,,,,no
+444.75,3,100,2,La Molina,,,,no
+0.0,,60,,Miraflores,Amoblado: Amoblado,,,no
+700.0,1,65,1,Miraflores,,,,no
+900.0,2,85,2,Miraflores,,,,no
+900.0,2,85,2,Miraflores,,,,no
+900.0,2,85,3,Miraflores,,,,no
+900.0,3,90,2,Miraflores,,,,no
+1300.0,2,130,1,Miraflores,,,,no
+800.0,2,90,2,Miraflores,,,,no
+514.24,1,47,2,Barranco,Amoblado: Amoblado,175,1,si
+1500.0,2,120,2,Miraflores,Amoblado: Sin amoblar,,,no
+790.0,3,115,2,Santiago de Surco,,,,no
+555.94,2,100,2,Lince,,,,no
+1100.0,2,145,2,Santiago de Surco,,,,no
+555.94,2,,,San Miguel,,,,no
+1100.0,3,120,4,Magdalena del Mar,,,,no
+550.0,1,50,1,San Isidro,,,,no
+875.61,3,,,Miraflores,,,,no
+1000.0,3,140,2,San Isidro,,,,no
+1450.0,2,120,2,Miraflores,,,,no
+600.0,3,140,3,Punta Hermosa,Amoblado: Amoblado,,,no
+2500.0,3,250,3,Barranco,,,,no
+450.0,1,60,1,Miraflores,,,,no
+3300.0,2,269,2,Miraflores,,,,no
+2000.0,2,218,2,Chorrillos,,,,no
+542.04,2,80,2,Magdalena del Mar,Amoblado: Sin amoblar,,,no
+600.0,4,120,,La Molina,,,,no
+850.0,2,65,2,Miraflores,,,,no
+1500.0,3,165,2,Miraflores,,,,no
+3000.0,3,,3,Miraflores,,,,no
+1250.0,3,107,3,Lince,,,,no
+1900.0,3,253,3,Santiago de Surco,,,,no
+555.94,2,90,2,La Molina,,,,no
+900.0,3,120,3,Miraflores,Amoblado: Sin amoblar,,2,no
+555.94,2,70,1,Jesus Maria,,,,no
+750.0,3,103,2,Jesus Maria,,,,no
+1000.0,3,120,2,Miraflores,,,,no
+555.94,2,75,1,La Molina,,,,no
+1500.0,3,150,2,San Isidro,,,,no
+2400.0,3,208,4,Miraflores,,,,no
+1200.0,3,120,2,San Isidro,,,,no
+1200.0,,150,3,Surquillo,,,,no
+653.23,2,87,2,Santiago de Surco,,,,no
+833.91,3,,3,Santiago de Surco,,,,no
+7000.0,5,487,4,Barranco,,,,no
+780.0,1,86,2,Miraflores,Amoblado: Amoblado,,1,no
+890.0,4,200,4,La Molina,,,,no
+2600.0,3,240,2,San Isidro,,,,no
+385.0,3,55,2,San Miguel,,,,no
+3300.0,3,200,2,Miraflores,,,,no
+1680.0,3,180,2,San Isidro,,,,no
+560.0,1,40,,Miraflores,,,,no
+764.42,3,98,2,Jesus Maria,,,,no
+1700.0,3,150,4,Miraflores,,,,no
+1000.0,2,120,1,Miraflores,,,,no
+305.77,3,74,2,Ate,,,,no
+486.45,3,73,2,Pueblo Libre,,,,no
+639.33,2,70,2,Lince,,,,no
+2100.0,3,194,2,San Isidro,,,,no
+2100.0,3,152,3,Miraflores,,,,no
+2200.0,3,210,2,San Isidro,,,,no
+222.38,1,25,1,Santiago de Surco,Amoblado: Sin amoblar,,,no
+1650.0,3,245,2,Miraflores,,,,no
+700.0,2,85,1,Miraflores,Amoblado: Sin amoblar,,,no
+1500.0,3,133,,San Isidro,,,,no
+1100.0,2,80,2,Miraflores,Amoblado: Amoblado,,,no
+2000.0,3,250,3,Santiago de Surco,,,,no
+1000.0,3,130,4,Santiago de Surco,,,,no
+5000.0,5,531,7,Santiago de Surco,,,,no
+770.0,2,60,1,Miraflores,,,,no
+1000.0,2,128,2,San Isidro,,,,no
+900.0,,120,3,Miraflores,,,,no
+277.97,1,38,1,Lince,Amoblado: Amoblado,,,no
+1800.0,3,177,3,San Isidro,,,,no
+850.0,3,100,3,Miraflores,,,,no
+980.0,2,85,2,Miraflores,,,,no
+1400.0,3,140,2,San Isidro,,,,no
+750.0,2,85,2,Miraflores,,,,no
+1142.46,1,70,1,Miraflores,Amoblado: Sin amoblar,,,no
+1200.0,3,196,3,San Isidro,Amoblado: Sin amoblar,600,1,no
+2500.0,4,252,3,Barranco,,,,no
+900.0,4,126,4,Pueblo Libre,Amoblado: Sin amoblar,200,,no
+2000.0,3,215,4,Santiago de Surco,,,,no
+389.16,2,60,2,Pueblo Libre,Amoblado: Sin amoblar,,,no
+583.74,2,100,2,Santiago de Surco,,,,no
+900.0,2,100,2,Miraflores,,,,no
+5000.0,4,460,4,San Isidro,,,,no
+458.65,2,,1,San Martin de Porres,,,,no
+850.0,2,108,2,San Borja,,,,no
+514.24,3,,2,San Miguel,,,,no
+2000.0,3,190,2,Miraflores,,,,no
+180.68,1,20,,San Luis,,,,no
+2600.0,3,217,2,Miraflores,,,,no
+1800.0,3,175,,San Isidro,,,,no
+750.0,2,90,2,Miraflores,,,,no
+1800.0,2,107,2,San Isidro,,,,no
+236.27,2,80,1,San Juan de Lurigancho,,,,no
+305.77,1,,1,Santiago de Surco,,,,no
+333.56,2,85,1,Cercado de Lima,,,,no
+2200.0,3,177,2.5,San Isidro,Amoblado: Amoblado,600,,no
+1200.0,2,100,2,Miraflores,,,,no
+500.35,1,60,1,San Borja,Amoblado: Amoblado,,,no
+950.0,2,85,3,Miraflores,Amoblado: Sin amoblar,,,no
+760.0,3,92,3,Santiago de Surco,Amoblado: Sin amoblar,272,,no
+2500.0,3,350,3,Santiago de Surco,,,,no
+2400.0,3,204,3.5,Miraflores,Amoblado: Sin amoblar,,,no
+444.75,2,74,2,Chorrillos,,,,no
+1150.0,2,120,3,Miraflores,Amoblado: Sin amoblar,800,1,no
+2100.0,3,218,2,Miraflores,,,,no
+900.0,1,90,,Miraflores,,,,no
+444.75,1,53,,San Isidro,,,,no
+500.35,1,,1,Barranco,,,,no
+2100.0,3,190,2,Miraflores,,,,no
+2980.0,4,720,5,Chorrillos,,,,no
+528.14,2,,3,Santiago de Surco,,,,no
+654.0,1,37,1,Barranco,,,,no
+1400.0,3,160,2,San Isidro,Amoblado: Amoblado,,,no
+514.24,2,70,1,San Borja,,,,no
+720.0,1,64,1,Miraflores,Amoblado: Amoblado,180,,no
+472.55,3,68,2,San Miguel,,,,no
+639.33,2,75,2,Pueblo Libre,Amoblado: Amoblado,,,no
+1300.0,2,110,2,Miraflores,,,,no
+0.0,3,2,3,Miraflores,,,,no
+850.0,1,80,1,Miraflores,Amoblado: Amoblado,,,no
+2600.0,3,183,3,Miraflores,,,,no
+277.97,3,157,3,San Borja,,,,no
+1100.0,3,120,2,Miraflores,,,,no
+441.97,1,60,1,Miraflores,,,,no
+1400.0,2,143,3,Miraflores,Amoblado: Amoblado,580,,no
+2000.0,3,150,2,San Isidro,,,,no
+444.75,,40,,Lince,,,,no
+444.75,,40,,Lince,,,,no
+1100.0,4,,3,Santiago de Surco,,,,no
+639.33,3,,2,Jesus Maria,,,,no
+1500.0,3,209,2,Santiago de Surco,,,,no
+1000.0,3,110,2,Miraflores,,,,no
+138.99,2,20,1,San Juan de Miraflores,,,,no
+1200.0,3,96,2,Miraflores,,,,no
+472.55,4,,4,Los Olivos,,,,no
+2400.0,3,172,3,Miraflores,,,,no
+500.0,1,,1,Miraflores,,,,no
+1000.0,3,111,4,San Isidro,,,,no
+44475.2,2,55,1,Magdalena del Mar,,,,no
+850.0,3,,3,Miraflores,,,,no
+2000.0,3,190,2,Miraflores,,,,no
+694.93,3,105,3,Jesus Maria,,,,no
+1300.0,3,160,3,Miraflores,,,,no
+1350.0,3,145,4,Santiago de Surco,Amoblado: Semi-amoblado,,,si
+788.0,2,90,3,Santiago de Surco,,,,no
+900.0,3,125,2,Miraflores,Amoblado: Sin amoblar,,,no
+900.0,3,97,3,San Isidro,Amoblado: Sin amoblar,,,no
+2300.0,3,286,2,Santiago de Surco,,,,no
+555.94,3,90,2,La Molina,,,,no
+1300.0,3,134,3,Miraflores,,,,no
+600.0,1,55,1,Miraflores,,184,1,si
+590.0,,47,,Surquillo,,,,no
+528.14,1,,1,Miraflores,,,,no
+850.0,2,,2,Miraflores,,,,no
+358.58,1,40,1,San Borja,Amoblado: Amoblado,80,1,si
+850.0,3,110,3,Lince,,,,no
+990.0,3,108,2,Miraflores,,,,no
+650.0,3,158,,Breña,,,,no
+2900.0,3,200,3,Miraflores,,,,no
+250.17,1,,1,Miraflores,,,,no
+3500.0,3,461,3.5,San Isidro,Amoblado: Amoblado,,,no
+3100.0,3,255,3,San Isidro,,,,no
+800.0,2,72,2,Miraflores,,,,no
+2700.0,3,263,3.5,Santiago de Surco,Amoblado: Amoblado,,,no
+900.0,3,100,3,Miraflores,,,,no
+650.0,3,99,3,La Molina,Amoblado: Sin amoblar,,1,no
+4500.0,4,400,6,Santiago de Surco,Amoblado: Sin amoblar,,,no
+500.35,3,130,2,San Miguel,Amoblado: Sin amoblar,,1,no
+1000.0,3,70,2,Lince,Amoblado: Amoblado,230,,si
+550.0,2,150,1,La Molina,Amoblado: Sin amoblar,,,no
+1200.0,3,100,2,Miraflores,Amoblado: Amoblado,,,no
+639.33,2,87,2,Lince,,,,no
+1200.0,3,110,3,Miraflores,,,,no
+500.35,1,53,1,San Miguel,,,,no
+800.0,3,120,2,Santiago de Surco,,,,no
+1300.0,3,140,2,Miraflores,,,,no
+1400.0,3,188,2,Magdalena del Mar,,,,no
+950.0,3,95,2,San Isidro,,,,no
+583.74,3,75,2,San Borja,Amoblado: Sin amoblar,,,no
+600.0,2,85,3,La Molina,,,,no
+83.39,1,12,1,San Juan de Miraflores,,,,no
+4500.0,4,320,4,Barranco,,,,no
+900.0,3,97,2,San Borja,,,,no
+1600.0,3,147,3,Miraflores,Amoblado: Sin amoblar,,,no
+1500.0,3,120,3,San Isidro,,,,no
+305.77,2,50,1,Ate,,,,no
+700.0,3,110,2,Santiago de Surco,Amoblado: Sin amoblar,300,1,no
+2500.0,2,230,2,Cercado de Lima,,,,no
+800.0,3,116,1.5,Miraflores,Amoblado: Sin amoblar,240,,no
+1500.0,3,158,2.5,Miraflores,Amoblado: Sin amoblar,,,no
+1050.0,1,90,1,Miraflores,,,,no
+1500.0,3,140,3,Miraflores,Amoblado: Amoblado,,,no
+1250.0,3,135,2,Miraflores,,,,no
+1800.0,3,170,2,San Isidro,,,,no
+194.58,1,,1,Miraflores,,,,no
+1200.0,2,135,2,Miraflores,,,,no
+650.0,1,,1,Miraflores,,,,no
+430.85,2,,2,Ate,,,,no
+3500.0,4,414,4,Santiago de Surco,,,,no
+3500.0,4,411,4,Santiago de Surco,,,,no
+650.0,2,58,2,Surquillo,,,,no
+528.14,2,75,2,Santiago de Surco,Amoblado: Amoblado,,,si
+1200.0,3,157,3,Miraflores,,,,no
+2000.0,3,260,3,San Isidro,,,,no
+277.97,1,30,1,San Borja,,,,no
+2200.0,3,200,3,Miraflores,,,,no
+600.0,1,50,1,Miraflores,Amoblado: Amoblado,,,no
+2500.0,3,300,2,Miraflores,,,,no
+1000.0,3,96,2,,Amoblado: Sin amoblar,,,si
+2400.0,4,401,3,San Isidro,,,,no
+444.75,1,45,1,San Borja,,,,no
+1000.0,3,132,2,Miraflores,,,,no
+1900.0,3,292,3,Miraflores,,,,no
+2900.0,3,220,3,Miraflores,,,,no
+1500.0,3,150,3,San Isidro,Amoblado: Amoblado,,,no
+3000.0,3,290,3,San Isidro,,,,no
+4000.0,4,330,3,Barranco,,,,no
+555.94,2,96,2,La Molina,,,,no
+1000.0,,120,,San Borja,,,,no
+667.13,3,100,,Miraflores,,,,no
+770.0,3,132,3,Cercado de Lima,,,,no
+694.93,2,95,2,Surquillo,Amoblado: Amoblado,,,si
+2000.0,2,160,2.5,Santiago de Surco,Amoblado: Amoblado,503,,no
+2900.0,3,270,2,San Isidro,,,,no
+583.74,3,94,3,Pueblo Libre,Amoblado: Semi-amoblado,150,1,no
+889.5,3,82,2,San Miguel,,,,no
+850.0,3,91,2,San Isidro,,,,no
+4500.0,4,429,5,San Isidro,,,,no
+528.14,3,,3,San Borja,,,,no
+2000.0,3,160,3,Miraflores,,,,no
+1000.0,1,98,1,Miraflores,,,,no
+650.0,1,40,1,Miraflores,,,,no
+980.0,3,150,2,San Isidro,,,,no
+3000.0,3,330,4,Miraflores,,,,no
+444.75,3,,1,Santiago de Surco,,,,no
+900.0,2,69,1,Miraflores,,,,no
+500.0,1,46,1,San Isidro,,,,no
+400.0,1,60,1,Miraflores,,,,no
+750.0,2,80,2,Miraflores,Amoblado: Sin amoblar,,,no
+416.96,1,50,1,La Molina,Amoblado: Amoblado,,,si
+1130.0,3,122,2,Miraflores,Amoblado: Sin amoblar,,,no
+1050.0,3,110,4,Magdalena del Mar,,,,no
+389.16,2,74,2,San Miguel,Amoblado: Sin amoblar,,,no
+597.64,3,100,2,Lince,,,,no
+2200.0,3,170,2,San Isidro,,,,no
+1150.0,3,130,2,San Isidro,,,,no
+277.97,3,64,2,,Amoblado: Sin amoblar,,,no
+208.48,2,45,,San Juan de Lurigancho,,,,no
+1200.0,2,140,2,San Isidro,,,,no
+3350.0,3,250,3,San Isidro,,,,no
+850.0,2,110,3,Santiago de Surco,,,,no
+100.0,3,80,,Miraflores,Amoblado: Amoblado,,,no
+2200.0,3,167,2,San Isidro,,,,no
+800.0,2,,2,Miraflores,,,,no
+1200.0,3,120,2,Miraflores,,,,no
+1200.0,3,155,3,San Isidro,,,,no
+900.0,3,95,2,Santiago de Surco,Amoblado: Semi-amoblado,,,no
+1450.0,3,130,2,Miraflores,,,,no
+1200.0,3,145,2,Miraflores,,,,no
+1050.0,3,120,2,Miraflores,,,,no
+600.0,3,98,2,,Amoblado: Sin amoblar,,,si
+361.36,,60,,San Luis,,,,no
+850.0,2,80,2,San Isidro,,,,no
+2500.0,4,275,3,San Isidro,,,,no
+2300.0,3,250,3,San Isidro,,,,no
+1600.0,2,142,2,Miraflores,,,,no
+166.78,1,70,1,San Juan de Lurigancho,,,,no
+389.16,2,65,1,Cercado de Lima,Amoblado: Semi-amoblado,,,no
+555.94,3,65,2,Breña,,,,no
+1050.0,,120,2,Miraflores,,,,no
+50.0,1,55,1,Miraflores,Amoblado: Amoblado,,,no
+2500.0,3,331,3,Santiago de Surco,,,,no
+2400.0,3,240,3,San Isidro,,,,no
+3300.0,4,270,3,San Isidro,,,,no
+1500.0,3,150,2.5,San Isidro,Amoblado: Amoblado,450,,no
+2800.0,2,269,3,Miraflores,,,,no
+900.0,3,95,2,Santiago de Surco,Amoblado: Semi-amoblado,,,no
+2500.0,4,275,3,San Isidro,,,,no
+1300.0,2,85,3,Miraflores,Amoblado: Amoblado,,,no
+1000.0,3,111,4,San Isidro,,,,no
+2400.0,3,350,3,Miraflores,,,,no
+416.96,3,92,2,Chorrillos,,,,no
+653.23,3,74,2,Surquillo,,,,no
+1300.0,3,,3,San Isidro,,,,no
+700.0,2,,2,Miraflores,,,,no
+900.0,3,,2,San Isidro,,,,no
+2000.0,3,240,3.5,San Isidro,Amoblado: Sin amoblar,880,,no
+1250.87,2,130,3,Miraflores,Amoblado: Sin amoblar,,,no
+1100.0,3,,3,Miraflores,,,,no
+2000.0,3,230,4,San Isidro,,,,no
+528.14,2,,2,San Borja,,,,no
+850.0,5,,2,San Miguel,,,,no
+1260.0,3,255,3,Santiago de Surco,,,,no
+611.53,,95,,Santiago de Surco,,,,no
+1100.0,2,90,2,San Borja,,,,no
+1100.0,3,112,3,San Borja,Amoblado: Sin amoblar,,,si
+1200.0,2,120,2,Miraflores,,,,no
+667.13,2,91,3,Jesus Maria,,,,no
+277.97,2,70,,Chorrillos,,,,no
+1100.0,3,126,4,San Isidro,,,,no
+694.93,,100,,Santiago de Surco,,,,no
+2200.0,3,243,5,Miraflores,,,,no
+600.0,1,50,1,Barranco,Amoblado: Semi-amoblado,300,,no
+1800.0,3,215,3,Miraflores,,,,no
+1200.0,2,110,2,San Isidro,,,,no
+416.96,2,70,1,Lince,,,,no
+1300.0,1,70,1.5,Miraflores,Amoblado: Amoblado,,,no
+920.0,3,98,2,Miraflores,Amoblado: Amoblado,,,no
+2250.0,3,240,3,Miraflores,,,,no
+900.0,3,97,3,San Borja,Amoblado: Sin amoblar,,,no
+550.0,3,75,2,Surquillo,,,,no
+900.0,3,,3,San Isidro,,,,no
+900.0,1,78,2,Cercado de Lima,,,,no
+650.0,3,114,2,Santiago de Surco,Amoblado: Sin amoblar,200,,no
+750.0,4,120,2,Miraflores,,,,no
+2400.0,3,198,2,San Isidro,,,,no
+800.0,2,70,2,Miraflores,Amoblado: Amoblado,185,,no
+2300.0,3,185,3,San Isidro,,,,no
+2750.0,2,264,4,San Isidro,,,,no
+361.36,2,80,2,Cercado de Lima,Amoblado: Sin amoblar,,,no
+3000.0,5,500,4,Miraflores,,,,no
+639.33,2,95,3,San Isidro,Amoblado: Sin amoblar,295,1,no
+555.94,4,82,3,San Miguel,,,,no
+3000.0,3,320,3.5,San Isidro,Amoblado: Sin amoblar,1,,no
+2300.0,3,,3,Santiago de Surco,,,,no
+1800.0,3,190,2,San Isidro,,,,no
+917.3,2,80,2,Cercado de Lima,,,,no
+208.48,3,120,2,Carabayllo,,,,no
+3400.0,3,260,3,Barranco,,,,no
+700.0,2,95,1,Santiago de Surco,,,,no
+1400.0,3,151,3,San Isidro,,,,no
+694.93,3,110,2,San Miguel,,,,no
+1650.0,3,240,4,Santiago de Surco,,,,no
+2200.0,3,221,3,Miraflores,,,,no
+650.0,1,70,,Miraflores,,,,no
+1550.0,3,150,2.5,San Isidro,Amoblado: Sin amoblar,517,2,no
+639.33,3,,2,Jesus Maria,,,,no
+3500.0,3,330,3,Santiago de Surco,,,,no
+555.94,3,150,2,Surquillo,,,,no
+1100.0,1,75,1.5,Miraflores,Amoblado: Amoblado,,,no
+5300.0,3,400,5,San Isidro,,,,no
+900.0,2,85,3,Miraflores,,,,no
+670.0,,56,,Miraflores,,,,no
+1100.0,1,65,1,Miraflores,Amoblado: Amoblado,,,no
+3000.0,4,400,3,Barranco,,,,no
+694.93,3,105,2,La Molina,Amoblado: Semi-amoblado,,,si
+950.0,3,95,3,San Borja,Amoblado: Sin amoblar,270,,no
+1600.0,3,230,3,Santiago de Surco,,,,no
+7000.0,4,820,4.5,Miraflores,Amoblado: Sin amoblar,,,no
+1800.0,2,108,2,Miraflores,,,,no
+1700.0,2,136,3,Cercado de Lima,,,,no
+1000.0,2,90,2,Miraflores,,,,no
+1100.0,2,90,2,Miraflores,,,,no
+500.35,3,79,2,San Miguel,,,,no
+750.52,3,145,3,La Molina,,200,,no
+650.0,1,67,1,Miraflores,,,,no
+1150.0,3,112,2,Miraflores,Amoblado: Amoblado,,1,no
+500.0,2,,,Santiago de Surco,,,,no
+600.42,2,,2,Miraflores,,,,no
+264.07,3,100,1,El Agustino,Amoblado: Sin amoblar,,,si
+1300.0,2,105,2,Miraflores,,,,no
+2800.0,4,231,4,Miraflores,,,,no
+2200.0,3,180,2.5,San Isidro,Amoblado: Sin amoblar,750,,no
+208.48,1,20,1,La Molina,,,,no
+611.53,4,90,3,Surquillo,,,,no
+1200.0,4,103,4,Miraflores,,,,no
+2200.0,3,137,2,Santiago de Surco,,,,no
+2200.0,3,137,2,Santiago de Surco,,,,no
+2200.0,3,137,2,Santiago de Surco,,,,no
+1000.0,2,97,1,Miraflores,,,,no
+1650.0,3,154,2,San Isidro,Amoblado: Sin amoblar,,,no
+1900.0,4,325,4,San Borja,,,,no
+1200.0,1,,2,Miraflores,,,,no
+583.74,2,70,2,San Isidro,,,,no
+3500.0,3,450,4,Santiago de Surco,,,,no
+80.0,3,102,2,Miraflores,,,,no
+2500.0,4,275,3,San Isidro,,,,no
+667.13,3,120,3,San Borja,,,,no
+555.94,1,78,2,Miraflores,Amoblado: Sin amoblar,350,1,no
+1200.0,3,120,2,Miraflores,,,,no
+555.94,3,74,2,San Borja,,,,no
+1150.0,2,118,2,San Isidro,,,,no
+1300.0,4,300,3,San Borja,,,,no
+1300.0,6,240,3,,Amoblado: Sin amoblar,,,no
+1000.0,1,55,1.5,Barranco,Amoblado: Amoblado,,,no
+1350.0,3,150,2,San Isidro,,,,no
+3300.0,4,213,3.5,San Isidro,Amoblado: Amoblado,,,no
+222.38,,20,,Santiago de Surco,,,,no
+152.88,1,20,1,La Molina,,,,no
+1100.0,2,135,2,La Molina,,,,no
+1100.0,,90,,Miraflores,,,,no
+528.14,3,70,2,Santiago de Surco,,,,no
+528.14,2,75,2,Santiago de Surco,,,,no
+900.0,5,,5,Surquillo,,,,no
+650.0,1,58,1,Miraflores,Amoblado: Sin amoblar,180,,no
+416.96,1,40,1,Santiago de Surco,,,,no
+972.9,3,135,3,San Borja,Amoblado: Sin amoblar,,,no
+700.0,3,80,3,San Miguel,,,,no
+1800.0,4,300,4,Santiago de Surco,Amoblado: Sin amoblar,,,no
+2800.0,3,217,3,San Isidro,,,,no
+152.88,1,20,1,La Molina,,,,no
+2600.0,3,315,2,San Isidro,,,,no
+180.68,,20,,San Luis,,,,no
+1300.0,3,156,3,Miraflores,,,,no
+1390.0,4,150,4,San Isidro,,,,no
+1350.0,2,140,4,Miraflores,Amoblado: Sin amoblar,150,,no
+400.0,1,,1,San Borja,,,,no
+5000.0,4,343,4,Miraflores,,,,no
+2500.0,3,337,3,Miraflores,,,,no
+1000.0,2,100,3,Miraflores,,,,no
+1000.0,1,60,1,Cercado de Lima,,,,no
+472.55,1,34,1,Pueblo Libre,Amoblado: Amoblado,150,,no
+2600.0,3,240,3,San Isidro,,,,no
+450.0,1,70,1,Miraflores,,,,no
+900.0,3,95,3,Miraflores,Amoblado: Amoblado,150,1,no
+2500.0,3,230,3,Miraflores,,,,no
+2500.0,3,230,3,Miraflores,,,,no
+1200.0,3,100,2,Barranco,,,,no
+1000.0,3,124,2.5,Santiago de Surco,,,,no
+389.16,1,40,1,Santiago de Surco,,,,no
+500.0,2,70,1,Santiago de Surco,Amoblado: Sin amoblar,,,no
+500.0,2,70,1,Santiago de Surco,Amoblado: Sin amoblar,,,no
+583.74,2,110,2,San Juan de Miraflores,Amoblado: Amoblado,,,no
+1500.0,2,96,2,Barranco,,,,no
+800.0,2,120,3,Miraflores,,,,no
+1600.0,2,126,3,Miraflores,,,,no
+1500.0,3,200,2,San Isidro,,,,no
+7500.0,5,802,5,San Isidro,,,,no
+2500.0,4,275,3,San Isidro,,,,no
+1000.0,3,115,4,Magdalena del Mar,,,,no
+3300.0,3,372,3,San Isidro,,,,no
+3500.0,3,256,3.5,San Isidro,Amoblado: Sin amoblar,,,no
+1300.0,3,150,3,San Borja,,,,no
+600.0,1,45,1,Barranco,Amoblado: Amoblado,200,,no
+1200.0,,200,2,La Victoria,,,,no
+3200.0,4,450,4,San Isidro,,,,no
+4500.0,3,463,3,San Isidro,,,,no
+600.0,,110,2,La Victoria,,,,no
+555.94,,,2,Lince,,,,no
+750.0,1,45,1,Miraflores,,,,no
+305.77,3,60,2,San Martin de Porres,,,,no
+550.0,2,40,,Surquillo,,,,no
+500.35,3,,2,La Molina,,,,no
+600.0,2,70,2,San Isidro,,,,no
+236.27,,,1,Los Olivos,,,,no
+1300.0,3,206,2,Miraflores,,,,no
+361.36,2,802,2,Ate,Amoblado: Sin amoblar,,,no
+2200.0,3,225,2,San Isidro,,,,no
+430.85,3,125,2,Chorrillos,,,,no
+780.0,1,64,2,Miraflores,,,,no
+1250.0,3,170,2,Cercado de Lima,,,,no
+1000.0,3,111,4,San Isidro,,,,no
+472.55,2,70,2,San Miguel,,,,no
+2200.0,3,220,3,San Borja,,,,no
+1450.0,3,264,5,San Isidro,Amoblado: Semi-amoblado,,,no
+800.0,3,,2,Miraflores,,,,no
+1500.0,1,102,2,Santiago de Surco,,,,no
+1300.0,2,85,2,San Isidro,,,,no
+70.0,2,80,2,Miraflores,,,,no
+1300.0,3,135,3,Santiago de Surco,,,,no
+750.0,3,100,3,Miraflores,,180,,no
+750.0,3,99,2,Magdalena del Mar,Amoblado: Sin amoblar,150,,no
+3000.0,2,269,3,Miraflores,,,,no
+1100.0,2,,2,Miraflores,,,,no
+700.0,2,75,2,Barranco,Amoblado: Amoblado,350,1,no
+333.56,3,120,2,San Juan de Miraflores,,,,no
+3000.0,3,225,3,Miraflores,,,,no
+250.17,3,90,2,Ate,Amoblado: Sin amoblar,,,no
+806.11,3,108,2,Surquillo,Amoblado: Sin amoblar,,,no
+583.74,2,80,1,Santiago de Surco,Amoblado: Sin amoblar,200,,no
+1200.0,3,,2.5,Miraflores,Amoblado: Amoblado,260,,no
+750.0,3,92,2,,Amoblado: Sin amoblar,300,1,no
+850.0,1,55,1,Barranco,,,,no
+1500.0,3,150,3,San Isidro,Amoblado: Sin amoblar,,,no
+972.9,3,95,2,Miraflores,,,,no
+800.0,3,90,2,Jesus Maria,Amoblado: Amoblado,,,si
+2200.0,3,220,3,San Isidro,,,,no
+1500.0,3,125,2,Miraflores,Amoblado: Amoblado,,,no
+444.75,3,686,1,La Molina,Amoblado: Sin amoblar,,,no
+1200.0,2,90,2,Miraflores,,,,no
+694.93,4,100,3,Santiago de Surco,,,,no
+1800.0,3,120,3,Miraflores,,,,no
+2900.0,3,216,3,San Isidro,,,,no
+611.53,3,102,2,San Borja,Amoblado: Sin amoblar,450,,no
+2500.0,3,240,5,San Isidro,Amoblado: Semi-amoblado,800,,no
+28.35,2,110,2,Santa Maria del Mar,,,,no
+500.0,,80,,San Isidro,,,,no
+3000.0,4,240,3,San Isidro,,,,no
+2400.0,3,200,3,Miraflores,,,,no
+750.0,3,95,2,Magdalena del Mar,Amoblado: Sin amoblar,150,,no
+1200.0,3,145,3,La Molina,,,,no
+800.0,3,98,2,La Molina,,,,no
+750.0,3,98,2,Magdalena del Mar,Amoblado: Sin amoblar,180,,no
+600.0,3,100,1,San Miguel,Amoblado: Sin amoblar,100,,no
+208.48,1,20,1,La Molina,,,,no
+1100.0,2,100,3,Miraflores,,,,no
+1600.0,2,,2,Miraflores,,,,no
+800.0,3,123,2,Santiago de Surco,Amoblado: Sin amoblar,450,,no
+305.77,1,60,1,La Molina,Amoblado: Semi-amoblado,1,,no
+1500.0,3,,2,San Borja,,,,no
+277.97,3,78,1,,Amoblado: Sin amoblar,,,no
+138.99,1,45,1,Comas,,,,no
+700.0,3,80,2,Surquillo,Amoblado: Semi-amoblado,70,,no
+800.0,3,112,2,Miraflores,,,,no
+1200.0,3,145,3,Santiago de Surco,,,,no
+10000.0,4,625,4,Barranco,,,,no
+125.09,1,20,1,Cercado de Lima,,,,no
+4000.0,4,297,5,Miraflores,,,,no
+528.14,3,110,2,Santiago de Surco,,190,,no
+1200.0,3,250,2,San Borja,Amoblado: Semi-amoblado,190,,no
+500.35,2,72,2,Barranco,,,,no
+600.0,1,,1,Barranco,,,,no
+1700.0,2,85,3,San Isidro,,,,no
+4200.0,4,,4,Lurin,,,,no
+1100.0,3,117,2,Miraflores,Amoblado: Sin amoblar,374,,no
+3300.0,3,260,3,San Isidro,,,,no
+850.0,4,90,3,Miraflores,,,,no
+800.0,3,90,1,Miraflores,,,,no
+500.35,3,70,2,Breña,,,,no
+850.0,3,120,2,Lince,,,,no
+1800.0,3,142,2,Miraflores,,,,no
+1200.0,2,110,3,Miraflores,Amoblado: Amoblado,430,1,no
+800.0,4,,4,Lurin,,,,no
+400.0,1,,1,San Borja,,,,no
+1000.0,2,,2,San Isidro,,,,no
+389.16,,68,,Chorrillos,,,,no
+416.96,2,,2,Los Olivos,,,,no
+2200.0,3,185,2,Miraflores,,,,no
+138.99,1,71,1,Chosica,Amoblado: Sin amoblar,,,no
+2800.0,4,154,5,Santa Maria del Mar,Amoblado: Semi-amoblado,180,,no
+1700.0,3,150,3,Miraflores,,,,no
+900.0,3,124,3,Santiago de Surco,,,,no
+1200.0,3,150,4,Santiago de Surco,,,,no
+1000.0,,,,Miraflores,,,,no
+800.0,1,70,1,Barranco,,,,no
+355.8,3,125,1,Chorrillos,Amoblado: Semi-amoblado,,,no
+850.0,2,150,3,La Molina,,,,no
+900.0,3,132,4,Miraflores,,,,no
+2500.0,3,200,3,San Isidro,,,,no
+1250.0,3,110,3,Santiago de Surco,,,,no
+2000.0,3,215,4,Santiago de Surco,,,,no
+900.0,2,,,San Isidro,,,,no
+389.16,2,73,1,,Amoblado: Sin amoblar,60,,si
+1300.0,3,126,3,San Isidro,,,,no
+555.94,3,90,2,San Borja,,,,no
+500.35,1,40,1,San Isidro,Amoblado: Semi-amoblado,60,,no
+889.5,4,120,3,San Borja,Amoblado: Sin amoblar,60,,no
+550.0,2,80,2,Lince,,,,no
+1400.0,3,150,2,Santiago de Surco,,,,no
+800.0,,110,2,La Victoria,,,,no
+1800.0,3,250,4,San Borja,,1,2,no
+1800.0,3,200,3,Miraflores,,,,no
+1700.0,3,200,4,San Isidro,,,,no
+1700.0,3,200,4,San Isidro,,,,no
+194.58,1,30,1,San Juan de Miraflores,,,,no
+1850.0,3,200,4,San Isidro,,,,no
+1500.0,3,140,3,Miraflores,,,,no
+1800.0,4,350,4,Santiago de Surco,,,,no
+611.53,3,220,3,Santiago de Surco,Amoblado: Sin amoblar,,,no
+333.56,1,30,1,San Borja,,,,no
+333.56,1,26,1,San Borja,,,,no
+1000.0,2,93,2,Miraflores,,,,no
+250.17,3,73,2,Ate,Amoblado: Sin amoblar,,,no
+4500.0,4,380,4,San Isidro,,,,no
+208.48,7,25,3,Santiago de Surco,Amoblado: Amoblado,,,no
+800.0,3,76,2,Miraflores,,,,no
+1350.0,1,80,2,Miraflores,,,,no
+1350.0,1,80,2,Miraflores,,,,no
+1350.0,1,80,2,Miraflores,,,,no
+1350.0,1,80,2,Miraflores,,,,no
+83.39,1,35,1,El Agustino,Amoblado: Sin amoblar,,,si
+900.0,3,119,3,Miraflores,Amoblado: Sin amoblar,,,no
+4000.0,3,230,2,Miraflores,,,,no
+1800.0,3,185,3,Miraflores,Amoblado: Semi-amoblado,560,1,no
+2300.0,2,180,2,San Isidro,,,,no
+2500.0,3,350,3,Miraflores,,,,no
+700.0,3,95,2,Magdalena del Mar,Amoblado: Sin amoblar,150,,no
+1300.0,1,104,1,Santiago de Surco,,,,no
+416.96,3,108,2,Santiago de Surco,Amoblado: Sin amoblar,,,no
+1100.0,2,110,2,Miraflores,,,,no
+1100.0,2,125,2,San Isidro,,,,no
+277.97,2,77,2,Ate,Amoblado: Semi-amoblado,,,no
+305.77,2,92,1,San Martin de Porres,,,,no
+69492.5,1,45,1,San Miguel,Amoblado: Sin amoblar,,,no
+1000.0,1,,2,Miraflores,,,,no
+4500.0,4,320,5,Chorrillos,,,,no
+850.0,3,115,2,Santiago de Surco,,,,no
+850.0,3,115,2,Santiago de Surco,,,,no
+550.0,1,50,1,Miraflores,Amoblado: Amoblado,181,1,no
+250.17,3,55,1,Villa Maria del Triunfo,,,,no
+1300.0,3,167,2,Santiago de Surco,,,,no
+444.75,4,79,3,La Molina,Amoblado: Sin amoblar,,,no
+361.36,2,45,1,,Amoblado: Sin amoblar,,,no
+900.0,3,98,3,Magdalena del Mar,,,,no
+1100.0,3,97,3,Magdalena del Mar,,,,no
+2750.0,3,200,3,San Isidro,,,,no
+83.39,1,10,1,San Juan de Miraflores,,,,no
+1200.0,3,120,2,Barranco,,,,no
+1100.0,2,95,2,Miraflores,Amoblado: Amoblado,300,1,no
+800.0,2,85,2,Miraflores,,,,no
+194.58,3,64,2,Chosica,,,,no
+555.94,3,90,3,San Miguel,Amoblado: Semi-amoblado,120,,si
+600.0,3,78,2,Chorrillos,Amoblado: Sin amoblar,,,no
+5500.0,8,450,5,Miraflores,,,,no
+778.32,2,71,2,Santiago de Surco,Amoblado: Sin amoblar,,,no
+4000.0,4,380,3,Miraflores,,,,no
+361.36,1,58,1,Jesus Maria,,,,no
+1000.0,3,100,3,Miraflores,,,,no
+3800.0,3,200,3,San Isidro,,,,no
+1350.0,2,140,1,Cercado de Lima,Amoblado: Sin amoblar,1,,no
+1500.0,3,140,3,Miraflores,,,,no
+1400.0,3,,3,San Isidro,,,,no
+514.24,2,70,1,San Borja,,,,no
+444.75,3,70,2,Cercado de Lima,,,,no
+3500.0,3,480,4,Barranco,,,,no
+45.0,3,63,2,San Miguel,Amoblado: Amoblado,,,no
+1111.88,2,98,2,Miraflores,Amoblado: Amoblado,320,,no
+3200.0,4,450,4,San Isidro,,,,no
+700.0,3,140,3,Santiago de Surco,Amoblado: Sin amoblar,,,no
+1300.0,2,128,2,Miraflores,,,,no
+472.55,1,55,1,San Borja,,,,no
+900.0,2,120,2,Miraflores,,,,no
+2800.0,3,134,4,Santiago de Surco,Amoblado: Amoblado,,,no
+416.96,1,32,1,San Isidro,Amoblado: Sin amoblar,,,no
+333.56,2,70,1,Santiago de Surco,Amoblado: Sin amoblar,,,si
+580.0,2,95,2,San Borja,Amoblado: Sin amoblar,,,no
+416.96,3,98,2,Chorrillos,Amoblado: Sin amoblar,80,,no
+500.0,1,60,1,Miraflores,Amoblado: Sin amoblar,,,no
+500.0,1,19,1,Miraflores,,,,no
+1400.0,3,90,2,Lince,,,,no
+514.24,3,90,2,San Miguel,,,,no
+277.97,5,76,1,,,100,,no
+550.0,3,80,2,,Amoblado: Sin amoblar,,,no
+694.93,2,90,2,Lince,,,,no
+1400.0,3,90,2,Jesus Maria,,,,no
+1900.0,3,200,2,San Isidro,,,,no
+550.0,3,76,2,Magdalena del Mar,Amoblado: Amoblado,,,no
+1000.0,3,135,2,Santiago de Surco,,,,no
+3900.0,4,360,6,San Isidro,,,,no
+2000.0,2,168,1,San Isidro,,,,no
+500.0,2,65,1,Lince,Amoblado: Sin amoblar,,,no
+670.0,1,110,2,San Isidro,Amoblado: Amoblado,,,no
+800.0,3,80,2,Miraflores,,,,no
+1260.0,3,111,2,Santiago de Surco,,,,no
+1200.0,3,135,2,San Isidro,,,,no
+900.0,1,75,2,Miraflores,,,,no
+444.75,3,90,2,La Molina,Amoblado: Amoblado,,,no
+1400.0,3,89,2,Jesus Maria,,,,no
+1400.0,3,89,2,Lince,,,,no
+750.0,2,87,3,San Borja,Amoblado: Sin amoblar,,,no
+250.17,3,55,1,Villa Maria del Triunfo,,,,no
+1500.0,3,90,2,Jesus Maria,Amoblado: Sin amoblar,,,no
+1300.0,2,90,2,San Isidro,,,,no
+1100.0,2,125,1,Miraflores,,,,no
+1400.0,3,85,2,Jesus Maria,,,,no
+2500.0,4,250,4,Santiago de Surco,,,,no
+333.56,2,60,1,San Juan de Lurigancho,,,,no
+2800.0,3,264,3,Miraflores,,,,no
+416.96,3,120,2,La Molina,Amoblado: Sin amoblar,100,,si
+1110.0,2,,3,Cercado de Lima,,,,no
+540.0,1,55,1,Magdalena del Mar,,,,no
+3700.0,3,260,3,San Isidro,,,,no
+472.55,2,69,1,Surquillo,,,,no
+569.84,2,78,2,Santiago de Surco,Amoblado: Sin amoblar,200,,si
+389.16,3,72,2,San Miguel,Amoblado: Sin amoblar,200,,no
+900.0,3,103,3,Miraflores,,,,no
+1000.0,3,120,3,Miraflores,,,,no
+1100.0,3,120,4,San Borja,,,,no
+514.24,1,75,1,,Amoblado: Sin amoblar,,,no
+2600.0,3,250,4,Miraflores,,,,no
+236.27,3,65,2,San Martin de Porres,Amoblado: Sin amoblar,100,,no
+650.0,1,80,1,San Isidro,Amoblado: Sin amoblar,1,,no
+1000.0,2,107,3,Miraflores,,,,no
+444.75,1,50,1,San Miguel,Amoblado: Sin amoblar,190,,no
+917.3,3,92,2,San Borja,,,,no
+2000.0,3,158,3,Miraflores,,,,no
+1600.0,3,220,2,San Isidro,,,,no
+1600.0,3,220,2,San Isidro,,,,no
+700.0,2,90,2,La Molina,,,,no
+1600.0,3,220,2,San Isidro,,,,no
+1600.0,3,220,2,San Isidro,,,,no
+1600.0,3,220,2,San Isidro,,,,no
+1500.0,2,125,2,San Isidro,,,,no
+1800.0,2,200,3,Santiago de Surco,,,,no
+1100.0,2,110,2,San Isidro,,,,no
+900.0,1,,1,Miraflores,,,,no
+900.0,2,80,1,San Isidro,,,,no
+700.0,1,60,1,La Molina,,,,no
+416.96,2,100,1,San Miguel,Amoblado: Sin amoblar,20,,no
+650.0,2,88,2,La Molina,,,,no
+361.36,3,98,2,San Miguel,,,,no
+850.0,1,90,1,Miraflores,,,,no
+1200.0,3,,2,Miraflores,,,,no
+1500.0,2,110,2,Miraflores,,,,no
+694.93,2,95,2,San Isidro,Amoblado: Sin amoblar,200,,no
+2200.0,3,280,3,San Borja,,,,no
+528.14,4,100,2,,Amoblado: Sin amoblar,,,no
+1260.0,3,106,2,La Molina,,,,no
+1100.0,3,,2,Magdalena del Mar,,,,no
+472.55,3,80,2,La Molina,Amoblado: Sin amoblar,,,no
+1400.0,3,,4,Santiago de Surco,,,,no
+1600.0,2,90,,Miraflores,,,,no
+3000.0,2,269,2,Miraflores,,,,no
+1800.0,3,167,2,San Isidro,,,,no
+1200.0,1,85,1,San Isidro,,,,no
+1400.0,2,170,3,Miraflores,,,,no
+1500.0,3,90,2,Jesus Maria,,,,no
+900.0,1,65,1,Miraflores,,,,no
+2000.0,3,180,1,Miraflores,,,,no
+690.0,1,74,2,San Isidro,,,,no
+2200.0,3,200,2,Miraflores,,,,no
+0.0,3,,2,Surquillo,,,,no
+930.0,2,,2,Miraflores,,,,no
+528.14,3,75,2,San Miguel,Amoblado: Semi-amoblado,,,no
+277.97,1,40,1,San Borja,,,,no
+1100.0,2,104,2,Miraflores,,,,no
+1300.0,3,170,3,Santiago de Surco,,,,no
+361.36,3,88,1,San Juan de Miraflores,,,,no
+1800.0,3,210,4,Miraflores,,,,no
+500.35,3,100,,Santiago de Surco,Amoblado: Sin amoblar,50,,no
+22846.0,,1,,San Isidro,,,,no
+1200.0,1,,2,Miraflores,,,,no
+1500.0,2,97,3,Miraflores,,,,no
+2500.0,3,,3,Miraflores,,,,no
+2000.0,2,,3,Miraflores,,,,no
+833.91,1,,2,Cercado de Lima,,,,no
+2200.0,3,183,2,Miraflores,,,,no
+600.0,3,80,2,La Molina,,,,no
+1150.0,3,137,,San Borja,Amoblado: Sin amoblar,,,no
+1400.0,2,,2,Miraflores,,,,no
+1300.0,3,135,2,San Isidro,,,,no
+2000.0,4,,4,Santiago de Surco,,,,no
+180.68,1,20,,San Luis,,,,no
+900.0,,70,,San Isidro,Amoblado: Amoblado,,,no
+1800.0,4,230,3,San Isidro,,,,no
+1900.0,3,163,2,Miraflores,,,,no
+1200.0,1,98,1,Miraflores,,,,no
+850.0,1,116,1.5,Santiago de Surco,,,,no
+1300.0,3,135,3,Santiago de Surco,,,,no
+2500.0,3,,3,San Isidro,,,,no
+1000.0,1,,2,Miraflores,,,,no
+2350.0,3,265,4,Miraflores,,,,no
+694.93,3,,2,Magdalena del Mar,Amoblado: Amoblado,,,no
+633.77,3,,3,Cercado de Lima,,,,no
+2450.0,3,,2,Miraflores,,,,no
+2360.0,3,,,San Isidro,,,,no
+15000.0,,1,,Santiago de Surco,,,,no
+1600.0,3,130,3.5,San Isidro,,,,no
+1200.0,1,90,2,San Isidro,,,,no
+1100.0,3,,2,Miraflores,,,,no
+1200.0,,,4,Miraflores,,,,no
+3100.0,3,,,San Isidro,,,,no
+1000.0,1,,1,Miraflores,,,,no
+2000.0,3,,,San Isidro,,,,no
